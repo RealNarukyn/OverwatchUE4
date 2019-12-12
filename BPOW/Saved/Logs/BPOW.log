@@ -5162,3 +5162,1178 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.12.12-08.39.22:621][307]LogSavePackage: Moving '../../../../../../Users/alejandro.munoz/Desktop/AM/UnrealEngine/OverwatchUR4/BPOW/Saved/ShadowStep7BF4B2B34EE7099BAF1075BC43EEA29B.tmp' to '../../../../../../Users/alejandro.munoz/Desktop/AM/UnrealEngine/OverwatchUR4/BPOW/Content/FirstPersonBP/Blueprints/Abilities/Reaper/ShadowStep.uasset'
 [2019.12.12-08.39.25:694][653]LogUObjectHash: Compacting FUObjectHashTables data took   4.63ms
 [2019.12.12-08.39.26:178][653]LogSavePackage: Moving '../../../../../../Users/alejandro.munoz/Desktop/AM/UnrealEngine/OverwatchUR4/BPOW/Saved/FirstPersonExampleMap66ED46114656B93EF45AAABEB7A319D2.tmp' to '../../../../../../Users/alejandro.munoz/Desktop/AM/UnrealEngine/OverwatchUR4/BPOW/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2019.12.12-08.44.30:335][558]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2019.12.12-08.44.30:664][586]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2019.12.12-08.45.44:669][363]LogAssetEditorManager: Opening Asset editor for World /Game/IA_MAP.IA_MAP
+[2019.12.12-08.45.44:740][363]LogUObjectHash: Compacting FUObjectHashTables data took   6.22ms
+[2019.12.12-08.45.50:170][363]LogSlate: Window 'Save Content' being destroyed
+[2019.12.12-08.45.50:265][363]LogSavePackage: Moving '../../../../../../Users/alejandro.munoz/Desktop/AM/UnrealEngine/OverwatchUR4/BPOW/Saved/LevelWidgetEA1F0F344779240E01CB95BF713DBE54.tmp' to '../../../../../../Users/alejandro.munoz/Desktop/AM/UnrealEngine/OverwatchUR4/BPOW/Content/FirstPersonBP/Blueprints/HUD/LevelWidget.uasset'
+[2019.12.12-08.45.50:393][363]LogSavePackage: Moving '../../../../../../Users/alejandro.munoz/Desktop/AM/UnrealEngine/OverwatchUR4/BPOW/Saved/CapturePoint400D36E74E877CB3D7D5158EFB98C3E5.tmp' to '../../../../../../Users/alejandro.munoz/Desktop/AM/UnrealEngine/OverwatchUR4/BPOW/Content/FirstPersonBP/Blueprints/MapLogic/CapturePoint.uasset'
+[2019.12.12-08.45.50:398][363]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/IA_MAP" FILE="../../../../../../Users/alejandro.munoz/Desktop/AM/UnrealEngine/OverwatchUR4/BPOW/Content/IA_MAP.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.12.12-08.45.50:464][363]LogUObjectHash: Compacting FUObjectHashTables data took   3.44ms
+[2019.12.12-08.45.50:487][363]LogSavePackage: Moving '../../../../../../Users/alejandro.munoz/Desktop/AM/UnrealEngine/OverwatchUR4/BPOW/Saved/IA_MAPFEC55A974476C01F423425A52875EB4F.tmp' to '../../../../../../Users/alejandro.munoz/Desktop/AM/UnrealEngine/OverwatchUR4/BPOW/Content/IA_MAP.umap'
+[2019.12.12-08.45.50:490][363]LogFileHelpers: Saving map 'IA_MAP' took 0.093
+[2019.12.12-08.45.50:493][363]Cmd: MAP LOAD FILE="../../../../../../Users/alejandro.munoz/Desktop/AM/UnrealEngine/OverwatchUR4/BPOW/Content/IA_MAP.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.12.12-08.45.50:494][363]LightingResults: New page: Lighting Build
+[2019.12.12-08.45.50:494][363]LoadErrors: New page: Loading map: IA_MAP.umap
+[2019.12.12-08.45.50:495][363]MapCheck: New page: Map Check
+[2019.12.12-08.45.50:495][363]LightingResults: New page: Lighting Build
+[2019.12.12-08.45.50:534][363]LogUObjectHash: Compacting FUObjectHashTables data took   3.84ms
+[2019.12.12-08.45.50:535][363]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.12.12-08.45.50:535][363]LogAIModule: Creating AISystem for world IA_MAP
+[2019.12.12-08.45.50:573][363]LogUObjectHash: Compacting FUObjectHashTables data took   2.12ms
+[2019.12.12-08.45.50:617][363]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.12.12-08.45.50:618][363]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,358ms to complete.
+[2019.12.12-08.45.50:619][363]LogFileHelpers: Loading map 'IA_MAP' took 0.127
+[2019.12.12-08.45.54:642][833]LogAssetEditorManager: Opening Asset editor for World /Game/IA_MAP.IA_MAP
+[2019.12.12-08.45.54:676][833]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2019.12.12-08.45.54:677][833]Cmd: MAP LOAD FILE="../../../../../../Users/alejandro.munoz/Desktop/AM/UnrealEngine/OverwatchUR4/BPOW/Content/IA_MAP.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.12.12-08.45.54:677][833]LightingResults: New page: Lighting Build
+[2019.12.12-08.45.54:678][833]LoadErrors: New page: Loading map: IA_MAP.umap
+[2019.12.12-08.45.54:679][833]MapCheck: New page: Map Check
+[2019.12.12-08.45.54:679][833]LightingResults: New page: Lighting Build
+[2019.12.12-08.45.54:717][833]LogUObjectHash: Compacting FUObjectHashTables data took   3.05ms
+[2019.12.12-08.45.54:722][833]LogAIModule: Creating AISystem for world IA_MAP
+[2019.12.12-08.45.54:723][833]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.12.12-08.45.54:760][833]LogUObjectHash: Compacting FUObjectHashTables data took   2.53ms
+[2019.12.12-08.45.54:804][833]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.12.12-08.45.54:805][833]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,316ms to complete.
+[2019.12.12-08.45.54:806][833]LogFileHelpers: Loading map 'IA_MAP' took 0.129
+[2019.12.12-08.46.09:953][495]LogSlate: Window 'Unable to delete level' being destroyed
+[2019.12.12-08.46.29:987][881]LogLinker: Warning: Can't find file '/Game/StarterContent/Maps/StarterMap_BuiltData'
+[2019.12.12-08.46.29:988][881]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Maps/StarterMap_BuiltData' while loading NULL.
+[2019.12.12-08.46.30:244][881]LogLinker: Warning: Can't find file '/Game/StarterContent/Maps/StarterMap_BuiltData'
+[2019.12.12-08.46.30:245][881]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Maps/StarterMap_BuiltData' while loading NULL.
+[2019.12.12-08.46.30:314][881]LogLinker: Warning: Can't find file '/Game/StarterContent/Maps/StarterMap_BuiltData'
+[2019.12.12-08.46.30:314][881]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Maps/StarterMap_BuiltData' while loading NULL.
+[2019.12.12-08.46.30:315][881]LogLinker: Warning: Can't find file '/Game/StarterContent/Maps/StarterMap_BuiltData'
+[2019.12.12-08.46.30:315][881]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Maps/StarterMap_BuiltData' while loading NULL.
+[2019.12.12-08.46.30:510][881]LogLinker: Warning: Can't find file '/Game/StarterContent/Maps/StarterMap_BuiltData'
+[2019.12.12-08.46.30:510][881]LoadErrors: Failed to load /Game/StarterContent/Maps/StarterMap_BuiltData.StarterMap_BuiltData Referenced by PersistentLevel
+[2019.12.12-08.46.30:511][881]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Maps/StarterMap_BuiltData' while loading NULL.
+[2019.12.12-08.46.31:050][881]LogStaticMesh: Building static mesh Floor_400x400...
+[2019.12.12-08.46.31:057][881]LogBlueprintActionDatabase: Requesting refresh due to module change: MeshBuilder (loaded)
+[2019.12.12-08.46.31:058][881]LogStaticMesh: Built static mesh [0.01s] /Game/StarterContent/Architecture/Floor_400x400.Floor_400x400
+[2019.12.12-08.46.31:281][881]LogAIModule: Creating AISystem for world StarterMap
+[2019.12.12-08.46.31:310][881]LogAssetEditorManager: Opening Asset editor for World /Game/StarterContent/Maps/StarterMap.StarterMap
+[2019.12.12-08.46.31:357][881]LogUObjectHash: Compacting FUObjectHashTables data took   4.97ms
+[2019.12.12-08.46.31:359][881]Cmd: MAP LOAD FILE="../../../../../../Users/alejandro.munoz/Desktop/AM/UnrealEngine/OverwatchUR4/BPOW/Content/StarterContent/Maps/StarterMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.12.12-08.46.31:359][881]LightingResults: New page: Lighting Build
+[2019.12.12-08.46.31:360][881]LoadErrors: New page: Loading map: StarterMap.umap
+[2019.12.12-08.46.31:361][881]MapCheck: New page: Map Check
+[2019.12.12-08.46.31:361][881]LightingResults: New page: Lighting Build
+[2019.12.12-08.46.31:402][881]LogUObjectHash: Compacting FUObjectHashTables data took   3.79ms
+[2019.12.12-08.46.31:419][881]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.12.12-08.46.31:461][881]LogUObjectHash: Compacting FUObjectHashTables data took   2.77ms
+[2019.12.12-08.46.31:504][881]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.12.12-08.46.31:505][881]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,401ms to complete.
+[2019.12.12-08.46.31:505][881]LogFileHelpers: Loading map 'StarterMap' took 0.147
+[2019.12.12-08.47.07:400][ 88]LogLinker: Warning: Can't find file '/Game/StarterContent/Maps/Minimal_Default_BuiltData'
+[2019.12.12-08.47.07:401][ 88]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Maps/Minimal_Default_BuiltData' while loading NULL.
+[2019.12.12-08.47.07:406][ 88]LogLinker: Warning: Can't find file '/Game/StarterContent/Maps/Minimal_Default_BuiltData'
+[2019.12.12-08.47.07:407][ 88]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Maps/Minimal_Default_BuiltData' while loading NULL.
+[2019.12.12-08.47.07:412][ 88]LogLinker: Warning: Can't find file '/Game/StarterContent/Maps/Minimal_Default_BuiltData'
+[2019.12.12-08.47.07:413][ 88]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Maps/Minimal_Default_BuiltData' while loading NULL.
+[2019.12.12-08.47.07:413][ 88]LogLinker: Warning: Can't find file '/Game/StarterContent/Maps/Minimal_Default_BuiltData'
+[2019.12.12-08.47.07:414][ 88]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Maps/Minimal_Default_BuiltData' while loading NULL.
+[2019.12.12-08.47.07:429][ 88]LogLinker: Warning: Can't find file '/Game/StarterContent/Maps/Minimal_Default_BuiltData'
+[2019.12.12-08.47.07:429][ 88]LoadErrors: Failed to load /Game/StarterContent/Maps/Minimal_Default_BuiltData.Minimal_Default_BuiltData Referenced by PersistentLevel
+[2019.12.12-08.47.07:430][ 88]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Maps/Minimal_Default_BuiltData' while loading NULL.
+[2019.12.12-08.47.07:433][ 88]LogAIModule: Creating AISystem for world Minimal_Default
+[2019.12.12-08.47.07:437][ 88]LogAssetEditorManager: Opening Asset editor for World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
+[2019.12.12-08.47.07:519][ 88]LogUObjectHash: Compacting FUObjectHashTables data took   5.16ms
+[2019.12.12-08.47.07:520][ 88]Cmd: MAP LOAD FILE="../../../../../../Users/alejandro.munoz/Desktop/AM/UnrealEngine/OverwatchUR4/BPOW/Content/StarterContent/Maps/Minimal_Default.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.12.12-08.47.07:520][ 88]LightingResults: New page: Lighting Build
+[2019.12.12-08.47.07:521][ 88]LoadErrors: New page: Loading map: Minimal_Default.umap
+[2019.12.12-08.47.07:523][ 88]MapCheck: New page: Map Check
+[2019.12.12-08.47.07:524][ 88]LightingResults: New page: Lighting Build
+[2019.12.12-08.47.07:594][ 88]LogUObjectHash: Compacting FUObjectHashTables data took   4.12ms
+[2019.12.12-08.47.07:597][ 88]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.12.12-08.47.07:638][ 88]LogUObjectHash: Compacting FUObjectHashTables data took   2.61ms
+[2019.12.12-08.47.07:684][ 88]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.12.12-08.47.07:684][ 88]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,389ms to complete.
+[2019.12.12-08.47.07:684][ 88]LogFileHelpers: Loading map 'Minimal_Default' took 0.165
+[2019.12.12-08.47.08:706][181]LogLinker: Warning: Can't find file '/Game/StarterContent/Maps/Advanced_Lighting_BuiltData'
+[2019.12.12-08.47.08:707][181]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Maps/Advanced_Lighting_BuiltData' while loading NULL.
+[2019.12.12-08.47.08:722][181]LogLinker: Warning: Can't find file '/Game/StarterContent/Maps/Advanced_Lighting_BuiltData'
+[2019.12.12-08.47.08:723][181]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Maps/Advanced_Lighting_BuiltData' while loading NULL.
+[2019.12.12-08.47.08:733][181]LogLinker: Warning: Can't find file '/Game/StarterContent/Maps/Advanced_Lighting_BuiltData'
+[2019.12.12-08.47.08:733][181]LoadErrors: Failed to load /Game/StarterContent/Maps/Advanced_Lighting_BuiltData.Advanced_Lighting_BuiltData Referenced by PersistentLevel
+[2019.12.12-08.47.08:733][181]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Maps/Advanced_Lighting_BuiltData' while loading NULL.
+[2019.12.12-08.47.10:113][181]LogAIModule: Creating AISystem for world Advanced_Lighting
+[2019.12.12-08.47.10:169][181]LogAssetEditorManager: Opening Asset editor for World /Game/StarterContent/Maps/Advanced_Lighting.Advanced_Lighting
+[2019.12.12-08.47.10:209][181]LogUObjectHash: Compacting FUObjectHashTables data took   3.19ms
+[2019.12.12-08.47.10:210][181]Cmd: MAP LOAD FILE="../../../../../../Users/alejandro.munoz/Desktop/AM/UnrealEngine/OverwatchUR4/BPOW/Content/StarterContent/Maps/Advanced_Lighting.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.12.12-08.47.10:210][181]LightingResults: New page: Lighting Build
+[2019.12.12-08.47.10:211][181]LoadErrors: New page: Loading map: Advanced_Lighting.umap
+[2019.12.12-08.47.10:211][181]MapCheck: New page: Map Check
+[2019.12.12-08.47.10:212][181]LightingResults: New page: Lighting Build
+[2019.12.12-08.47.10:248][181]LogUObjectHash: Compacting FUObjectHashTables data took   2.88ms
+[2019.12.12-08.47.10:251][181]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.12.12-08.47.10:287][181]LogUObjectHash: Compacting FUObjectHashTables data took   2.51ms
+[2019.12.12-08.47.10:333][181]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.12.12-08.47.10:333][181]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,382ms to complete.
+[2019.12.12-08.47.10:333][181]LogFileHelpers: Loading map 'Advanced_Lighting' took 0.124
+[2019.12.12-08.47.10:506][184]LogRenderer: Warning: Gaussian DOF algorithm is deprecated and will be removed from deferred shading renderer. Consider using the Circle DOF method in post process settings.
+[2019.12.12-08.47.25:276][928]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2019.12.12-08.47.25:292][928]LogAssetEditorManager: Opening Asset editor for World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2019.12.12-08.47.25:329][928]LogUObjectHash: Compacting FUObjectHashTables data took   3.14ms
+[2019.12.12-08.47.25:330][928]Cmd: MAP LOAD FILE="../../../../../../Users/alejandro.munoz/Desktop/AM/UnrealEngine/OverwatchUR4/BPOW/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.12.12-08.47.25:330][928]LightingResults: New page: Lighting Build
+[2019.12.12-08.47.25:331][928]LoadErrors: New page: Loading map: FirstPersonExampleMap.umap
+[2019.12.12-08.47.25:332][928]MapCheck: New page: Map Check
+[2019.12.12-08.47.25:332][928]LightingResults: New page: Lighting Build
+[2019.12.12-08.47.25:372][928]LogUObjectHash: Compacting FUObjectHashTables data took   2.96ms
+[2019.12.12-08.47.25:380][928]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.12.12-08.47.25:417][928]LogUObjectHash: Compacting FUObjectHashTables data took   3.16ms
+[2019.12.12-08.47.25:461][928]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.12.12-08.47.25:461][928]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,365ms to complete.
+[2019.12.12-08.47.25:461][928]LogFileHelpers: Loading map 'FirstPersonExampleMap' took 0.132
+[2019.12.12-08.47.32:201][614]LogAssetEditorManager: Opening Asset editor for MapBuildDataRegistry /Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.FirstPersonExampleMap_BuiltData
+[2019.12.12-08.47.34:574][885]LogSlate: Window 'FirstPersonExampleMap_BuiltData' being destroyed
+[2019.12.12-08.47.34:578][885]LogSlate: Window 'FirstPersonExampleMap_BuiltData' being destroyed
+[2019.12.12-08.47.40:734][618]LogAIModule: Creating AISystem for world IA_MAP
+[2019.12.12-08.47.42:745][845]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2019.12.12-08.47.43:962][845]LogSlate: Window 'Delete Assets' being destroyed
+[2019.12.12-08.47.44:093][845]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2019.12.12-08.47.44:130][845]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2019.12.12-08.47.44:164][845]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2019.12.12-08.47.55:190][137]LogUObjectHash: Compacting FUObjectHashTables data took   3.15ms
+[2019.12.12-08.47.55:386][137]LogAIModule: Creating AISystem for world FirstPersonExampleMap_2
+[2019.12.12-08.48.02:459][964]LogBlueprintActionDatabase: Requesting refresh due to module change: HierarchicalLODUtilities (loaded)
+[2019.12.12-08.48.02:696][964]LogUObjectHash: Compacting FUObjectHashTables data took   4.16ms
+[2019.12.12-08.48.02:696][964]LogMetaData: Removing '/Game/FirstPersonBP/Maps/IA_MAP.SKEL_IA_MAP_C' ref from Metadata '/Game/FirstPersonBP/Maps/FirstPersonExampleMap_2.PackageMetaData'
+[2019.12.12-08.48.02:696][964]LogMetaData: Removing '/Game/FirstPersonBP/Maps/IA_MAP.IA_MAP_C' ref from Metadata '/Game/FirstPersonBP/Maps/FirstPersonExampleMap_2.PackageMetaData'
+[2019.12.12-08.48.02:780][964]LogUObjectHash: Compacting FUObjectHashTables data took   3.17ms
+[2019.12.12-08.48.03:132][964]LogSavePackage: Moving '../../../../../../Users/alejandro.munoz/Desktop/AM/UnrealEngine/OverwatchUR4/BPOW/Saved/IA_MAP1B8C5369421D3E3603A3AC83894C21B7.tmp' to '../../../../../../Users/alejandro.munoz/Desktop/AM/UnrealEngine/OverwatchUR4/BPOW/Content/FirstPersonBP/Maps/IA_MAP.umap'
+[2019.12.12-08.48.03:141][964]LogFileHelpers: Saving map 'IA_MAP' took 0.427
+[2019.12.12-08.48.03:319][964]LogUObjectHash: Compacting FUObjectHashTables data took   2.81ms
+[2019.12.12-08.48.03:358][964]LogUObjectHash: Compacting FUObjectHashTables data took   2.39ms
+[2019.12.12-08.48.03:393][964]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2019.12.12-08.48.04:379][ 26]LogAssetEditorManager: Opening Asset editor for World /Game/FirstPersonBP/Maps/IA_MAP.IA_MAP
+[2019.12.12-08.48.04:457][ 26]LogUObjectHash: Compacting FUObjectHashTables data took   3.87ms
+[2019.12.12-08.48.04:458][ 26]Cmd: MAP LOAD FILE="../../../../../../Users/alejandro.munoz/Desktop/AM/UnrealEngine/OverwatchUR4/BPOW/Content/FirstPersonBP/Maps/IA_MAP.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.12.12-08.48.04:458][ 26]LightingResults: New page: Lighting Build
+[2019.12.12-08.48.04:459][ 26]LoadErrors: New page: Loading map: IA_MAP.umap
+[2019.12.12-08.48.04:460][ 26]MapCheck: New page: Map Check
+[2019.12.12-08.48.04:460][ 26]LightingResults: New page: Lighting Build
+[2019.12.12-08.48.04:518][ 26]LogUObjectHash: Compacting FUObjectHashTables data took   3.92ms
+[2019.12.12-08.48.04:525][ 26]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.12.12-08.48.04:565][ 26]LogUObjectHash: Compacting FUObjectHashTables data took   3.04ms
+[2019.12.12-08.48.04:620][ 26]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.12.12-08.48.04:620][ 26]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,362ms to complete.
+[2019.12.12-08.48.04:621][ 26]LogFileHelpers: Loading map 'IA_MAP' took 0.164
+[2019.12.12-08.48.18:365][546]Cmd: DELETE
+[2019.12.12-08.48.18:365][546]Cmd: ACTOR DELETE
+[2019.12.12-08.48.18:455][546]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.12.12-08.48.18:456][546]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.12.12-08.48.18:457][546]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.12.12-08.48.18:494][546]LogUObjectHash: Compacting FUObjectHashTables data took   2.71ms
+[2019.12.12-08.48.18:495][546]LogEditorActor: Deleted 3 Actors (0.044 secs)
+[2019.12.12-08.48.23:763][170]Cmd: DELETE
+[2019.12.12-08.48.23:763][170]Cmd: ACTOR DELETE
+[2019.12.12-08.48.23:769][170]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.12.12-08.48.23:770][170]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.12.12-08.48.23:770][170]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.12.12-08.48.23:771][170]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.12.12-08.48.23:772][170]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.12.12-08.48.23:772][170]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.12.12-08.48.23:773][170]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.12.12-08.48.23:773][170]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.12.12-08.48.23:774][170]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.12.12-08.48.23:774][170]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.12.12-08.48.23:775][170]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.12.12-08.48.23:776][170]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.12.12-08.48.23:776][170]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.12.12-08.48.23:777][170]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.12.12-08.48.23:815][170]LogUObjectHash: Compacting FUObjectHashTables data took   2.64ms
+[2019.12.12-08.48.23:816][170]LogEditorActor: Deleted 14 Actors (0.053 secs)
+[2019.12.12-08.48.37:664][802]Cmd: DELETE
+[2019.12.12-08.48.37:664][802]Cmd: ACTOR DELETE
+[2019.12.12-08.48.37:669][802]LogEditorActor: Deleted Actor: Brush
+[2019.12.12-08.48.37:670][802]LogEditorActor: Deleted Actor: Brush
+[2019.12.12-08.48.37:670][802]LogEditorActor: Deleted Actor: Brush
+[2019.12.12-08.48.37:671][802]LogEditorActor: Deleted Actor: Brush
+[2019.12.12-08.48.37:707][802]LogUObjectHash: Compacting FUObjectHashTables data took   2.66ms
+[2019.12.12-08.48.37:800][802]LogEditorActor: Deleted 4 Actors (0.136 secs)
+[2019.12.12-08.48.47:729][985]Cmd: DELETE
+[2019.12.12-08.48.47:729][985]Cmd: ACTOR DELETE
+[2019.12.12-08.48.47:733][985]LogEditorActor: Deleted Actor: CapturePoint_C
+[2019.12.12-08.48.47:734][985]LogEditorActor: Deleted Actor: CapturePoint_C
+[2019.12.12-08.48.47:735][985]LogEditorActor: Deleted Actor: Brush
+[2019.12.12-08.48.47:736][985]LogEditorActor: Deleted Actor: Brush
+[2019.12.12-08.48.47:736][985]LogEditorActor: Deleted Actor: Brush
+[2019.12.12-08.48.47:774][985]LogUObjectHash: Compacting FUObjectHashTables data took   2.93ms
+[2019.12.12-08.48.47:776][985]LogEditorActor: Deleted 5 Actors (0.048 secs)
+[2019.12.12-08.48.53:846][702]Cmd: DELETE
+[2019.12.12-08.48.53:846][702]Cmd: ACTOR DELETE
+[2019.12.12-08.48.53:848][702]LogEditorActor: Deleted Actor: SpawnProjectiles_C
+[2019.12.12-08.48.53:885][702]LogUObjectHash: Compacting FUObjectHashTables data took   2.45ms
+[2019.12.12-08.48.53:886][702]LogEditorActor: Deleted 1 Actors (0.040 secs)
+[2019.12.12-08.48.56:976][ 66]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2019.12.12-08.48.57:444][118]LogEditorViewport: Clicking on Actor (LMB): LightmassImportanceVolume (LightmassImportanceVolume)
+[2019.12.12-08.49.00:032][419]LogEditorViewport: Clicking on Actor (LMB): LightmassImportanceVolume (LightmassImportanceVolume)
+[2019.12.12-08.49.00:447][467]LogEditorViewport: Clicking on Actor (LMB): LightmassImportanceVolume (LightmassImportanceVolume)
+[2019.12.12-08.49.01:422][582]LogEditorViewport: Clicking on Actor (LMB): PostProcessVolume (PostProcessVolume)
+[2019.12.12-08.49.01:835][582]LogEditorViewport: Clicking on Actor (double click): PostProcessVolume (PostProcessVolume)
+[2019.12.12-08.49.02:180][614]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2019.12.12-08.49.04:769][912]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.12-08.49.07:956][286]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2019.12.12-08.49.08:290][324]LogEditorViewport: Clicking on Actor (LMB): PostProcessVolume (PostProcessVolume)
+[2019.12.12-08.49.08:564][349]LogEditorViewport: Clicking on Actor (double click): PostProcessVolume (PostProcessVolume)
+[2019.12.12-08.49.09:328][440]LogEditorViewport: Clicking on Actor (LMB): LightmassImportanceVolume (LightmassImportanceVolume)
+[2019.12.12-08.49.11:407][684]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.12-08.49.18:230][501]LogEditorViewport: Clicking on Actor (LMB): PostProcessVolume (PostProcessVolume)
+[2019.12.12-08.49.19:726][672]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.12-08.49.53:836][745]Cmd: TRANSACTION UNDO
+[2019.12.12-08.49.53:836][745]LogEditorTransaction: Undo Scale Actors
+[2019.12.12-08.50.08:278][462]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.12-08.50.11:387][834]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2019.12.12-08.50.17:497][557]Cmd: TRANSACTION UNDO
+[2019.12.12-08.50.17:497][557]LogEditorTransaction: Undo Move Actors
+[2019.12.12-08.50.18:329][647]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2019.12.12-08.50.18:871][710]LogEditorViewport: Clicking on Actor (LMB): LightmassImportanceVolume (LightmassImportanceVolume)
+[2019.12.12-08.50.41:837][445]Cmd: TRANSACTION UNDO
+[2019.12.12-08.50.41:837][445]LogEditorTransaction: Undo Move Actors
+[2019.12.12-08.50.48:725][260]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.12-08.51.01:182][730]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.12-08.51.16:246][505]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2019.12.12-08.51.17:606][661]LogEditorViewport: Clicking on Actor (LMB): PostProcessVolume (PostProcessVolume)
+[2019.12.12-08.51.26:199][680]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2019.12.12-08.51.28:431][940]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.12-08.51.37:002][965]Cmd: DELETE
+[2019.12.12-08.51.37:002][965]Cmd: ACTOR DELETE
+[2019.12.12-08.51.37:043][965]LogUObjectHash: Compacting FUObjectHashTables data took   2.60ms
+[2019.12.12-08.51.37:044][965]LogEditorActor: Deleted 0 Actors (0.042 secs)
+[2019.12.12-08.52.01:425][866]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.12-08.52.08:456][701]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2019.12.12-08.52.12:495][176]Cmd: TRANSACTION UNDO
+[2019.12.12-08.52.12:495][176]LogEditorTransaction: Undo Scale Actors
+[2019.12.12-08.52.13:915][336]LogEditorViewport: Clicking on Actor (LMB): PostProcessVolume (PostProcessVolume)
+[2019.12.12-08.53.05:761][505]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2019.12.12-08.53.07:434][699]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2019.12.12-08.53.07:985][761]LogEditorViewport: Clicking on Actor (LMB): PostProcessVolume (PostProcessVolume)
+[2019.12.12-08.56.48:192][170]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.12-08.56.51:926][618]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.12-08.56.51:958][618]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/IA_MAP.IA_MAP:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/IA_MAP.IA_MAP:PersistentLevel.IA_MAP' with GeneratedClass '/Game/FirstPersonBP/Maps/IA_MAP.IA_MAP_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/IA_MAP.IA_MAP:PersistentLevel.IA_MAP'
+[2019.12.12-08.56.51:958][618]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.12-08.56.51:958][618]PIE: New page: PIE session: IA_MAP (12/12/2019 10:56:51)
+[2019.12.12-08.56.51:958][618]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_IA_MAP
+[2019.12.12-08.56.51:970][618]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010555s)
+[2019.12.12-08.56.51:970][618]LogAIModule: Creating AISystem for world IA_MAP
+[2019.12.12-08.56.51:970][618]LogPlayLevel: PIE: World Init took: (0.000675s)
+[2019.12.12-08.56.51:970][618]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/IA_MAP.IA_MAP to /Game/FirstPersonBP/Maps/UEDPIE_0_IA_MAP.IA_MAP (0.011970s)
+[2019.12.12-08.56.52:008][618]LogUObjectHash: Compacting FUObjectHashTables data took   2.25ms
+[2019.12.12-08.56.52:021][618]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.12.12-08.56.52:038][618]LogInit: FAudioDevice initialized.
+[2019.12.12-08.56.52:069][618]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.12.12-08.56.52:070][618]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_IA_MAP.IA_MAP up for play (max tick rate 0) at 2019.12.12-09.56.52
+[2019.12.12-08.56.52:070][618]LogWorld: Bringing up level for play took: 0.000620
+[2019.12.12-08.56.52:086][618]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_IA_MAP -0,641
+[2019.12.12-08.56.52:087][618]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/IA_MAP.IA_MAP:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/IA_MAP.IA_MAP:PersistentLevel.IA_MAP' with GeneratedClass '/Game/FirstPersonBP/Maps/IA_MAP.IA_MAP_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/IA_MAP.IA_MAP:PersistentLevel.IA_MAP'
+[2019.12.12-08.57.00:232][592]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/IA_MAP.IA_MAP:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/IA_MAP.IA_MAP:PersistentLevel.IA_MAP' with GeneratedClass '/Game/FirstPersonBP/Maps/IA_MAP.IA_MAP_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/IA_MAP.IA_MAP:PersistentLevel.IA_MAP'
+[2019.12.12-08.57.00:232][592]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.12-08.57.00:263][592]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.12-08.57.00:263][592]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/IA_MAP.IA_MAP:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/IA_MAP.IA_MAP:PersistentLevel.IA_MAP' with GeneratedClass '/Game/FirstPersonBP/Maps/IA_MAP.IA_MAP_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/IA_MAP.IA_MAP:PersistentLevel.IA_MAP'
+[2019.12.12-08.57.00:300][592]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.12-08.57.00:307][592]LogUObjectHash: Compacting FUObjectHashTables data took   2.11ms
+[2019.12.12-08.57.00:349][594]LogPlayLevel: Display: Destroying online subsystem :Context_44
+[2019.12.12-08.57.03:536][699]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.12-08.57.15:476][ 39]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/FirstPersonBP/Blueprints/Shoots/Shotgun.Shotgun
+[2019.12.12-09.03.21:412][233]LogEditorTransaction: Undo Delete current selection
+[2019.12.12-09.04.27:089][ 16]LogEditorTransaction: Undo Move Node
+[2019.12.12-09.04.37:717][272]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.12-09.04.37:746][272]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/IA_MAP.IA_MAP:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/IA_MAP.IA_MAP:PersistentLevel.IA_MAP' with GeneratedClass '/Game/FirstPersonBP/Maps/IA_MAP.IA_MAP_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/IA_MAP.IA_MAP:PersistentLevel.IA_MAP'
+[2019.12.12-09.04.37:746][272]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.12.12-09.04.37:747][272]LogPlayLevel: [PlayLevel] Compiling Shotgun before play...
+[2019.12.12-09.04.37:991][272]LogUObjectHash: Compacting FUObjectHashTables data took   4.02ms
+[2019.12.12-09.04.37:991][272]LogPlayLevel: PlayLevel: Blueprint regeneration took 244 ms (1 blueprints)
+[2019.12.12-09.04.37:991][272]PIE: New page: PIE session: IA_MAP (12/12/2019 11:04:37)
+[2019.12.12-09.04.37:991][272]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_IA_MAP
+[2019.12.12-09.04.38:003][272]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011095s)
+[2019.12.12-09.04.38:003][272]LogAIModule: Creating AISystem for world IA_MAP
+[2019.12.12-09.04.38:003][272]LogPlayLevel: PIE: World Init took: (0.000669s)
+[2019.12.12-09.04.38:003][272]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/IA_MAP.IA_MAP to /Game/FirstPersonBP/Maps/UEDPIE_0_IA_MAP.IA_MAP (0.012208s)
+[2019.12.12-09.04.38:044][272]LogUObjectHash: Compacting FUObjectHashTables data took   2.64ms
+[2019.12.12-09.04.38:058][272]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.12.12-09.04.38:074][272]LogInit: FAudioDevice initialized.
+[2019.12.12-09.04.38:080][272]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.12-09.04.38:111][272]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.12.12-09.04.38:112][272]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_IA_MAP.IA_MAP up for play (max tick rate 0) at 2019.12.12-10.04.38
+[2019.12.12-09.04.38:112][272]LogWorld: Bringing up level for play took: 0.000843
+[2019.12.12-09.04.38:131][272]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_IA_MAP 1,388
+[2019.12.12-09.04.38:131][272]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/IA_MAP.IA_MAP:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/IA_MAP.IA_MAP:PersistentLevel.IA_MAP' with GeneratedClass '/Game/FirstPersonBP/Maps/IA_MAP.IA_MAP_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/IA_MAP.IA_MAP:PersistentLevel.IA_MAP'
+[2019.12.12-09.04.43:931][862]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/IA_MAP.IA_MAP:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/IA_MAP.IA_MAP:PersistentLevel.IA_MAP' with GeneratedClass '/Game/FirstPersonBP/Maps/IA_MAP.IA_MAP_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/IA_MAP.IA_MAP:PersistentLevel.IA_MAP'
+[2019.12.12-09.04.43:932][862]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.12-09.04.43:955][862]LogSlate: Window 'BPOW Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.12.12-09.04.43:986][862]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.12-09.04.43:987][862]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/IA_MAP.IA_MAP:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/IA_MAP.IA_MAP:PersistentLevel.IA_MAP' with GeneratedClass '/Game/FirstPersonBP/Maps/IA_MAP.IA_MAP_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/IA_MAP.IA_MAP:PersistentLevel.IA_MAP'
+[2019.12.12-09.04.44:034][862]LogUObjectHash: Compacting FUObjectHashTables data took   2.23ms
+[2019.12.12-09.04.44:059][863]LogPlayLevel: Display: Destroying online subsystem :Context_46
+[2019.12.12-09.04.53:300][971]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.12-09.04.53:328][971]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/IA_MAP.IA_MAP:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/IA_MAP.IA_MAP:PersistentLevel.IA_MAP' with GeneratedClass '/Game/FirstPersonBP/Maps/IA_MAP.IA_MAP_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/IA_MAP.IA_MAP:PersistentLevel.IA_MAP'
+[2019.12.12-09.04.53:328][971]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.12.12-09.04.53:329][971]LogPlayLevel: [PlayLevel] Compiling Shotgun before play...
+[2019.12.12-09.04.53:571][971]LogUObjectHash: Compacting FUObjectHashTables data took   3.80ms
+[2019.12.12-09.04.53:571][971]LogPlayLevel: PlayLevel: Blueprint regeneration took 242 ms (1 blueprints)
+[2019.12.12-09.04.53:571][971]PIE: New page: PIE session: IA_MAP (12/12/2019 11:04:53)
+[2019.12.12-09.04.53:571][971]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_IA_MAP
+[2019.12.12-09.04.53:582][971]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010743s)
+[2019.12.12-09.04.53:583][971]LogAIModule: Creating AISystem for world IA_MAP
+[2019.12.12-09.04.53:583][971]LogPlayLevel: PIE: World Init took: (0.000656s)
+[2019.12.12-09.04.53:583][971]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/IA_MAP.IA_MAP to /Game/FirstPersonBP/Maps/UEDPIE_0_IA_MAP.IA_MAP (0.011534s)
+[2019.12.12-09.04.53:620][971]LogUObjectHash: Compacting FUObjectHashTables data took   2.18ms
+[2019.12.12-09.04.53:634][971]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.12.12-09.04.53:650][971]LogInit: FAudioDevice initialized.
+[2019.12.12-09.04.53:656][971]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.12-09.04.53:686][971]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.12.12-09.04.53:687][971]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_IA_MAP.IA_MAP up for play (max tick rate 0) at 2019.12.12-10.04.53
+[2019.12.12-09.04.53:687][971]LogWorld: Bringing up level for play took: 0.000731
+[2019.12.12-09.04.53:704][971]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_IA_MAP 0,962
+[2019.12.12-09.04.53:705][971]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/IA_MAP.IA_MAP:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/IA_MAP.IA_MAP:PersistentLevel.IA_MAP' with GeneratedClass '/Game/FirstPersonBP/Maps/IA_MAP.IA_MAP_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/IA_MAP.IA_MAP:PersistentLevel.IA_MAP'
+[2019.12.12-09.04.59:107][616]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/IA_MAP.IA_MAP:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/IA_MAP.IA_MAP:PersistentLevel.IA_MAP' with GeneratedClass '/Game/FirstPersonBP/Maps/IA_MAP.IA_MAP_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/IA_MAP.IA_MAP:PersistentLevel.IA_MAP'
+[2019.12.12-09.04.59:107][616]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.12-09.04.59:131][616]LogSlate: Window 'BPOW Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.12.12-09.04.59:167][616]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.12-09.04.59:168][616]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/IA_MAP.IA_MAP:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/IA_MAP.IA_MAP:PersistentLevel.IA_MAP' with GeneratedClass '/Game/FirstPersonBP/Maps/IA_MAP.IA_MAP_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/IA_MAP.IA_MAP:PersistentLevel.IA_MAP'
+[2019.12.12-09.04.59:216][616]LogUObjectHash: Compacting FUObjectHashTables data took   2.17ms
+[2019.12.12-09.04.59:238][617]LogPlayLevel: Display: Destroying online subsystem :Context_47
+[2019.12.12-09.05.04:927][299]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.12-09.05.04:954][299]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/IA_MAP.IA_MAP:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/IA_MAP.IA_MAP:PersistentLevel.IA_MAP' with GeneratedClass '/Game/FirstPersonBP/Maps/IA_MAP.IA_MAP_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/IA_MAP.IA_MAP:PersistentLevel.IA_MAP'
+[2019.12.12-09.05.04:954][299]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.12.12-09.05.04:955][299]LogPlayLevel: [PlayLevel] Compiling Shotgun before play...
+[2019.12.12-09.05.05:198][299]LogUObjectHash: Compacting FUObjectHashTables data took   3.72ms
+[2019.12.12-09.05.05:198][299]LogPlayLevel: PlayLevel: Blueprint regeneration took 243 ms (1 blueprints)
+[2019.12.12-09.05.05:198][299]PIE: New page: PIE session: IA_MAP (12/12/2019 11:05:05)
+[2019.12.12-09.05.05:198][299]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_IA_MAP
+[2019.12.12-09.05.05:207][299]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009230s)
+[2019.12.12-09.05.05:208][299]LogAIModule: Creating AISystem for world IA_MAP
+[2019.12.12-09.05.05:208][299]LogPlayLevel: PIE: World Init took: (0.000634s)
+[2019.12.12-09.05.05:208][299]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/IA_MAP.IA_MAP to /Game/FirstPersonBP/Maps/UEDPIE_0_IA_MAP.IA_MAP (0.009999s)
+[2019.12.12-09.05.05:250][299]LogUObjectHash: Compacting FUObjectHashTables data took   2.21ms
+[2019.12.12-09.05.05:262][299]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.12.12-09.05.05:277][299]LogInit: FAudioDevice initialized.
+[2019.12.12-09.05.05:283][299]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.12-09.05.05:319][299]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.12.12-09.05.05:320][299]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_IA_MAP.IA_MAP up for play (max tick rate 0) at 2019.12.12-10.05.05
+[2019.12.12-09.05.05:320][299]LogWorld: Bringing up level for play took: 0.000647
+[2019.12.12-09.05.05:337][299]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_IA_MAP 0,595
+[2019.12.12-09.05.05:338][299]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/IA_MAP.IA_MAP:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/IA_MAP.IA_MAP:PersistentLevel.IA_MAP' with GeneratedClass '/Game/FirstPersonBP/Maps/IA_MAP.IA_MAP_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/IA_MAP.IA_MAP:PersistentLevel.IA_MAP'
+[2019.12.12-09.05.07:645][561]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/IA_MAP.IA_MAP:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/IA_MAP.IA_MAP:PersistentLevel.IA_MAP' with GeneratedClass '/Game/FirstPersonBP/Maps/IA_MAP.IA_MAP_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/IA_MAP.IA_MAP:PersistentLevel.IA_MAP'
+[2019.12.12-09.05.07:645][561]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.12-09.05.07:669][561]LogSlate: Window 'BPOW Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.12.12-09.05.07:701][561]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.12-09.05.07:701][561]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/IA_MAP.IA_MAP:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/IA_MAP.IA_MAP:PersistentLevel.IA_MAP' with GeneratedClass '/Game/FirstPersonBP/Maps/IA_MAP.IA_MAP_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/IA_MAP.IA_MAP:PersistentLevel.IA_MAP'
+[2019.12.12-09.05.07:749][561]LogUObjectHash: Compacting FUObjectHashTables data took   2.32ms
+[2019.12.12-09.05.07:768][562]LogPlayLevel: Display: Destroying online subsystem :Context_48
+[2019.12.12-09.05.11:943][983]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.12-09.05.11:970][983]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/IA_MAP.IA_MAP:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/IA_MAP.IA_MAP:PersistentLevel.IA_MAP' with GeneratedClass '/Game/FirstPersonBP/Maps/IA_MAP.IA_MAP_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/IA_MAP.IA_MAP:PersistentLevel.IA_MAP'
+[2019.12.12-09.05.11:970][983]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.12.12-09.05.11:971][983]LogPlayLevel: [PlayLevel] Compiling Shotgun before play...
+[2019.12.12-09.05.12:216][983]LogUObjectHash: Compacting FUObjectHashTables data took   4.32ms
+[2019.12.12-09.05.12:216][983]LogPlayLevel: PlayLevel: Blueprint regeneration took 245 ms (1 blueprints)
+[2019.12.12-09.05.12:216][983]PIE: New page: PIE session: IA_MAP (12/12/2019 11:05:12)
+[2019.12.12-09.05.12:216][983]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_IA_MAP
+[2019.12.12-09.05.12:225][983]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008915s)
+[2019.12.12-09.05.12:226][983]LogAIModule: Creating AISystem for world IA_MAP
+[2019.12.12-09.05.12:226][983]LogPlayLevel: PIE: World Init took: (0.000732s)
+[2019.12.12-09.05.12:226][983]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/IA_MAP.IA_MAP to /Game/FirstPersonBP/Maps/UEDPIE_0_IA_MAP.IA_MAP (0.009781s)
+[2019.12.12-09.05.12:267][983]LogUObjectHash: Compacting FUObjectHashTables data took   2.16ms
+[2019.12.12-09.05.12:279][983]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.12.12-09.05.12:295][983]LogInit: FAudioDevice initialized.
+[2019.12.12-09.05.12:301][983]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.12-09.05.12:332][983]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.12.12-09.05.12:333][983]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_IA_MAP.IA_MAP up for play (max tick rate 0) at 2019.12.12-10.05.12
+[2019.12.12-09.05.12:333][983]LogWorld: Bringing up level for play took: 0.000942
+[2019.12.12-09.05.12:350][983]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_IA_MAP -0,393
+[2019.12.12-09.05.12:351][983]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/IA_MAP.IA_MAP:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/IA_MAP.IA_MAP:PersistentLevel.IA_MAP' with GeneratedClass '/Game/FirstPersonBP/Maps/IA_MAP.IA_MAP_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/IA_MAP.IA_MAP:PersistentLevel.IA_MAP'
+[2019.12.12-09.05.24:826][469]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/IA_MAP.IA_MAP:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/IA_MAP.IA_MAP:PersistentLevel.IA_MAP' with GeneratedClass '/Game/FirstPersonBP/Maps/IA_MAP.IA_MAP_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/IA_MAP.IA_MAP:PersistentLevel.IA_MAP'
+[2019.12.12-09.05.24:826][469]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.12-09.05.24:849][469]LogSlate: Window 'BPOW Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.12.12-09.05.24:883][469]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.12-09.05.24:884][469]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/IA_MAP.IA_MAP:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/IA_MAP.IA_MAP:PersistentLevel.IA_MAP' with GeneratedClass '/Game/FirstPersonBP/Maps/IA_MAP.IA_MAP_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/IA_MAP.IA_MAP:PersistentLevel.IA_MAP'
+[2019.12.12-09.05.24:931][469]LogUObjectHash: Compacting FUObjectHashTables data took   2.15ms
+[2019.12.12-09.05.24:951][470]LogPlayLevel: Display: Destroying online subsystem :Context_49
+[2019.12.12-09.05.30:290][ 41]LogSavePackage: Moving '../../../../../../Users/alejandro.munoz/Desktop/AM/UnrealEngine/OverwatchUR4/BPOW/Saved/ShotgunBFDEABE54E284DBEE5B0EEAEA55D6623.tmp' to '../../../../../../Users/alejandro.munoz/Desktop/AM/UnrealEngine/OverwatchUR4/BPOW/Content/FirstPersonBP/Blueprints/Shoots/Shotgun.uasset'
+[2019.12.12-09.05.54:861][979]LogUObjectHash: Compacting FUObjectHashTables data took   3.63ms
+[2019.12.12-09.05.55:204][979]LogSavePackage: Moving '../../../../../../Users/alejandro.munoz/Desktop/AM/UnrealEngine/OverwatchUR4/BPOW/Saved/IA_MAP_Auto3B866A3B2437604D594BFB495DD84F0C5.tmp' to '../../../../../../Users/alejandro.munoz/Desktop/AM/UnrealEngine/OverwatchUR4/BPOW/Saved/Autosaves/Game/FirstPersonBP/Maps/IA_MAP_Auto3.umap'
+[2019.12.12-09.05.55:211][979]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonBP/Maps/IA_MAP' took 0.391
+[2019.12.12-09.05.55:211][979]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.391
+[2019.12.12-09.06.14:344][274]BlueprintLog: New page: Compile Shotgun
+[2019.12.12-09.06.14:575][274]LogUObjectHash: Compacting FUObjectHashTables data took   3.86ms
+[2019.12.12-09.06.14:942][303]LogSavePackage: Moving '../../../../../../Users/alejandro.munoz/Desktop/AM/UnrealEngine/OverwatchUR4/BPOW/Saved/Shotgun4CF707D1461E06B851FA1E817C9E596E.tmp' to '../../../../../../Users/alejandro.munoz/Desktop/AM/UnrealEngine/OverwatchUR4/BPOW/Content/FirstPersonBP/Blueprints/Shoots/Shotgun.uasset'
+[2019.12.12-09.06.18:030][653]LogUObjectHash: Compacting FUObjectHashTables data took   3.47ms
+[2019.12.12-09.06.18:324][653]LogSavePackage: Moving '../../../../../../Users/alejandro.munoz/Desktop/AM/UnrealEngine/OverwatchUR4/BPOW/Saved/IA_MAPFDF8408C417248D6FA39A28B9321C26A.tmp' to '../../../../../../Users/alejandro.munoz/Desktop/AM/UnrealEngine/OverwatchUR4/BPOW/Content/FirstPersonBP/Maps/IA_MAP.umap'
+[2019.12.12-09.06.33:726][478]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.12-09.06.42:434][521]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Floor)
+[2019.12.12-09.06.42:481][521]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.12-09.06.51:304][569]LogActorFactory: Actor Factory created Cube
+[2019.12.12-09.06.52:076][661]LogActorFactory: Actor Factory created Cube
+[2019.12.12-09.06.53:946][880]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.12-09.07.30:048][182]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2019.12.12-09.07.42:993][718]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2019.12.12-09.07.44:939][946]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2019.12.12-09.08.08:866][795]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2019.12.12-09.08.09:452][860]LogEditorViewport: Clicking on Actor (LMB): SkyLight (SkyLight)
+[2019.12.12-09.08.14:447][451]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2019.12.12-09.08.17:246][779]Cmd: TRANSACTION UNDO
+[2019.12.12-09.08.17:246][779]LogEditorTransaction: Undo Scale Actors
+[2019.12.12-09.08.32:648][604]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.12-09.08.38:948][342]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2019.12.12-09.08.53:729][ 84]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.12-09.08.53:804][ 93]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.12-09.08.53:835][ 93]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/IA_MAP.IA_MAP:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/IA_MAP.IA_MAP:PersistentLevel.IA_MAP' with GeneratedClass '/Game/FirstPersonBP/Maps/IA_MAP.IA_MAP_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/IA_MAP.IA_MAP:PersistentLevel.IA_MAP'
+[2019.12.12-09.08.53:835][ 93]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.12-09.08.53:835][ 93]PIE: New page: PIE session: IA_MAP (12/12/2019 11:08:53)
+[2019.12.12-09.08.53:835][ 93]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_IA_MAP
+[2019.12.12-09.08.53:849][ 93]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014383s)
+[2019.12.12-09.08.53:850][ 93]LogAIModule: Creating AISystem for world IA_MAP
+[2019.12.12-09.08.53:850][ 93]LogPlayLevel: PIE: World Init took: (0.000653s)
+[2019.12.12-09.08.53:850][ 93]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/IA_MAP.IA_MAP to /Game/FirstPersonBP/Maps/UEDPIE_0_IA_MAP.IA_MAP (0.015185s)
+[2019.12.12-09.08.53:896][ 93]LogUObjectHash: Compacting FUObjectHashTables data took   4.31ms
+[2019.12.12-09.08.53:913][ 93]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.12.12-09.08.53:929][ 93]LogInit: FAudioDevice initialized.
+[2019.12.12-09.08.53:959][ 93]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.12.12-09.08.53:960][ 93]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_IA_MAP.IA_MAP up for play (max tick rate 0) at 2019.12.12-10.08.53
+[2019.12.12-09.08.53:961][ 93]LogWorld: Bringing up level for play took: 0.000874
+[2019.12.12-09.08.53:979][ 93]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_IA_MAP -0,767
+[2019.12.12-09.08.53:979][ 93]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/IA_MAP.IA_MAP:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/IA_MAP.IA_MAP:PersistentLevel.IA_MAP' with GeneratedClass '/Game/FirstPersonBP/Maps/IA_MAP.IA_MAP_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/IA_MAP.IA_MAP:PersistentLevel.IA_MAP'
+[2019.12.12-09.09.06:875][637]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/IA_MAP.IA_MAP:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/IA_MAP.IA_MAP:PersistentLevel.IA_MAP' with GeneratedClass '/Game/FirstPersonBP/Maps/IA_MAP.IA_MAP_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/IA_MAP.IA_MAP:PersistentLevel.IA_MAP'
+[2019.12.12-09.09.06:875][637]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.12-09.09.06:903][637]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.12-09.09.06:904][637]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/IA_MAP.IA_MAP:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/IA_MAP.IA_MAP:PersistentLevel.IA_MAP' with GeneratedClass '/Game/FirstPersonBP/Maps/IA_MAP.IA_MAP_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/IA_MAP.IA_MAP:PersistentLevel.IA_MAP'
+[2019.12.12-09.09.06:948][637]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.12-09.09.06:953][637]LogUObjectHash: Compacting FUObjectHashTables data took   2.81ms
+[2019.12.12-09.09.06:975][638]LogPlayLevel: Display: Destroying online subsystem :Context_50
+[2019.12.12-09.09.11:681][172]LogEditorViewport: Clicking on Actor (LMB): Brush (Linear Stair Brush)
+[2019.12.12-09.09.12:487][260]LogEditorViewport: Clicking on Actor (LMB): Brush (Linear Stair Brush)
+[2019.12.12-09.09.14:741][516]Cmd: EDCALLBACK SURFPROPS
+[2019.12.12-09.09.32:999][669]Cmd: TRANSACTION UNDO
+[2019.12.12-09.09.33:000][669]LogEditorTransaction: Undo Move Actors
+[2019.12.12-09.09.37:878][239]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.12-09.09.47:101][335]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2019.12.12-09.09.47:928][428]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.12-09.10.19:973][253]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2019.12.12-09.10.20:294][287]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2019.12.12-09.10.51:344][964]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2019.12.12-09.10.52:301][ 73]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2019.12.12-09.11.02:477][280]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2019.12.12-09.11.10:132][186]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube)
+[2019.12.12-09.11.19:720][324]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2019.12.12-09.11.21:443][520]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2019.12.12-09.11.31:478][709]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2019.12.12-09.11.48:470][740]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.12-09.11.55:162][541]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.12-09.11.56:336][662]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2019.12.12-09.11.59:520][ 40]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.12-09.12.02:522][397]Cmd: DELETE
+[2019.12.12-09.12.02:522][397]Cmd: ACTOR DELETE
+[2019.12.12-09.12.02:524][397]LogEditorActor: Deleted Actor: Brush
+[2019.12.12-09.12.02:567][397]LogUObjectHash: Compacting FUObjectHashTables data took   3.46ms
+[2019.12.12-09.12.02:571][397]LogEditorActor: Deleted 1 Actors (0.049 secs)
+[2019.12.12-09.12.10:593][357]LogActorFactory: Actor Factory created Plane
+[2019.12.12-09.12.11:581][475]LogActorFactory: Actor Factory created Plane
+[2019.12.12-09.12.51:673][244]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane)
+[2019.12.12-09.12.59:811][203]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.12.12-09.13.11:633][615]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.12-09.13.11:699][623]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.12-09.13.11:724][623]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/IA_MAP.IA_MAP:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/IA_MAP.IA_MAP:PersistentLevel.IA_MAP' with GeneratedClass '/Game/FirstPersonBP/Maps/IA_MAP.IA_MAP_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/IA_MAP.IA_MAP:PersistentLevel.IA_MAP'
+[2019.12.12-09.13.11:724][623]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.12-09.13.11:724][623]PIE: New page: PIE session: IA_MAP (12/12/2019 11:13:11)
+[2019.12.12-09.13.11:724][623]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_IA_MAP
+[2019.12.12-09.13.11:737][623]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012520s)
+[2019.12.12-09.13.11:737][623]LogAIModule: Creating AISystem for world IA_MAP
+[2019.12.12-09.13.11:737][623]LogPlayLevel: PIE: World Init took: (0.000665s)
+[2019.12.12-09.13.11:738][623]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/IA_MAP.IA_MAP to /Game/FirstPersonBP/Maps/UEDPIE_0_IA_MAP.IA_MAP (0.013336s)
+[2019.12.12-09.13.11:776][623]LogUObjectHash: Compacting FUObjectHashTables data took   2.42ms
+[2019.12.12-09.13.11:789][623]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.12.12-09.13.11:805][623]LogInit: FAudioDevice initialized.
+[2019.12.12-09.13.11:831][623]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.12.12-09.13.11:832][623]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_IA_MAP.IA_MAP up for play (max tick rate 0) at 2019.12.12-10.13.11
+[2019.12.12-09.13.11:833][623]LogWorld: Bringing up level for play took: 0.000771
+[2019.12.12-09.13.11:849][623]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_IA_MAP 1,102
+[2019.12.12-09.13.11:849][623]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/IA_MAP.IA_MAP:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/IA_MAP.IA_MAP:PersistentLevel.IA_MAP' with GeneratedClass '/Game/FirstPersonBP/Maps/IA_MAP.IA_MAP_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/IA_MAP.IA_MAP:PersistentLevel.IA_MAP'
+[2019.12.12-09.13.21:119][732]LogBlueprintUserMessages: [WraithForm_C_0] Ya puedes disparar
+[2019.12.12-09.13.26:729][405]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/IA_MAP.IA_MAP:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/IA_MAP.IA_MAP:PersistentLevel.IA_MAP' with GeneratedClass '/Game/FirstPersonBP/Maps/IA_MAP.IA_MAP_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/IA_MAP.IA_MAP:PersistentLevel.IA_MAP'
+[2019.12.12-09.13.26:729][405]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.12-09.13.26:756][405]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.12-09.13.26:757][405]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/IA_MAP.IA_MAP:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/IA_MAP.IA_MAP:PersistentLevel.IA_MAP' with GeneratedClass '/Game/FirstPersonBP/Maps/IA_MAP.IA_MAP_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/IA_MAP.IA_MAP:PersistentLevel.IA_MAP'
+[2019.12.12-09.13.26:805][405]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.12-09.13.26:810][405]LogUObjectHash: Compacting FUObjectHashTables data took   2.42ms
+[2019.12.12-09.13.26:835][406]LogPlayLevel: Display: Destroying online subsystem :Context_51
+[2019.12.12-09.13.44:792][559]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2019.12.12-09.14.01:630][573]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.12-09.14.05:711][995]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/FirstPersonBP/Blueprints/Shoots/Shotgun.Shotgun
+[2019.12.12-09.14.52:484][409]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.12-09.15.51:934][507]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.12-09.16.34:698][578]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.12-09.16.52:108][663]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.12-09.16.58:746][456]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.12-09.17.16:071][522]Cmd: TRANSACTION UNDO
+[2019.12.12-09.17.16:071][522]LogEditorTransaction: Undo Move Actors
+[2019.12.12-09.17.38:609][173]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.12-09.17.43:023][698]LogActorFactory: Actor Factory created Cube
+[2019.12.12-09.17.45:916][ 38]LogActorFactory: Actor Factory created Cube
+[2019.12.12-09.18.01:290][860]Cmd: TRANSACTION UNDO
+[2019.12.12-09.18.01:290][860]LogEditorTransaction: Undo Scale Actors
+[2019.12.12-09.18.24:411][592]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.12-09.18.42:352][716]Cmd: TRANSACTION UNDO
+[2019.12.12-09.18.42:352][716]LogEditorTransaction: Undo Move Actors
+[2019.12.12-09.18.43:747][862]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.12-09.19.16:116][227]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.12-09.19.16:199][237]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.12-09.19.16:228][237]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/IA_MAP.IA_MAP:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/IA_MAP.IA_MAP:PersistentLevel.IA_MAP' with GeneratedClass '/Game/FirstPersonBP/Maps/IA_MAP.IA_MAP_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/IA_MAP.IA_MAP:PersistentLevel.IA_MAP'
+[2019.12.12-09.19.16:228][237]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.12-09.19.16:228][237]PIE: New page: PIE session: IA_MAP (12/12/2019 11:19:16)
+[2019.12.12-09.19.16:228][237]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_IA_MAP
+[2019.12.12-09.19.16:243][237]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014405s)
+[2019.12.12-09.19.16:243][237]LogAIModule: Creating AISystem for world IA_MAP
+[2019.12.12-09.19.16:243][237]LogPlayLevel: PIE: World Init took: (0.000704s)
+[2019.12.12-09.19.16:243][237]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/IA_MAP.IA_MAP to /Game/FirstPersonBP/Maps/UEDPIE_0_IA_MAP.IA_MAP (0.015253s)
+[2019.12.12-09.19.16:287][237]LogUObjectHash: Compacting FUObjectHashTables data took   4.27ms
+[2019.12.12-09.19.16:300][237]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.12.12-09.19.16:316][237]LogInit: FAudioDevice initialized.
+[2019.12.12-09.19.16:343][237]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.12.12-09.19.16:344][237]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_IA_MAP.IA_MAP up for play (max tick rate 0) at 2019.12.12-10.19.16
+[2019.12.12-09.19.16:345][237]LogWorld: Bringing up level for play took: 0.000897
+[2019.12.12-09.19.16:362][237]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_IA_MAP -0,387
+[2019.12.12-09.19.16:362][237]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/IA_MAP.IA_MAP:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/IA_MAP.IA_MAP:PersistentLevel.IA_MAP' with GeneratedClass '/Game/FirstPersonBP/Maps/IA_MAP.IA_MAP_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/IA_MAP.IA_MAP:PersistentLevel.IA_MAP'
+[2019.12.12-09.19.19:699][634]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/IA_MAP.IA_MAP:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/IA_MAP.IA_MAP:PersistentLevel.IA_MAP' with GeneratedClass '/Game/FirstPersonBP/Maps/IA_MAP.IA_MAP_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/IA_MAP.IA_MAP:PersistentLevel.IA_MAP'
+[2019.12.12-09.19.19:699][634]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.12-09.19.19:730][634]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.12-09.19.19:730][634]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/IA_MAP.IA_MAP:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/IA_MAP.IA_MAP:PersistentLevel.IA_MAP' with GeneratedClass '/Game/FirstPersonBP/Maps/IA_MAP.IA_MAP_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/IA_MAP.IA_MAP:PersistentLevel.IA_MAP'
+[2019.12.12-09.19.19:776][634]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.12-09.19.19:781][634]LogUObjectHash: Compacting FUObjectHashTables data took   2.94ms
+[2019.12.12-09.19.19:807][635]LogPlayLevel: Display: Destroying online subsystem :Context_53
+[2019.12.12-09.19.20:471][713]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube2)
+[2019.12.12-09.19.21:545][835]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.12-09.19.23:822][ 69]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.12-09.19.30:947][829]Cmd: TRANSACTION UNDO
+[2019.12.12-09.19.30:947][829]LogEditorTransaction: Undo Replace component used material
+[2019.12.12-09.19.31:200][855]Cmd: TRANSACTION UNDO
+[2019.12.12-09.19.31:200][855]LogEditorTransaction: Undo Replace component used material
+[2019.12.12-09.19.31:391][872]Cmd: TRANSACTION UNDO
+[2019.12.12-09.19.31:392][872]LogEditorTransaction: Undo Clicking on Actors
+[2019.12.12-09.19.31:574][893]Cmd: TRANSACTION UNDO
+[2019.12.12-09.19.31:574][893]LogEditorTransaction: Undo Replace component used material
+[2019.12.12-09.19.32:242][972]Cmd: TRANSACTION UNDO
+[2019.12.12-09.19.32:242][972]LogEditorTransaction: Undo Replace component used material
+[2019.12.12-09.19.32:842][ 43]Cmd: TRANSACTION UNDO
+[2019.12.12-09.19.32:842][ 43]LogEditorTransaction: Undo Replace component used material
+[2019.12.12-09.19.33:220][ 87]Cmd: TRANSACTION UNDO
+[2019.12.12-09.19.33:220][ 87]LogEditorTransaction: Undo Replace component used material
+[2019.12.12-09.19.33:578][129]Cmd: TRANSACTION UNDO
+[2019.12.12-09.19.33:578][129]LogEditorTransaction: Undo Move Actors
+[2019.12.12-09.19.34:830][278]Cmd: TRANSACTION REDO
+[2019.12.12-09.19.34:830][278]LogEditorTransaction: Redo Move Actors
+[2019.12.12-09.19.35:732][385]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube2)
+[2019.12.12-09.19.36:666][490]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.12-09.19.40:641][885]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.12-09.19.46:043][489]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube2)
+[2019.12.12-09.19.46:979][598]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.12-09.19.53:842][383]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.12-09.19.53:917][392]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.12-09.19.53:945][392]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/IA_MAP.IA_MAP:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/IA_MAP.IA_MAP:PersistentLevel.IA_MAP' with GeneratedClass '/Game/FirstPersonBP/Maps/IA_MAP.IA_MAP_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/IA_MAP.IA_MAP:PersistentLevel.IA_MAP'
+[2019.12.12-09.19.53:945][392]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.12-09.19.53:945][392]PIE: New page: PIE session: IA_MAP (12/12/2019 11:19:53)
+[2019.12.12-09.19.53:945][392]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_IA_MAP
+[2019.12.12-09.19.53:959][392]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013861s)
+[2019.12.12-09.19.53:960][392]LogAIModule: Creating AISystem for world IA_MAP
+[2019.12.12-09.19.53:960][392]LogPlayLevel: PIE: World Init took: (0.000673s)
+[2019.12.12-09.19.53:960][392]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/IA_MAP.IA_MAP to /Game/FirstPersonBP/Maps/UEDPIE_0_IA_MAP.IA_MAP (0.014693s)
+[2019.12.12-09.19.54:001][392]LogUObjectHash: Compacting FUObjectHashTables data took   2.23ms
+[2019.12.12-09.19.54:013][392]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.12.12-09.19.54:029][392]LogInit: FAudioDevice initialized.
+[2019.12.12-09.19.54:061][392]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.12.12-09.19.54:062][392]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_IA_MAP.IA_MAP up for play (max tick rate 0) at 2019.12.12-10.19.54
+[2019.12.12-09.19.54:063][392]LogWorld: Bringing up level for play took: 0.000835
+[2019.12.12-09.19.54:080][392]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_IA_MAP -0,669
+[2019.12.12-09.19.54:080][392]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/IA_MAP.IA_MAP:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/IA_MAP.IA_MAP:PersistentLevel.IA_MAP' with GeneratedClass '/Game/FirstPersonBP/Maps/IA_MAP.IA_MAP_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/IA_MAP.IA_MAP:PersistentLevel.IA_MAP'
+[2019.12.12-09.20.02:106][347]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/IA_MAP.IA_MAP:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/IA_MAP.IA_MAP:PersistentLevel.IA_MAP' with GeneratedClass '/Game/FirstPersonBP/Maps/IA_MAP.IA_MAP_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/IA_MAP.IA_MAP:PersistentLevel.IA_MAP'
+[2019.12.12-09.20.02:107][347]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.12-09.20.02:135][347]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.12-09.20.02:136][347]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/IA_MAP.IA_MAP:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/IA_MAP.IA_MAP:PersistentLevel.IA_MAP' with GeneratedClass '/Game/FirstPersonBP/Maps/IA_MAP.IA_MAP_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/IA_MAP.IA_MAP:PersistentLevel.IA_MAP'
+[2019.12.12-09.20.02:182][347]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.12-09.20.02:187][347]LogUObjectHash: Compacting FUObjectHashTables data took   2.20ms
+[2019.12.12-09.20.02:212][348]LogPlayLevel: Display: Destroying online subsystem :Context_54
+[2019.12.12-09.20.05:484][736]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.12-09.20.07:954][ 26]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.12.12-09.20.08:820][128]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.12-09.20.14:156][759]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.12.12-09.20.23:343][846]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.12-09.20.28:937][501]Cmd: TRANSACTION UNDO
+[2019.12.12-09.20.28:937][501]LogEditorTransaction: Undo Move Actors
+[2019.12.12-09.20.36:927][427]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2019.12.12-09.20.38:497][611]LogEditorViewport: Clicking on Actor (LMB): SkyLight (SkyLight)
+[2019.12.12-09.20.40:885][891]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2019.12.12-09.20.42:387][ 66]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.12-09.20.42:471][ 76]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.12-09.20.42:499][ 76]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/IA_MAP.IA_MAP:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/IA_MAP.IA_MAP:PersistentLevel.IA_MAP' with GeneratedClass '/Game/FirstPersonBP/Maps/IA_MAP.IA_MAP_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/IA_MAP.IA_MAP:PersistentLevel.IA_MAP'
+[2019.12.12-09.20.42:499][ 76]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.12-09.20.42:499][ 76]PIE: New page: PIE session: IA_MAP (12/12/2019 11:20:42)
+[2019.12.12-09.20.42:499][ 76]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_IA_MAP
+[2019.12.12-09.20.42:514][ 76]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015140s)
+[2019.12.12-09.20.42:515][ 76]LogAIModule: Creating AISystem for world IA_MAP
+[2019.12.12-09.20.42:515][ 76]LogPlayLevel: PIE: World Init took: (0.000652s)
+[2019.12.12-09.20.42:515][ 76]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/IA_MAP.IA_MAP to /Game/FirstPersonBP/Maps/UEDPIE_0_IA_MAP.IA_MAP (0.015936s)
+[2019.12.12-09.20.42:557][ 76]LogUObjectHash: Compacting FUObjectHashTables data took   2.25ms
+[2019.12.12-09.20.42:570][ 76]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.12.12-09.20.42:587][ 76]LogInit: FAudioDevice initialized.
+[2019.12.12-09.20.42:615][ 76]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.12.12-09.20.42:616][ 76]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_IA_MAP.IA_MAP up for play (max tick rate 0) at 2019.12.12-10.20.42
+[2019.12.12-09.20.42:617][ 76]LogWorld: Bringing up level for play took: 0.000869
+[2019.12.12-09.20.42:633][ 76]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_IA_MAP -0,116
+[2019.12.12-09.20.42:633][ 76]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/IA_MAP.IA_MAP:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/IA_MAP.IA_MAP:PersistentLevel.IA_MAP' with GeneratedClass '/Game/FirstPersonBP/Maps/IA_MAP.IA_MAP_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/IA_MAP.IA_MAP:PersistentLevel.IA_MAP'
+[2019.12.12-09.20.51:228][104]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/IA_MAP.IA_MAP:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/IA_MAP.IA_MAP:PersistentLevel.IA_MAP' with GeneratedClass '/Game/FirstPersonBP/Maps/IA_MAP.IA_MAP_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/IA_MAP.IA_MAP:PersistentLevel.IA_MAP'
+[2019.12.12-09.20.51:229][104]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.12-09.20.51:258][104]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.12-09.20.51:259][104]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/IA_MAP.IA_MAP:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/IA_MAP.IA_MAP:PersistentLevel.IA_MAP' with GeneratedClass '/Game/FirstPersonBP/Maps/IA_MAP.IA_MAP_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/IA_MAP.IA_MAP:PersistentLevel.IA_MAP'
+[2019.12.12-09.20.51:304][104]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.12-09.20.51:309][104]LogUObjectHash: Compacting FUObjectHashTables data took   2.18ms
+[2019.12.12-09.20.51:335][105]LogPlayLevel: Display: Destroying online subsystem :Context_55
+[2019.12.12-09.20.53:681][385]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.12-09.21.17:652][178]LogMetaData: Removing '/Game/FirstPersonBP/Blueprints/Characters/FirstPersonCharacter.FirstPersonCharacter_C' ref from Metadata '/Game/FirstPersonBP/Blueprints/FirstPersonCharacter.PackageMetaData'
+[2019.12.12-09.21.17:652][178]LogMetaData: Removing '/Game/FirstPersonBP/Blueprints/Characters/FirstPersonCharacter.FirstPersonCharacter:Reload.K2Node_FunctionEntry_0' ref from Metadata '/Game/FirstPersonBP/Blueprints/FirstPersonCharacter.PackageMetaData'
+[2019.12.12-09.21.17:652][178]LogMetaData: Removing '/Game/FirstPersonBP/Blueprints/Characters/FirstPersonCharacter.FirstPersonCharacter:SetCharacter.K2Node_FunctionEntry_0' ref from Metadata '/Game/FirstPersonBP/Blueprints/FirstPersonCharacter.PackageMetaData'
+[2019.12.12-09.21.17:652][178]LogMetaData: Removing '/Game/FirstPersonBP/Blueprints/Characters/FirstPersonCharacter.FirstPersonCharacter:Shoot.K2Node_FunctionEntry_0' ref from Metadata '/Game/FirstPersonBP/Blueprints/FirstPersonCharacter.PackageMetaData'
+[2019.12.12-09.21.17:652][178]LogMetaData: Removing '/Game/FirstPersonBP/Blueprints/Characters/FirstPersonCharacter.FirstPersonCharacter:SetProjectile.K2Node_FunctionEntry_0' ref from Metadata '/Game/FirstPersonBP/Blueprints/FirstPersonCharacter.PackageMetaData'
+[2019.12.12-09.21.17:652][178]LogMetaData: Removing '/Game/FirstPersonBP/Blueprints/Characters/FirstPersonCharacter.FirstPersonCharacter:TakeDamage.K2Node_FunctionEntry_0' ref from Metadata '/Game/FirstPersonBP/Blueprints/FirstPersonCharacter.PackageMetaData'
+[2019.12.12-09.21.17:653][178]LogMetaData: Removing '/Game/FirstPersonBP/Blueprints/Characters/FirstPersonCharacter.SKEL_FirstPersonCharacter_C:InpAxisEvt_Turn_K2Node_InputAxisEvent_157' ref from Metadata '/Game/FirstPersonBP/Blueprints/FirstPersonCharacter.PackageMetaData'
+[2019.12.12-09.21.17:653][178]LogMetaData: Removing '/Game/FirstPersonBP/Blueprints/Characters/FirstPersonCharacter.SKEL_FirstPersonCharacter_C:InpAxisEvt_LookUp_K2Node_InputAxisEvent_172' ref from Metadata '/Game/FirstPersonBP/Blueprints/FirstPersonCharacter.PackageMetaData'
+[2019.12.12-09.21.17:653][178]LogMetaData: Removing '/Game/FirstPersonBP/Blueprints/Characters/FirstPersonCharacter.SKEL_FirstPersonCharacter_C:InpAxisEvt_MoveForward_K2Node_InputAxisEvent_181' ref from Metadata '/Game/FirstPersonBP/Blueprints/FirstPersonCharacter.PackageMetaData'
+[2019.12.12-09.21.17:653][178]LogMetaData: Removing '/Game/FirstPersonBP/Blueprints/Characters/FirstPersonCharacter.SKEL_FirstPersonCharacter_C:InpAxisEvt_MoveRight_K2Node_InputAxisEvent_192' ref from Metadata '/Game/FirstPersonBP/Blueprints/FirstPersonCharacter.PackageMetaData'
+[2019.12.12-09.21.17:653][178]LogMetaData: Removing '/Game/FirstPersonBP/Blueprints/Characters/FirstPersonCharacter.SKEL_FirstPersonCharacter_C:InpAxisEvt_TurnRate_K2Node_InputAxisEvent_34' ref from Metadata '/Game/FirstPersonBP/Blueprints/FirstPersonCharacter.PackageMetaData'
+[2019.12.12-09.21.17:653][178]LogMetaData: Removing '/Game/FirstPersonBP/Blueprints/Characters/FirstPersonCharacter.SKEL_FirstPersonCharacter_C:InpAxisEvt_LookUpRate_K2Node_InputAxisEvent_62' ref from Metadata '/Game/FirstPersonBP/Blueprints/FirstPersonCharacter.PackageMetaData'
+[2019.12.12-09.21.17:653][178]LogMetaData: Removing '/Game/FirstPersonBP/Blueprints/Characters/FirstPersonCharacter.SKEL_FirstPersonCharacter_C:ReceiveBeginPlay' ref from Metadata '/Game/FirstPersonBP/Blueprints/FirstPersonCharacter.PackageMetaData'
+[2019.12.12-09.21.17:653][178]LogMetaData: Removing '/Game/FirstPersonBP/Blueprints/Characters/FirstPersonCharacter.SKEL_FirstPersonCharacter_C:ReceiveTick' ref from Metadata '/Game/FirstPersonBP/Blueprints/FirstPersonCharacter.PackageMetaData'
+[2019.12.12-09.21.17:653][178]LogMetaData: Removing '/Game/FirstPersonBP/Blueprints/Characters/FirstPersonCharacter.SKEL_FirstPersonCharacter_C:Damage Shoot' ref from Metadata '/Game/FirstPersonBP/Blueprints/FirstPersonCharacter.PackageMetaData'
+[2019.12.12-09.21.17:653][178]LogMetaData: Removing '/Game/FirstPersonBP/Blueprints/Characters/FirstPersonCharacter.SKEL_FirstPersonCharacter_C:Projectile' ref from Metadata '/Game/FirstPersonBP/Blueprints/FirstPersonCharacter.PackageMetaData'
+[2019.12.12-09.21.17:653][178]LogMetaData: Removing '/Game/FirstPersonBP/Blueprints/Characters/FirstPersonCharacter.SKEL_FirstPersonCharacter_C:Abilities' ref from Metadata '/Game/FirstPersonBP/Blueprints/FirstPersonCharacter.PackageMetaData'
+[2019.12.12-09.21.17:653][178]LogMetaData: Removing '/Game/FirstPersonBP/Blueprints/Characters/FirstPersonCharacter.SKEL_FirstPersonCharacter_C:HeroWidget' ref from Metadata '/Game/FirstPersonBP/Blueprints/FirstPersonCharacter.PackageMetaData'
+[2019.12.12-09.21.17:653][178]LogMetaData: Removing '/Game/FirstPersonBP/Blueprints/Characters/FirstPersonCharacter.SKEL_FirstPersonCharacter_C:life' ref from Metadata '/Game/FirstPersonBP/Blueprints/FirstPersonCharacter.PackageMetaData'
+[2019.12.12-09.21.17:653][178]LogMetaData: Removing '/Game/FirstPersonBP/Blueprints/Characters/FirstPersonCharacter.SKEL_FirstPersonCharacter_C:shootingTimer' ref from Metadata '/Game/FirstPersonBP/Blueprints/FirstPersonCharacter.PackageMetaData'
+[2019.12.12-09.21.17:653][178]LogMetaData: Removing '/Game/FirstPersonBP/Blueprints/Characters/FirstPersonCharacter.SKEL_FirstPersonCharacter_C:shooting' ref from Metadata '/Game/FirstPersonBP/Blueprints/FirstPersonCharacter.PackageMetaData'
+[2019.12.12-09.21.17:653][178]LogMetaData: Removing '/Game/FirstPersonBP/Blueprints/Characters/FirstPersonCharacter.SKEL_FirstPersonCharacter_C:reloadingTimer' ref from Metadata '/Game/FirstPersonBP/Blueprints/FirstPersonCharacter.PackageMetaData'
+[2019.12.12-09.21.17:653][178]LogMetaData: Removing '/Game/FirstPersonBP/Blueprints/Characters/FirstPersonCharacter.SKEL_FirstPersonCharacter_C:reloading' ref from Metadata '/Game/FirstPersonBP/Blueprints/FirstPersonCharacter.PackageMetaData'
+[2019.12.12-09.21.17:653][178]LogMetaData: Removing '/Game/FirstPersonBP/Blueprints/Characters/FirstPersonCharacter.SKEL_FirstPersonCharacter_C:shootingCooldown' ref from Metadata '/Game/FirstPersonBP/Blueprints/FirstPersonCharacter.PackageMetaData'
+[2019.12.12-09.21.17:653][178]LogMetaData: Removing '/Game/FirstPersonBP/Blueprints/Characters/FirstPersonCharacter.SKEL_FirstPersonCharacter_C:totalBullets' ref from Metadata '/Game/FirstPersonBP/Blueprints/FirstPersonCharacter.PackageMetaData'
+[2019.12.12-09.21.17:653][178]LogMetaData: Removing '/Game/FirstPersonBP/Blueprints/Characters/FirstPersonCharacter.SKEL_FirstPersonCharacter_C:actualBullets' ref from Metadata '/Game/FirstPersonBP/Blueprints/FirstPersonCharacter.PackageMetaData'
+[2019.12.12-09.21.17:653][178]LogMetaData: Removing '/Game/FirstPersonBP/Blueprints/Characters/FirstPersonCharacter.SKEL_FirstPersonCharacter_C:reloadingTIme' ref from Metadata '/Game/FirstPersonBP/Blueprints/FirstPersonCharacter.PackageMetaData'
+[2019.12.12-09.21.17:653][178]LogMetaData: Removing '/Game/FirstPersonBP/Blueprints/Characters/FirstPersonCharacter.SKEL_FirstPersonCharacter_C:UsingMotionControllers?' ref from Metadata '/Game/FirstPersonBP/Blueprints/FirstPersonCharacter.PackageMetaData'
+[2019.12.12-09.21.17:653][178]LogMetaData: Removing '/Game/FirstPersonBP/Blueprints/Characters/FirstPersonCharacter.SKEL_FirstPersonCharacter_C:BaseLookUpRate' ref from Metadata '/Game/FirstPersonBP/Blueprints/FirstPersonCharacter.PackageMetaData'
+[2019.12.12-09.21.17:653][178]LogMetaData: Removing '/Game/FirstPersonBP/Blueprints/Characters/FirstPersonCharacter.SKEL_FirstPersonCharacter_C:BaseTurnRate' ref from Metadata '/Game/FirstPersonBP/Blueprints/FirstPersonCharacter.PackageMetaData'
+[2019.12.12-09.21.17:653][178]LogMetaData: Removing '/Game/FirstPersonBP/Blueprints/Characters/FirstPersonCharacter.SKEL_FirstPersonCharacter_C:GunOffset' ref from Metadata '/Game/FirstPersonBP/Blueprints/FirstPersonCharacter.PackageMetaData'
+[2019.12.12-09.21.17:653][178]LogMetaData: Removing '/Game/FirstPersonBP/Blueprints/Characters/FirstPersonCharacter.SKEL_FirstPersonCharacter_C:FirstPersonCamera' ref from Metadata '/Game/FirstPersonBP/Blueprints/FirstPersonCharacter.PackageMetaData'
+[2019.12.12-09.21.17:653][178]LogMetaData: Removing '/Game/FirstPersonBP/Blueprints/Characters/FirstPersonCharacter.SKEL_FirstPersonCharacter_C:Mesh2P' ref from Metadata '/Game/FirstPersonBP/Blueprints/FirstPersonCharacter.PackageMetaData'
+[2019.12.12-09.21.17:653][178]LogMetaData: Removing '/Game/FirstPersonBP/Blueprints/Characters/FirstPersonCharacter.SKEL_FirstPersonCharacter_C:FP_Gun' ref from Metadata '/Game/FirstPersonBP/Blueprints/FirstPersonCharacter.PackageMetaData'
+[2019.12.12-09.21.17:653][178]LogMetaData: Removing '/Game/FirstPersonBP/Blueprints/Characters/FirstPersonCharacter.SKEL_FirstPersonCharacter_C:Sphere' ref from Metadata '/Game/FirstPersonBP/Blueprints/FirstPersonCharacter.PackageMetaData'
+[2019.12.12-09.21.17:653][178]LogMetaData: Removing '/Game/FirstPersonBP/Blueprints/Characters/FirstPersonCharacter.SKEL_FirstPersonCharacter_C:UserConstructionScript' ref from Metadata '/Game/FirstPersonBP/Blueprints/FirstPersonCharacter.PackageMetaData'
+[2019.12.12-09.21.17:653][178]LogMetaData: Removing '/Game/FirstPersonBP/Blueprints/Characters/FirstPersonCharacter.SKEL_FirstPersonCharacter_C:Reload' ref from Metadata '/Game/FirstPersonBP/Blueprints/FirstPersonCharacter.PackageMetaData'
+[2019.12.12-09.21.17:653][178]LogMetaData: Removing '/Game/FirstPersonBP/Blueprints/Characters/FirstPersonCharacter.SKEL_FirstPersonCharacter_C:SetCharacter' ref from Metadata '/Game/FirstPersonBP/Blueprints/FirstPersonCharacter.PackageMetaData'
+[2019.12.12-09.21.17:653][178]LogMetaData: Removing '/Game/FirstPersonBP/Blueprints/Characters/FirstPersonCharacter.SKEL_FirstPersonCharacter_C:Shoot.firstShoot' ref from Metadata '/Game/FirstPersonBP/Blueprints/FirstPersonCharacter.PackageMetaData'
+[2019.12.12-09.21.17:653][178]LogMetaData: Removing '/Game/FirstPersonBP/Blueprints/Characters/FirstPersonCharacter.SKEL_FirstPersonCharacter_C:Shoot' ref from Metadata '/Game/FirstPersonBP/Blueprints/FirstPersonCharacter.PackageMetaData'
+[2019.12.12-09.21.17:653][178]LogMetaData: Removing '/Game/FirstPersonBP/Blueprints/Characters/FirstPersonCharacter.SKEL_FirstPersonCharacter_C:TakeDamage' ref from Metadata '/Game/FirstPersonBP/Blueprints/FirstPersonCharacter.PackageMetaData'
+[2019.12.12-09.21.17:653][178]LogMetaData: Removing '/Game/FirstPersonBP/Blueprints/Characters/FirstPersonCharacter.SKEL_FirstPersonCharacter_C' ref from Metadata '/Game/FirstPersonBP/Blueprints/FirstPersonCharacter.PackageMetaData'
+[2019.12.12-09.21.17:653][178]LogMetaData: Removing '/Game/FirstPersonBP/Blueprints/Characters/FirstPersonCharacter.FirstPersonCharacter_C:Damage Shoot' ref from Metadata '/Game/FirstPersonBP/Blueprints/FirstPersonCharacter.PackageMetaData'
+[2019.12.12-09.21.17:653][178]LogMetaData: Removing '/Game/FirstPersonBP/Blueprints/Characters/FirstPersonCharacter.FirstPersonCharacter_C:Projectile' ref from Metadata '/Game/FirstPersonBP/Blueprints/FirstPersonCharacter.PackageMetaData'
+[2019.12.12-09.21.17:653][178]LogMetaData: Removing '/Game/FirstPersonBP/Blueprints/Characters/FirstPersonCharacter.FirstPersonCharacter_C:Abilities' ref from Metadata '/Game/FirstPersonBP/Blueprints/FirstPersonCharacter.PackageMetaData'
+[2019.12.12-09.21.17:653][178]LogMetaData: Removing '/Game/FirstPersonBP/Blueprints/Characters/FirstPersonCharacter.FirstPersonCharacter_C:HeroWidget' ref from Metadata '/Game/FirstPersonBP/Blueprints/FirstPersonCharacter.PackageMetaData'
+[2019.12.12-09.21.17:653][178]LogMetaData: Removing '/Game/FirstPersonBP/Blueprints/Characters/FirstPersonCharacter.FirstPersonCharacter_C:life' ref from Metadata '/Game/FirstPersonBP/Blueprints/FirstPersonCharacter.PackageMetaData'
+[2019.12.12-09.21.17:653][178]LogMetaData: Removing '/Game/FirstPersonBP/Blueprints/Characters/FirstPersonCharacter.FirstPersonCharacter_C:shootingTimer' ref from Metadata '/Game/FirstPersonBP/Blueprints/FirstPersonCharacter.PackageMetaData'
+[2019.12.12-09.21.17:653][178]LogMetaData: Removing '/Game/FirstPersonBP/Blueprints/Characters/FirstPersonCharacter.FirstPersonCharacter_C:shooting' ref from Metadata '/Game/FirstPersonBP/Blueprints/FirstPersonCharacter.PackageMetaData'
+[2019.12.12-09.21.17:653][178]LogMetaData: Removing '/Game/FirstPersonBP/Blueprints/Characters/FirstPersonCharacter.FirstPersonCharacter_C:reloadingTimer' ref from Metadata '/Game/FirstPersonBP/Blueprints/FirstPersonCharacter.PackageMetaData'
+[2019.12.12-09.21.17:653][178]LogMetaData: Removing '/Game/FirstPersonBP/Blueprints/Characters/FirstPersonCharacter.FirstPersonCharacter_C:reloading' ref from Metadata '/Game/FirstPersonBP/Blueprints/FirstPersonCharacter.PackageMetaData'
+[2019.12.12-09.21.17:653][178]LogMetaData: Removing '/Game/FirstPersonBP/Blueprints/Characters/FirstPersonCharacter.FirstPersonCharacter_C:shootingCooldown' ref from Metadata '/Game/FirstPersonBP/Blueprints/FirstPersonCharacter.PackageMetaData'
+[2019.12.12-09.21.17:653][178]LogMetaData: Removing '/Game/FirstPersonBP/Blueprints/Characters/FirstPersonCharacter.FirstPersonCharacter_C:totalBullets' ref from Metadata '/Game/FirstPersonBP/Blueprints/FirstPersonCharacter.PackageMetaData'
+[2019.12.12-09.21.17:653][178]LogMetaData: Removing '/Game/FirstPersonBP/Blueprints/Characters/FirstPersonCharacter.FirstPersonCharacter_C:actualBullets' ref from Metadata '/Game/FirstPersonBP/Blueprints/FirstPersonCharacter.PackageMetaData'
+[2019.12.12-09.21.17:653][178]LogMetaData: Removing '/Game/FirstPersonBP/Blueprints/Characters/FirstPersonCharacter.FirstPersonCharacter_C:reloadingTIme' ref from Metadata '/Game/FirstPersonBP/Blueprints/FirstPersonCharacter.PackageMetaData'
+[2019.12.12-09.21.17:653][178]LogMetaData: Removing '/Game/FirstPersonBP/Blueprints/Characters/FirstPersonCharacter.FirstPersonCharacter_C:UsingMotionControllers?' ref from Metadata '/Game/FirstPersonBP/Blueprints/FirstPersonCharacter.PackageMetaData'
+[2019.12.12-09.21.17:653][178]LogMetaData: Removing '/Game/FirstPersonBP/Blueprints/Characters/FirstPersonCharacter.FirstPersonCharacter_C:BaseLookUpRate' ref from Metadata '/Game/FirstPersonBP/Blueprints/FirstPersonCharacter.PackageMetaData'
+[2019.12.12-09.21.17:653][178]LogMetaData: Removing '/Game/FirstPersonBP/Blueprints/Characters/FirstPersonCharacter.FirstPersonCharacter_C:BaseTurnRate' ref from Metadata '/Game/FirstPersonBP/Blueprints/FirstPersonCharacter.PackageMetaData'
+[2019.12.12-09.21.17:653][178]LogMetaData: Removing '/Game/FirstPersonBP/Blueprints/Characters/FirstPersonCharacter.FirstPersonCharacter_C:GunOffset' ref from Metadata '/Game/FirstPersonBP/Blueprints/FirstPersonCharacter.PackageMetaData'
+[2019.12.12-09.21.17:654][178]LogMetaData: Removing '/Game/FirstPersonBP/Blueprints/Characters/FirstPersonCharacter.FirstPersonCharacter_C:FirstPersonCamera' ref from Metadata '/Game/FirstPersonBP/Blueprints/FirstPersonCharacter.PackageMetaData'
+[2019.12.12-09.21.17:654][178]LogMetaData: Removing '/Game/FirstPersonBP/Blueprints/Characters/FirstPersonCharacter.FirstPersonCharacter_C:Mesh2P' ref from Metadata '/Game/FirstPersonBP/Blueprints/FirstPersonCharacter.PackageMetaData'
+[2019.12.12-09.21.17:654][178]LogMetaData: Removing '/Game/FirstPersonBP/Blueprints/Characters/FirstPersonCharacter.FirstPersonCharacter_C:FP_Gun' ref from Metadata '/Game/FirstPersonBP/Blueprints/FirstPersonCharacter.PackageMetaData'
+[2019.12.12-09.21.17:654][178]LogMetaData: Removing '/Game/FirstPersonBP/Blueprints/Characters/FirstPersonCharacter.FirstPersonCharacter_C:Sphere' ref from Metadata '/Game/FirstPersonBP/Blueprints/FirstPersonCharacter.PackageMetaData'
+[2019.12.12-09.21.17:654][178]LogMetaData: Removing '/Game/FirstPersonBP/Blueprints/Characters/FirstPersonCharacter.FirstPersonCharacter_C:ReceiveTick' ref from Metadata '/Game/FirstPersonBP/Blueprints/FirstPersonCharacter.PackageMetaData'
+[2019.12.12-09.21.17:654][178]LogMetaData: Removing '/Game/FirstPersonBP/Blueprints/Characters/FirstPersonCharacter.FirstPersonCharacter_C:ReceiveBeginPlay' ref from Metadata '/Game/FirstPersonBP/Blueprints/FirstPersonCharacter.PackageMetaData'
+[2019.12.12-09.21.17:654][178]LogMetaData: Removing '/Game/FirstPersonBP/Blueprints/Characters/FirstPersonCharacter.FirstPersonCharacter_C:UserConstructionScript' ref from Metadata '/Game/FirstPersonBP/Blueprints/FirstPersonCharacter.PackageMetaData'
+[2019.12.12-09.21.17:654][178]LogMetaData: Removing '/Game/FirstPersonBP/Blueprints/Characters/FirstPersonCharacter.FirstPersonCharacter_C:Shoot.firstShoot' ref from Metadata '/Game/FirstPersonBP/Blueprints/FirstPersonCharacter.PackageMetaData'
+[2019.12.12-09.21.17:654][178]LogMetaData: Removing '/Game/FirstPersonBP/Blueprints/Characters/FirstPersonCharacter.FirstPersonCharacter_C:Reload' ref from Metadata '/Game/FirstPersonBP/Blueprints/FirstPersonCharacter.PackageMetaData'
+[2019.12.12-09.21.17:654][178]LogMetaData: Removing '/Game/FirstPersonBP/Blueprints/Characters/FirstPersonCharacter.FirstPersonCharacter_C:SetCharacter' ref from Metadata '/Game/FirstPersonBP/Blueprints/FirstPersonCharacter.PackageMetaData'
+[2019.12.12-09.21.17:654][178]LogMetaData: Removing '/Game/FirstPersonBP/Blueprints/Characters/FirstPersonCharacter.FirstPersonCharacter_C:Shoot' ref from Metadata '/Game/FirstPersonBP/Blueprints/FirstPersonCharacter.PackageMetaData'
+[2019.12.12-09.21.17:654][178]LogMetaData: Removing '/Game/FirstPersonBP/Blueprints/Characters/FirstPersonCharacter.FirstPersonCharacter_C:TakeDamage' ref from Metadata '/Game/FirstPersonBP/Blueprints/FirstPersonCharacter.PackageMetaData'
+[2019.12.12-09.21.17:681][178]LogMetaData: Removing '/Game/FirstPersonBP/Blueprints/Characters/Pharah.Pharah_C' ref from Metadata '/Game/FirstPersonBP/Blueprints/Pharah.PackageMetaData'
+[2019.12.12-09.21.17:681][178]LogMetaData: Removing '/Game/FirstPersonBP/Blueprints/Characters/Pharah.SKEL_Pharah_C:ReceiveBeginPlay' ref from Metadata '/Game/FirstPersonBP/Blueprints/Pharah.PackageMetaData'
+[2019.12.12-09.21.17:681][178]LogMetaData: Removing '/Game/FirstPersonBP/Blueprints/Characters/Pharah.SKEL_Pharah_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/FirstPersonBP/Blueprints/Pharah.PackageMetaData'
+[2019.12.12-09.21.17:681][178]LogMetaData: Removing '/Game/FirstPersonBP/Blueprints/Characters/Pharah.SKEL_Pharah_C:ReceiveTick' ref from Metadata '/Game/FirstPersonBP/Blueprints/Pharah.PackageMetaData'
+[2019.12.12-09.21.17:681][178]LogMetaData: Removing '/Game/FirstPersonBP/Blueprints/Characters/Pharah.SKEL_Pharah_C:hoverVelocity' ref from Metadata '/Game/FirstPersonBP/Blueprints/Pharah.PackageMetaData'
+[2019.12.12-09.21.17:681][178]LogMetaData: Removing '/Game/FirstPersonBP/Blueprints/Characters/Pharah.SKEL_Pharah_C:useJetpack' ref from Metadata '/Game/FirstPersonBP/Blueprints/Pharah.PackageMetaData'
+[2019.12.12-09.21.17:681][178]LogMetaData: Removing '/Game/FirstPersonBP/Blueprints/Characters/Pharah.SKEL_Pharah_C:UserConstructionScript' ref from Metadata '/Game/FirstPersonBP/Blueprints/Pharah.PackageMetaData'
+[2019.12.12-09.21.17:681][178]LogMetaData: Removing '/Game/FirstPersonBP/Blueprints/Characters/Pharah.SKEL_Pharah_C' ref from Metadata '/Game/FirstPersonBP/Blueprints/Pharah.PackageMetaData'
+[2019.12.12-09.21.17:681][178]LogMetaData: Removing '/Game/FirstPersonBP/Blueprints/Characters/Pharah.Pharah_C:hoverVelocity' ref from Metadata '/Game/FirstPersonBP/Blueprints/Pharah.PackageMetaData'
+[2019.12.12-09.21.17:681][178]LogMetaData: Removing '/Game/FirstPersonBP/Blueprints/Characters/Pharah.Pharah_C:useJetpack' ref from Metadata '/Game/FirstPersonBP/Blueprints/Pharah.PackageMetaData'
+[2019.12.12-09.21.17:681][178]LogMetaData: Removing '/Game/FirstPersonBP/Blueprints/Characters/Pharah.Pharah_C:ReceiveBeginPlay' ref from Metadata '/Game/FirstPersonBP/Blueprints/Pharah.PackageMetaData'
+[2019.12.12-09.21.17:681][178]LogMetaData: Removing '/Game/FirstPersonBP/Blueprints/Characters/Pharah.Pharah_C:ReceiveTick' ref from Metadata '/Game/FirstPersonBP/Blueprints/Pharah.PackageMetaData'
+[2019.12.12-09.21.17:693][178]LogMetaData: Removing '/Game/FirstPersonBP/Blueprints/Characters/Reaper.Reaper:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/FirstPersonBP/Blueprints/Reaper.PackageMetaData'
+[2019.12.12-09.21.17:693][178]LogMetaData: Removing '/Game/FirstPersonBP/Blueprints/Characters/Reaper.Reaper_C' ref from Metadata '/Game/FirstPersonBP/Blueprints/Reaper.PackageMetaData'
+[2019.12.12-09.21.17:693][178]LogMetaData: Removing '/Game/FirstPersonBP/Blueprints/Characters/Reaper.Reaper:EventGraph.K2Node_Event_0' ref from Metadata '/Game/FirstPersonBP/Blueprints/Reaper.PackageMetaData'
+[2019.12.12-09.21.17:693][178]LogMetaData: Removing '/Game/FirstPersonBP/Blueprints/Characters/Reaper.Reaper:EventGraph.K2Node_CallParentFunction_0' ref from Metadata '/Game/FirstPersonBP/Blueprints/Reaper.PackageMetaData'
+[2019.12.12-09.21.17:693][178]LogMetaData: Removing '/Game/FirstPersonBP/Blueprints/Characters/Reaper.Reaper:EventGraph.K2Node_Event_1' ref from Metadata '/Game/FirstPersonBP/Blueprints/Reaper.PackageMetaData'
+[2019.12.12-09.21.17:693][178]LogMetaData: Removing '/Game/FirstPersonBP/Blueprints/Characters/Reaper.Reaper:EventGraph.K2Node_Event_2' ref from Metadata '/Game/FirstPersonBP/Blueprints/Reaper.PackageMetaData'
+[2019.12.12-09.21.17:693][178]LogMetaData: Removing '/Game/FirstPersonBP/Blueprints/Characters/Reaper.Reaper:EventGraph.K2Node_CallParentFunction_1' ref from Metadata '/Game/FirstPersonBP/Blueprints/Reaper.PackageMetaData'
+[2019.12.12-09.21.17:693][178]LogMetaData: Removing '/Game/FirstPersonBP/Blueprints/Characters/Reaper.Reaper:ShootReaper.K2Node_FunctionEntry_0' ref from Metadata '/Game/FirstPersonBP/Blueprints/Reaper.PackageMetaData'
+[2019.12.12-09.21.17:693][178]LogMetaData: Removing '/Game/FirstPersonBP/Blueprints/Characters/Reaper.SKEL_Reaper_C:ReceiveBeginPlay' ref from Metadata '/Game/FirstPersonBP/Blueprints/Reaper.PackageMetaData'
+[2019.12.12-09.21.17:693][178]LogMetaData: Removing '/Game/FirstPersonBP/Blueprints/Characters/Reaper.SKEL_Reaper_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/FirstPersonBP/Blueprints/Reaper.PackageMetaData'
+[2019.12.12-09.21.17:693][178]LogMetaData: Removing '/Game/FirstPersonBP/Blueprints/Characters/Reaper.SKEL_Reaper_C:ReceiveTick' ref from Metadata '/Game/FirstPersonBP/Blueprints/Reaper.PackageMetaData'
+[2019.12.12-09.21.17:693][178]LogMetaData: Removing '/Game/FirstPersonBP/Blueprints/Characters/Reaper.SKEL_Reaper_C:Shoot' ref from Metadata '/Game/FirstPersonBP/Blueprints/Reaper.PackageMetaData'
+[2019.12.12-09.21.17:693][178]LogMetaData: Removing '/Game/FirstPersonBP/Blueprints/Characters/Reaper.SKEL_Reaper_C:isFirstShoot' ref from Metadata '/Game/FirstPersonBP/Blueprints/Reaper.PackageMetaData'
+[2019.12.12-09.21.17:693][178]LogMetaData: Removing '/Game/FirstPersonBP/Blueprints/Characters/Reaper.SKEL_Reaper_C:Sphere2' ref from Metadata '/Game/FirstPersonBP/Blueprints/Reaper.PackageMetaData'
+[2019.12.12-09.21.17:693][178]LogMetaData: Removing '/Game/FirstPersonBP/Blueprints/Characters/Reaper.SKEL_Reaper_C:FP_Gun2' ref from Metadata '/Game/FirstPersonBP/Blueprints/Reaper.PackageMetaData'
+[2019.12.12-09.21.17:693][178]LogMetaData: Removing '/Game/FirstPersonBP/Blueprints/Characters/Reaper.SKEL_Reaper_C:UserConstructionScript' ref from Metadata '/Game/FirstPersonBP/Blueprints/Reaper.PackageMetaData'
+[2019.12.12-09.21.17:693][178]LogMetaData: Removing '/Game/FirstPersonBP/Blueprints/Characters/Reaper.SKEL_Reaper_C:ShootReaper.gunOffset2' ref from Metadata '/Game/FirstPersonBP/Blueprints/Reaper.PackageMetaData'
+[2019.12.12-09.21.17:693][178]LogMetaData: Removing '/Game/FirstPersonBP/Blueprints/Characters/Reaper.SKEL_Reaper_C:ShootReaper' ref from Metadata '/Game/FirstPersonBP/Blueprints/Reaper.PackageMetaData'
+[2019.12.12-09.21.17:693][178]LogMetaData: Removing '/Game/FirstPersonBP/Blueprints/Characters/Reaper.SKEL_Reaper_C' ref from Metadata '/Game/FirstPersonBP/Blueprints/Reaper.PackageMetaData'
+[2019.12.12-09.21.17:693][178]LogMetaData: Removing '/Game/FirstPersonBP/Blueprints/Characters/Reaper.Reaper_C:isFirstShoot' ref from Metadata '/Game/FirstPersonBP/Blueprints/Reaper.PackageMetaData'
+[2019.12.12-09.21.17:693][178]LogMetaData: Removing '/Game/FirstPersonBP/Blueprints/Characters/Reaper.Reaper_C:Sphere2' ref from Metadata '/Game/FirstPersonBP/Blueprints/Reaper.PackageMetaData'
+[2019.12.12-09.21.17:693][178]LogMetaData: Removing '/Game/FirstPersonBP/Blueprints/Characters/Reaper.Reaper_C:FP_Gun2' ref from Metadata '/Game/FirstPersonBP/Blueprints/Reaper.PackageMetaData'
+[2019.12.12-09.21.17:693][178]LogMetaData: Removing '/Game/FirstPersonBP/Blueprints/Characters/Reaper.Reaper_C:ReceiveTick' ref from Metadata '/Game/FirstPersonBP/Blueprints/Reaper.PackageMetaData'
+[2019.12.12-09.21.17:693][178]LogMetaData: Removing '/Game/FirstPersonBP/Blueprints/Characters/Reaper.Reaper_C:ReceiveBeginPlay' ref from Metadata '/Game/FirstPersonBP/Blueprints/Reaper.PackageMetaData'
+[2019.12.12-09.21.17:693][178]LogMetaData: Removing '/Game/FirstPersonBP/Blueprints/Characters/Reaper.Reaper_C:ShootReaper.gunOffset2' ref from Metadata '/Game/FirstPersonBP/Blueprints/Reaper.PackageMetaData'
+[2019.12.12-09.21.17:693][178]LogMetaData: Removing '/Game/FirstPersonBP/Blueprints/Characters/Reaper.Reaper_C:Shoot' ref from Metadata '/Game/FirstPersonBP/Blueprints/Reaper.PackageMetaData'
+[2019.12.12-09.21.17:693][178]LogMetaData: Removing '/Game/FirstPersonBP/Blueprints/Characters/Reaper.Reaper_C:ShootReaper' ref from Metadata '/Game/FirstPersonBP/Blueprints/Reaper.PackageMetaData'
+[2019.12.12-09.21.17:709][178]LogMetaData: Removing '/Game/FirstPersonBP/Blueprints/Characters/Soldier97.Soldier97_C' ref from Metadata '/Game/FirstPersonBP/Blueprints/Soldier97.PackageMetaData'
+[2019.12.12-09.21.17:709][178]LogMetaData: Removing '/Game/FirstPersonBP/Blueprints/Characters/Soldier97.Soldier97:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/FirstPersonBP/Blueprints/Soldier97.PackageMetaData'
+[2019.12.12-09.21.17:709][178]LogMetaData: Removing '/Game/FirstPersonBP/Blueprints/Characters/Soldier97.Soldier97:EventGraph.K2Node_Event_0' ref from Metadata '/Game/FirstPersonBP/Blueprints/Soldier97.PackageMetaData'
+[2019.12.12-09.21.17:709][178]LogMetaData: Removing '/Game/FirstPersonBP/Blueprints/Characters/Soldier97.Soldier97:EventGraph.K2Node_CallParentFunction_1' ref from Metadata '/Game/FirstPersonBP/Blueprints/Soldier97.PackageMetaData'
+[2019.12.12-09.21.17:709][178]LogMetaData: Removing '/Game/FirstPersonBP/Blueprints/Characters/Soldier97.Soldier97:EventGraph.K2Node_Event_1' ref from Metadata '/Game/FirstPersonBP/Blueprints/Soldier97.PackageMetaData'
+[2019.12.12-09.21.17:709][178]LogMetaData: Removing '/Game/FirstPersonBP/Blueprints/Characters/Soldier97.SKEL_Soldier97_C:ReceiveBeginPlay' ref from Metadata '/Game/FirstPersonBP/Blueprints/Soldier97.PackageMetaData'
+[2019.12.12-09.21.17:709][178]LogMetaData: Removing '/Game/FirstPersonBP/Blueprints/Characters/Soldier97.SKEL_Soldier97_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/FirstPersonBP/Blueprints/Soldier97.PackageMetaData'
+[2019.12.12-09.21.17:709][178]LogMetaData: Removing '/Game/FirstPersonBP/Blueprints/Characters/Soldier97.SKEL_Soldier97_C:ReceiveTick' ref from Metadata '/Game/FirstPersonBP/Blueprints/Soldier97.PackageMetaData'
+[2019.12.12-09.21.17:709][178]LogMetaData: Removing '/Game/FirstPersonBP/Blueprints/Characters/Soldier97.SKEL_Soldier97_C:UserConstructionScript' ref from Metadata '/Game/FirstPersonBP/Blueprints/Soldier97.PackageMetaData'
+[2019.12.12-09.21.17:709][178]LogMetaData: Removing '/Game/FirstPersonBP/Blueprints/Characters/Soldier97.SKEL_Soldier97_C' ref from Metadata '/Game/FirstPersonBP/Blueprints/Soldier97.PackageMetaData'
+[2019.12.12-09.21.17:709][178]LogMetaData: Removing '/Game/FirstPersonBP/Blueprints/Characters/Soldier97.Soldier97_C:ReceiveTick' ref from Metadata '/Game/FirstPersonBP/Blueprints/Soldier97.PackageMetaData'
+[2019.12.12-09.21.17:709][178]LogMetaData: Removing '/Game/FirstPersonBP/Blueprints/Characters/Soldier97.Soldier97_C:ReceiveBeginPlay' ref from Metadata '/Game/FirstPersonBP/Blueprints/Soldier97.PackageMetaData'
+[2019.12.12-09.21.17:985][178]LogSavePackage: Moving '../../../../../../Users/alejandro.munoz/Desktop/AM/UnrealEngine/OverwatchUR4/BPOW/Saved/FirstPersonCharacter1BC7EE0348148CAE27A700BCCDD05923.tmp' to '../../../../../../Users/alejandro.munoz/Desktop/AM/UnrealEngine/OverwatchUR4/BPOW/Content/FirstPersonBP/Blueprints/Characters/FirstPersonCharacter.uasset'
+[2019.12.12-09.21.18:063][178]LogSavePackage: Moving '../../../../../../Users/alejandro.munoz/Desktop/AM/UnrealEngine/OverwatchUR4/BPOW/Saved/Pharah7061509B470114B98E960AA01BA8C3C3.tmp' to '../../../../../../Users/alejandro.munoz/Desktop/AM/UnrealEngine/OverwatchUR4/BPOW/Content/FirstPersonBP/Blueprints/Characters/Pharah.uasset'
+[2019.12.12-09.21.18:199][178]LogSavePackage: Moving '../../../../../../Users/alejandro.munoz/Desktop/AM/UnrealEngine/OverwatchUR4/BPOW/Saved/ReaperE0D4E55B4CD925795C80608F5E0B4055.tmp' to '../../../../../../Users/alejandro.munoz/Desktop/AM/UnrealEngine/OverwatchUR4/BPOW/Content/FirstPersonBP/Blueprints/Characters/Reaper.uasset'
+[2019.12.12-09.21.18:275][178]LogSavePackage: Moving '../../../../../../Users/alejandro.munoz/Desktop/AM/UnrealEngine/OverwatchUR4/BPOW/Saved/Soldier973506E5D9475776F352E6E5A757636291.tmp' to '../../../../../../Users/alejandro.munoz/Desktop/AM/UnrealEngine/OverwatchUR4/BPOW/Content/FirstPersonBP/Blueprints/Characters/Soldier97.uasset'
+[2019.12.12-09.21.18:847][178]LogUObjectHash: Compacting FUObjectHashTables data took   4.16ms
+[2019.12.12-09.21.18:882][178]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2019.12.12-09.21.18:927][178]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2019.12.12-09.21.18:971][178]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2019.12.12-09.21.19:012][178]LogUObjectHash: Compacting FUObjectHashTables data took   3.15ms
+[2019.12.12-09.21.19:050][178]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2019.12.12-09.21.19:157][178]LogSavePackage: Moving '../../../../../../Users/alejandro.munoz/Desktop/AM/UnrealEngine/OverwatchUR4/BPOW/Saved/Ability0EF3B65C4F9E76759D11BFB33E0B304F.tmp' to '../../../../../../Users/alejandro.munoz/Desktop/AM/UnrealEngine/OverwatchUR4/BPOW/Content/FirstPersonBP/Blueprints/Abilities/Ability.uasset'
+[2019.12.12-09.21.19:248][178]LogSavePackage: Moving '../../../../../../Users/alejandro.munoz/Desktop/AM/UnrealEngine/OverwatchUR4/BPOW/Saved/SprintD5391AB2432058DE15D4D18BCC4146A9.tmp' to '../../../../../../Users/alejandro.munoz/Desktop/AM/UnrealEngine/OverwatchUR4/BPOW/Content/FirstPersonBP/Blueprints/Abilities/Sprint.uasset'
+[2019.12.12-09.21.19:331][178]LogSavePackage: Moving '../../../../../../Users/alejandro.munoz/Desktop/AM/UnrealEngine/OverwatchUR4/BPOW/Saved/PharahLaunch276ECD77405BE5E6775244ADCE69B184.tmp' to '../../../../../../Users/alejandro.munoz/Desktop/AM/UnrealEngine/OverwatchUR4/BPOW/Content/FirstPersonBP/Blueprints/Abilities/Pharah/PharahLaunch.uasset'
+[2019.12.12-09.21.19:438][178]LogSavePackage: Moving '../../../../../../Users/alejandro.munoz/Desktop/AM/UnrealEngine/OverwatchUR4/BPOW/Saved/WraithForm707B2173467517FBF2C9DBA521F152EB.tmp' to '../../../../../../Users/alejandro.munoz/Desktop/AM/UnrealEngine/OverwatchUR4/BPOW/Content/FirstPersonBP/Blueprints/Abilities/Reaper/WraithForm.uasset'
+[2019.12.12-09.21.19:555][178]LogSavePackage: Moving '../../../../../../Users/alejandro.munoz/Desktop/AM/UnrealEngine/OverwatchUR4/BPOW/Saved/ShadowStep6DA380C84A9ADF852A5356887DD478B6.tmp' to '../../../../../../Users/alejandro.munoz/Desktop/AM/UnrealEngine/OverwatchUR4/BPOW/Content/FirstPersonBP/Blueprints/Abilities/Reaper/ShadowStep.uasset'
+[2019.12.12-09.21.19:626][178]LogSavePackage: Moving '../../../../../../Users/alejandro.munoz/Desktop/AM/UnrealEngine/OverwatchUR4/BPOW/Saved/FirstPersonGameMode3A91A6EF46B7AC20504DA59D32DD90C4.tmp' to '../../../../../../Users/alejandro.munoz/Desktop/AM/UnrealEngine/OverwatchUR4/BPOW/Content/FirstPersonBP/Blueprints/FirstPersonGameMode.uasset'
+[2019.12.12-09.21.35:953][ 94]LogMetaData: Removing '/Game/FirstPersonBP/Blueprints/MapLogic/SpawnProjectiles.SpawnProjectiles:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/FirstPersonBP/Blueprints/SpawnProjectiles.PackageMetaData'
+[2019.12.12-09.21.35:953][ 94]LogMetaData: Removing '/Game/FirstPersonBP/Blueprints/MapLogic/SpawnProjectiles.SpawnProjectiles_C' ref from Metadata '/Game/FirstPersonBP/Blueprints/SpawnProjectiles.PackageMetaData'
+[2019.12.12-09.21.35:953][ 94]LogMetaData: Removing '/Game/FirstPersonBP/Blueprints/MapLogic/SpawnProjectiles.SKEL_SpawnProjectiles_C:Projectile' ref from Metadata '/Game/FirstPersonBP/Blueprints/SpawnProjectiles.PackageMetaData'
+[2019.12.12-09.21.35:953][ 94]LogMetaData: Removing '/Game/FirstPersonBP/Blueprints/MapLogic/SpawnProjectiles.SKEL_SpawnProjectiles_C:DefaultSceneRoot' ref from Metadata '/Game/FirstPersonBP/Blueprints/SpawnProjectiles.PackageMetaData'
+[2019.12.12-09.21.35:953][ 94]LogMetaData: Removing '/Game/FirstPersonBP/Blueprints/MapLogic/SpawnProjectiles.SKEL_SpawnProjectiles_C:Cube' ref from Metadata '/Game/FirstPersonBP/Blueprints/SpawnProjectiles.PackageMetaData'
+[2019.12.12-09.21.35:953][ 94]LogMetaData: Removing '/Game/FirstPersonBP/Blueprints/MapLogic/SpawnProjectiles.SKEL_SpawnProjectiles_C:Cylinder' ref from Metadata '/Game/FirstPersonBP/Blueprints/SpawnProjectiles.PackageMetaData'
+[2019.12.12-09.21.35:953][ 94]LogMetaData: Removing '/Game/FirstPersonBP/Blueprints/MapLogic/SpawnProjectiles.SKEL_SpawnProjectiles_C:Sphere' ref from Metadata '/Game/FirstPersonBP/Blueprints/SpawnProjectiles.PackageMetaData'
+[2019.12.12-09.21.35:953][ 94]LogMetaData: Removing '/Game/FirstPersonBP/Blueprints/MapLogic/SpawnProjectiles.SKEL_SpawnProjectiles_C:UserConstructionScript' ref from Metadata '/Game/FirstPersonBP/Blueprints/SpawnProjectiles.PackageMetaData'
+[2019.12.12-09.21.35:953][ 94]LogMetaData: Removing '/Game/FirstPersonBP/Blueprints/MapLogic/SpawnProjectiles.SKEL_SpawnProjectiles_C' ref from Metadata '/Game/FirstPersonBP/Blueprints/SpawnProjectiles.PackageMetaData'
+[2019.12.12-09.21.35:953][ 94]LogMetaData: Removing '/Game/FirstPersonBP/Blueprints/MapLogic/SpawnProjectiles.SpawnProjectiles_C:Projectile' ref from Metadata '/Game/FirstPersonBP/Blueprints/SpawnProjectiles.PackageMetaData'
+[2019.12.12-09.21.35:953][ 94]LogMetaData: Removing '/Game/FirstPersonBP/Blueprints/MapLogic/SpawnProjectiles.SpawnProjectiles_C:DefaultSceneRoot' ref from Metadata '/Game/FirstPersonBP/Blueprints/SpawnProjectiles.PackageMetaData'
+[2019.12.12-09.21.35:953][ 94]LogMetaData: Removing '/Game/FirstPersonBP/Blueprints/MapLogic/SpawnProjectiles.SpawnProjectiles_C:Cube' ref from Metadata '/Game/FirstPersonBP/Blueprints/SpawnProjectiles.PackageMetaData'
+[2019.12.12-09.21.35:953][ 94]LogMetaData: Removing '/Game/FirstPersonBP/Blueprints/MapLogic/SpawnProjectiles.SpawnProjectiles_C:Cylinder' ref from Metadata '/Game/FirstPersonBP/Blueprints/SpawnProjectiles.PackageMetaData'
+[2019.12.12-09.21.35:953][ 94]LogMetaData: Removing '/Game/FirstPersonBP/Blueprints/MapLogic/SpawnProjectiles.SpawnProjectiles_C:Sphere' ref from Metadata '/Game/FirstPersonBP/Blueprints/SpawnProjectiles.PackageMetaData'
+[2019.12.12-09.21.36:019][ 94]LogSavePackage: Moving '../../../../../../Users/alejandro.munoz/Desktop/AM/UnrealEngine/OverwatchUR4/BPOW/Saved/SpawnProjectilesC71E3E9941ABF5439A98A8BA5CD4AF1A.tmp' to '../../../../../../Users/alejandro.munoz/Desktop/AM/UnrealEngine/OverwatchUR4/BPOW/Content/FirstPersonBP/Blueprints/MapLogic/SpawnProjectiles.uasset'
+[2019.12.12-09.21.36:090][ 94]LogSavePackage: Moving '../../../../../../Users/alejandro.munoz/Desktop/AM/UnrealEngine/OverwatchUR4/BPOW/Saved/SpawnProjectiles6DB9306E4AD35802FCA0CEBDBFE2BF77.tmp' to '../../../../../../Users/alejandro.munoz/Desktop/AM/UnrealEngine/OverwatchUR4/BPOW/Content/FirstPersonBP/Blueprints/SpawnProjectiles.uasset'
+[2019.12.12-09.21.59:090][138]LogSlate: Window 'Pick Parent Class' being destroyed
+[2019.12.12-09.22.07:910][190]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/FirstPersonBP/Blueprints/IA/Enemy1.Enemy1
+[2019.12.12-09.22.10:330][402]LogSlate: Window 'Enemy1' being destroyed
+[2019.12.12-09.22.34:428][283]LogUObjectHash: Compacting FUObjectHashTables data took   3.13ms
+[2019.12.12-09.22.34:797][283]LogSavePackage: Moving '../../../../../../Users/alejandro.munoz/Desktop/AM/UnrealEngine/OverwatchUR4/BPOW/Saved/IA_MAP_Auto4911B31A84241351992BA08944F1EF57F.tmp' to '../../../../../../Users/alejandro.munoz/Desktop/AM/UnrealEngine/OverwatchUR4/BPOW/Saved/Autosaves/Game/FirstPersonBP/Maps/IA_MAP_Auto4.umap'
+[2019.12.12-09.22.34:807][283]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonBP/Maps/IA_MAP' took 0.421
+[2019.12.12-09.22.34:807][283]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.421
+[2019.12.12-09.22.34:809][283]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/FirstPersonBP/Blueprints/IA/Enemy1] ([1] browsable assets)...
+[2019.12.12-09.22.34:809][283]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPersonBP/Blueprints/IA/Enemy1]
+[2019.12.12-09.22.34:827][283]LogSavePackage: Moving '../../../../../../Users/alejandro.munoz/Desktop/AM/UnrealEngine/OverwatchUR4/BPOW/Saved/Enemy1_Auto45510EE1742BC9C011AA772A4C8645384.tmp' to '../../../../../../Users/alejandro.munoz/Desktop/AM/UnrealEngine/OverwatchUR4/BPOW/Saved/Autosaves/Game/FirstPersonBP/Blueprints/IA/Enemy1_Auto4.uasset'
+[2019.12.12-09.22.34:829][283]LogFileHelpers: Auto-saving content packages took 0.021
+[2019.12.12-09.45.50:557][408]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.12-09.45.58:939][401]LogEditorTransaction: Undo Modify Component(s)
+[2019.12.12-09.46.12:486][ 16]LogEditorTransaction: Undo Modify Component(s)
+[2019.12.12-09.46.27:631][818]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.12-09.46.30:295][134]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.12-09.47.30:350][306]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.12-09.47.30:453][306]LogUObjectHash: Compacting FUObjectHashTables data took   4.23ms
+[2019.12.12-09.47.30:453][306]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonBP/Maps/IA_MAP' took 0.064
+[2019.12.12-09.47.30:455][306]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/FirstPersonBP/Blueprints/IA/Enemy1] ([1] browsable assets)...
+[2019.12.12-09.47.30:467][306]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/FirstPersonBP/Blueprints/IA/Enemy1.Enemy1]
+[2019.12.12-09.47.30:467][306]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPersonBP/Blueprints/IA/Enemy1]
+[2019.12.12-09.47.30:496][306]LogSavePackage: Moving '../../../../../../Users/alejandro.munoz/Desktop/AM/UnrealEngine/OverwatchUR4/BPOW/Saved/Enemy1_Auto5ABB2CBE541BF19F7694163880D253E13.tmp' to '../../../../../../Users/alejandro.munoz/Desktop/AM/UnrealEngine/OverwatchUR4/BPOW/Saved/Autosaves/Game/FirstPersonBP/Blueprints/IA/Enemy1_Auto5.uasset'
+[2019.12.12-09.47.30:498][306]LogFileHelpers: Auto-saving content packages took 0.044
+[2019.12.12-09.48.34:176][944]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.12-09.48.34:226][950]BlueprintLog: New page: Compile Enemy1
+[2019.12.12-09.48.34:467][950]LogUObjectHash: Compacting FUObjectHashTables data took   3.98ms
+[2019.12.12-09.48.42:546][900]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.12-09.48.52:913][123]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.12-09.48.58:163][744]Cmd: MODE GRID=1
+[2019.12.12-09.48.58:727][809]Cmd: MODE GRID=0
+[2019.12.12-09.57.30:923][784]LogUObjectHash: Compacting FUObjectHashTables data took   4.66ms
+[2019.12.12-09.57.31:290][784]LogSavePackage: Moving '../../../../../../Users/alejandro.munoz/Desktop/AM/UnrealEngine/OverwatchUR4/BPOW/Saved/IA_MAP_Auto6878D645344207992211267A65606D7C0.tmp' to '../../../../../../Users/alejandro.munoz/Desktop/AM/UnrealEngine/OverwatchUR4/BPOW/Saved/Autosaves/Game/FirstPersonBP/Maps/IA_MAP_Auto6.umap'
+[2019.12.12-09.57.31:294][784]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonBP/Maps/IA_MAP' took 0.420
+[2019.12.12-09.57.31:294][784]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.420
+[2019.12.12-09.57.40:110][812]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.12-09.57.43:633][170]LogAssetEditorManager: Opening Asset editor for LevelScriptBlueprint /Game/FirstPersonBP/Maps/IA_MAP.IA_MAP:PersistentLevel.IA_MAP
+[2019.12.12-10.24.30:093][664]LogUObjectHash: Compacting FUObjectHashTables data took   7.80ms
+[2019.12.12-10.24.30:154][664]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2019.12.12-10.24.30:498][664]LogSavePackage: Moving '../../../../../../Users/alejandro.munoz/Desktop/AM/UnrealEngine/OverwatchUR4/BPOW/Saved/IA_MAP2E9AD3CC482CE7AA6A1DCCB0067BB97A.tmp' to '../../../../../../Users/alejandro.munoz/Desktop/AM/UnrealEngine/OverwatchUR4/BPOW/Content/FirstPersonBP/Maps/IA_MAP.umap'
+[2019.12.12-10.24.30:555][664]LogFileHelpers: Saving map 'IA_MAP' took 0.448
+[2019.12.12-10.24.30:605][664]LogSavePackage: Moving '../../../../../../Users/alejandro.munoz/Desktop/AM/UnrealEngine/OverwatchUR4/BPOW/Saved/Enemy17637EE194A0DBC8BEE32E3BACFCFED0B.tmp' to '../../../../../../Users/alejandro.munoz/Desktop/AM/UnrealEngine/OverwatchUR4/BPOW/Content/FirstPersonBP/Blueprints/IA/Enemy1.uasset'
+[2019.12.12-10.24.31:144][714]LogUObjectHash: Compacting FUObjectHashTables data took   3.88ms
+[2019.12.12-10.24.31:386][714]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2019.12.12-10.24.31:452][714]LogSlate: Window 'BPOW - Unreal Editor' being destroyed
+[2019.12.12-10.24.31:647][715]Cmd: QUIT_EDITOR
+[2019.12.12-10.24.32:647][715]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.12.12-10.24.32:664][715]LogExit: Preparing to exit.
+[2019.12.12-10.24.33:823][715]LogExit: Editor shut down
+[2019.12.12-10.24.33:823][715]LogExit: Transaction tracking system shut down
+[2019.12.12-10.24.34:182][715]LogExit: Object subsystem successfully closed.
+[2019.12.12-10.24.34:209][715]LogShaderCompilers: Display: Shaders left to compile 0
+[2019.12.12-10.24.34:219][715]LogD3D11RHI: Shutdown
+[2019.12.12-10.24.34:219][715]LogD3D11RHI: CleanupD3DDevice
+[2019.12.12-10.24.34:220][715]LogRendererCore: FGlobalReadBuffer::ReleaseRHI
+[2019.12.12-10.24.34:220][715]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2019.12.12-10.24.34:220][715]LogRendererCore: FGlobalReadBuffer::ReleaseRHI
+[2019.12.12-10.24.34:220][715]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2019.12.12-10.24.34:220][715]LogRendererCore: FGlobalReadBuffer::ReleaseRHI
+[2019.12.12-10.24.34:220][715]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2019.12.12-10.24.34:508][715]LogD3D11RHI: ~FD3D11DynamicRHI
+[2019.12.12-10.24.34:596][715]LogModuleManager: Shutting down and abandoning module HierarchicalLODUtilities (656)
+[2019.12.12-10.24.34:596][715]LogModuleManager: Shutting down and abandoning module MeshBuilder (654)
+[2019.12.12-10.24.34:596][715]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (652)
+[2019.12.12-10.24.34:596][715]LogModuleManager: Shutting down and abandoning module Voice (650)
+[2019.12.12-10.24.34:596][715]LogModuleManager: Shutting down and abandoning module SequencerWidgets (648)
+[2019.12.12-10.24.34:596][715]LogModuleManager: Shutting down and abandoning module BlueprintGraph (646)
+[2019.12.12-10.24.34:596][715]LogModuleManager: Shutting down and abandoning module DataTableEditor (644)
+[2019.12.12-10.24.34:596][715]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (642)
+[2019.12.12-10.24.34:596][715]LogModuleManager: Shutting down and abandoning module SceneOutliner (640)
+[2019.12.12-10.24.34:596][715]LogModuleManager: Shutting down and abandoning module AddContentDialog (638)
+[2019.12.12-10.24.34:597][715]LogModuleManager: Shutting down and abandoning module WidgetCarousel (637)
+[2019.12.12-10.24.34:597][715]LogModuleManager: Shutting down and abandoning module EditorWidgets (634)
+[2019.12.12-10.24.34:597][715]LogModuleManager: Shutting down and abandoning module CollectionManager (632)
+[2019.12.12-10.24.34:597][715]LogModuleManager: Shutting down and abandoning module StatsViewer (630)
+[2019.12.12-10.24.34:598][715]LogModuleManager: Shutting down and abandoning module FoliageEdit (628)
+[2019.12.12-10.24.34:598][715]LogModuleManager: Shutting down and abandoning module LandscapeEditor (626)
+[2019.12.12-10.24.34:598][715]LogModuleManager: Shutting down and abandoning module MeshPaintMode (624)
+[2019.12.12-10.24.34:598][715]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (622)
+[2019.12.12-10.24.34:598][715]LogModuleManager: Shutting down and abandoning module ActorPickerMode (620)
+[2019.12.12-10.24.34:598][715]LogModuleManager: Shutting down and abandoning module GeometryMode (618)
+[2019.12.12-10.24.34:598][715]LogModuleManager: Shutting down and abandoning module TextureAlignMode (616)
+[2019.12.12-10.24.34:598][715]LogModuleManager: Shutting down and abandoning module BspMode (614)
+[2019.12.12-10.24.34:598][715]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (612)
+[2019.12.12-10.24.34:598][715]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (610)
+[2019.12.12-10.24.34:598][715]LogModuleManager: Shutting down and abandoning module AutomationWorker (608)
+[2019.12.12-10.24.34:598][715]LogModuleManager: Shutting down and abandoning module OculusMR (606)
+[2019.12.12-10.24.34:598][715]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (604)
+[2019.12.12-10.24.34:598][715]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (602)
+[2019.12.12-10.24.34:598][715]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (600)
+[2019.12.12-10.24.34:598][715]LogModuleManager: Shutting down and abandoning module PlacementMode (599)
+[2019.12.12-10.24.34:599][715]LogModuleManager: Shutting down and abandoning module MaterialEditor (598)
+[2019.12.12-10.24.34:599][715]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (594)
+[2019.12.12-10.24.34:599][715]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (592)
+[2019.12.12-10.24.34:599][715]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (590)
+[2019.12.12-10.24.34:599][715]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (588)
+[2019.12.12-10.24.34:599][715]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (586)
+[2019.12.12-10.24.34:599][715]LogModuleManager: Shutting down and abandoning module WebMMedia (584)
+[2019.12.12-10.24.34:599][715]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (582)
+[2019.12.12-10.24.34:599][715]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (580)
+[2019.12.12-10.24.34:599][715]LogModuleManager: Shutting down and abandoning module SequenceRecorder (579)
+[2019.12.12-10.24.34:599][715]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (576)
+[2019.12.12-10.24.34:599][715]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (574)
+[2019.12.12-10.24.34:599][715]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (572)
+[2019.12.12-10.24.34:599][715]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (570)
+[2019.12.12-10.24.34:599][715]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (568)
+[2019.12.12-10.24.34:599][715]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (566)
+[2019.12.12-10.24.34:599][715]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (564)
+[2019.12.12-10.24.34:599][715]LogModuleManager: Shutting down and abandoning module MagicLeapCameraPreviewFactory (562)
+[2019.12.12-10.24.34:599][715]LogModuleManager: Shutting down and abandoning module MagicLeapMediaCodecFactory (560)
+[2019.12.12-10.24.34:599][715]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (558)
+[2019.12.12-10.24.34:599][715]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (556)
+[2019.12.12-10.24.34:599][715]LogModuleManager: Shutting down and abandoning module CharacterAI (554)
+[2019.12.12-10.24.34:599][715]LogModuleManager: Shutting down and abandoning module SmartSnapping (552)
+[2019.12.12-10.24.34:599][715]LogModuleManager: Shutting down and abandoning module SessionServices (550)
+[2019.12.12-10.24.34:599][715]LogModuleManager: Shutting down and abandoning module MeshPaint (548)
+[2019.12.12-10.24.34:599][715]LogModuleManager: Shutting down and abandoning module ViewportSnapping (546)
+[2019.12.12-10.24.34:599][715]LogModuleManager: Shutting down and abandoning module ViewportInteraction (544)
+[2019.12.12-10.24.34:599][715]LogModuleManager: Shutting down and abandoning module ClothPainter (542)
+[2019.12.12-10.24.34:599][715]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (541)
+[2019.12.12-10.24.34:600][715]LogModuleManager: Shutting down and abandoning module LogVisualizer (538)
+[2019.12.12-10.24.34:600][715]LogModuleManager: Shutting down and abandoning module IntroTutorials (536)
+[2019.12.12-10.24.34:600][715]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (535)
+[2019.12.12-10.24.34:600][715]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (532)
+[2019.12.12-10.24.34:600][715]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (530)
+[2019.12.12-10.24.34:600][715]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (528)
+[2019.12.12-10.24.34:600][715]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (526)
+[2019.12.12-10.24.34:600][715]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (525)
+[2019.12.12-10.24.35:455][715]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (522)
+[2019.12.12-10.24.35:455][715]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (520)
+[2019.12.12-10.24.35:455][715]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (518)
+[2019.12.12-10.24.35:455][715]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (516)
+[2019.12.12-10.24.35:455][715]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (514)
+[2019.12.12-10.24.35:455][715]LogModuleManager: Shutting down and abandoning module InputBindingEditor (512)
+[2019.12.12-10.24.35:456][715]LogModuleManager: Shutting down and abandoning module MergeActors (510)
+[2019.12.12-10.24.35:456][715]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (508)
+[2019.12.12-10.24.35:456][715]LogModuleManager: Shutting down and abandoning module LocalizationService (507)
+[2019.12.12-10.24.35:456][715]LogModuleManager: Shutting down and abandoning module HardwareTargeting (504)
+[2019.12.12-10.24.35:456][715]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (502)
+[2019.12.12-10.24.35:456][715]LogModuleManager: Shutting down and abandoning module UndoHistory (500)
+[2019.12.12-10.24.35:456][715]LogModuleManager: Shutting down and abandoning module XmlParser (498)
+[2019.12.12-10.24.35:456][715]LogModuleManager: Shutting down and abandoning module Blutility (496)
+[2019.12.12-10.24.35:456][715]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (494)
+[2019.12.12-10.24.35:456][715]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (493)
+[2019.12.12-10.24.35:456][715]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (490)
+[2019.12.12-10.24.35:456][715]LogModuleManager: Shutting down and abandoning module SettingsEditor (488)
+[2019.12.12-10.24.35:456][715]LogModuleManager: Shutting down and abandoning module ProjectLauncher (486)
+[2019.12.12-10.24.35:456][715]LogModuleManager: Shutting down and abandoning module SessionFrontend (484)
+[2019.12.12-10.24.35:456][715]LogModuleManager: Shutting down and abandoning module ProfilerClient (482)
+[2019.12.12-10.24.35:456][715]LogModuleManager: Shutting down and abandoning module DeviceManager (480)
+[2019.12.12-10.24.35:456][715]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (479)
+[2019.12.12-10.24.35:511][715]LogModuleManager: Shutting down and abandoning module AutomationController (476)
+[2019.12.12-10.24.35:511][715]LogModuleManager: Shutting down and abandoning module AutomationWindow (474)
+[2019.12.12-10.24.35:511][715]LogModuleManager: Shutting down and abandoning module Layers (472)
+[2019.12.12-10.24.35:511][715]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (470)
+[2019.12.12-10.24.35:511][715]LogModuleManager: Shutting down and abandoning module DetailCustomizations (468)
+[2019.12.12-10.24.35:511][715]LogModuleManager: Shutting down and abandoning module PackagesDialog (466)
+[2019.12.12-10.24.35:511][715]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (464)
+[2019.12.12-10.24.35:511][715]LogModuleManager: Shutting down and abandoning module Persona (462)
+[2019.12.12-10.24.35:511][715]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (461)
+[2019.12.12-10.24.35:511][715]LogModuleManager: Shutting down and abandoning module AnimGraph (459)
+[2019.12.12-10.24.35:511][715]LogModuleManager: Shutting down and abandoning module Kismet (456)
+[2019.12.12-10.24.35:519][715]LogModuleManager: Shutting down and abandoning module GraphEditor (454)
+[2019.12.12-10.24.35:519][715]LogModuleManager: Shutting down and abandoning module ClassViewer (452)
+[2019.12.12-10.24.35:520][715]LogModuleManager: Shutting down and abandoning module Toolbox (450)
+[2019.12.12-10.24.35:520][715]LogModuleManager: Shutting down and abandoning module ModuleUI (448)
+[2019.12.12-10.24.35:520][715]LogModuleManager: Shutting down and abandoning module MovieSceneTools (446)
+[2019.12.12-10.24.35:520][715]LogModuleManager: Shutting down and abandoning module OutputLog (444)
+[2019.12.12-10.24.35:520][715]LogModuleManager: Shutting down and abandoning module GammaUI (442)
+[2019.12.12-10.24.35:520][715]LogModuleManager: Shutting down and abandoning module Documentation (440)
+[2019.12.12-10.24.35:521][715]LogModuleManager: Shutting down and abandoning module LiveCoding (438)
+[2019.12.12-10.24.35:521][715]LogModuleManager: Shutting down and abandoning module LevelSequence (436)
+[2019.12.12-10.24.35:521][715]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (434)
+[2019.12.12-10.24.35:521][715]LogModuleManager: Shutting down and abandoning module MovieScene (432)
+[2019.12.12-10.24.35:521][715]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (430)
+[2019.12.12-10.24.35:521][715]LogModuleManager: Shutting down and abandoning module LauncherPlatform (428)
+[2019.12.12-10.24.35:521][715]LogModuleManager: Shutting down and abandoning module AnalyticsET (426)
+[2019.12.12-10.24.35:521][715]LogModuleManager: Shutting down and abandoning module PortalServices (424)
+[2019.12.12-10.24.35:521][715]LogModuleManager: Shutting down and abandoning module PortalRpc (422)
+[2019.12.12-10.24.35:521][715]LogModuleManager: Shutting down and abandoning module MessagingRpc (420)
+[2019.12.12-10.24.35:521][715]LogModuleManager: Shutting down and abandoning module AIModule (418)
+[2019.12.12-10.24.35:521][715]LogModuleManager: Shutting down and abandoning module GameplayDebugger (417)
+[2019.12.12-10.24.35:521][715]LogModuleManager: Shutting down and abandoning module AITestSuite (415)
+[2019.12.12-10.24.35:521][715]LogModuleManager: Shutting down and abandoning module NavigationSystem (413)
+[2019.12.12-10.24.35:521][715]LogModuleManager: Shutting down and abandoning module DesktopPlatform (410)
+[2019.12.12-10.24.35:521][715]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (408)
+[2019.12.12-10.24.35:524][715]LogModuleManager: Shutting down and abandoning module ProfilerService (406)
+[2019.12.12-10.24.35:635][715]LogModuleManager: Shutting down and abandoning module TaskGraph (404)
+[2019.12.12-10.24.35:635][715]LogModuleManager: Shutting down and abandoning module SteamVRController (402)
+[2019.12.12-10.24.35:635][715]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (400)
+[2019.12.12-10.24.35:635][715]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (398)
+[2019.12.12-10.24.35:635][715]LogModuleManager: Shutting down and abandoning module OculusEditor (396)
+[2019.12.12-10.24.35:635][715]LogModuleManager: Shutting down and abandoning module OculusInput (394)
+[2019.12.12-10.24.35:635][715]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (392)
+[2019.12.12-10.24.35:635][715]LogModuleManager: Shutting down and abandoning module EditableMesh (390)
+[2019.12.12-10.24.35:635][715]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (388)
+[2019.12.12-10.24.35:635][715]LogModuleManager: Shutting down and abandoning module CableComponent (386)
+[2019.12.12-10.24.35:635][715]LogModuleManager: Shutting down and abandoning module AudioCapture (384)
+[2019.12.12-10.24.35:635][715]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (382)
+[2019.12.12-10.24.35:635][715]LogModuleManager: Shutting down and abandoning module AndroidPermission (380)
+[2019.12.12-10.24.35:635][715]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (378)
+[2019.12.12-10.24.35:635][715]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (376)
+[2019.12.12-10.24.35:635][715]LogModuleManager: Shutting down and abandoning module MediaCompositing (374)
+[2019.12.12-10.24.35:635][715]LogModuleManager: Shutting down and abandoning module LinearTimecode (372)
+[2019.12.12-10.24.35:635][715]LogModuleManager: Shutting down and abandoning module ImgMedia (370)
+[2019.12.12-10.24.35:635][715]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (368)
+[2019.12.12-10.24.35:635][715]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (366)
+[2019.12.12-10.24.35:635][715]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (364)
+[2019.12.12-10.24.35:635][715]LogModuleManager: Shutting down and abandoning module HTML5Networking (362)
+[2019.12.12-10.24.35:635][715]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (360)
+[2019.12.12-10.24.35:635][715]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (358)
+[2019.12.12-10.24.35:635][715]LogModuleManager: Shutting down and abandoning module BackChannel (356)
+[2019.12.12-10.24.35:635][715]LogModuleManager: Shutting down and abandoning module AppleVision (354)
+[2019.12.12-10.24.35:635][715]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (352)
+[2019.12.12-10.24.35:635][715]LogModuleManager: Shutting down and abandoning module AppleImageUtils (350)
+[2019.12.12-10.24.35:635][715]LogModuleManager: Shutting down and abandoning module AlembicImporter (348)
+[2019.12.12-10.24.35:635][715]LogModuleManager: Shutting down and abandoning module AlembicLibrary (347)
+[2019.12.12-10.24.35:635][715]LogModuleManager: Shutting down and abandoning module GeometryCache (346)
+[2019.12.12-10.24.35:635][715]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (345)
+[2019.12.12-10.24.35:635][715]LogModuleManager: Shutting down and abandoning module VariantManagerContent (340)
+[2019.12.12-10.24.35:635][715]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (338)
+[2019.12.12-10.24.35:635][715]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (336)
+[2019.12.12-10.24.35:635][715]LogModuleManager: Shutting down and abandoning module PluginBrowser (334)
+[2019.12.12-10.24.35:635][715]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (332)
+[2019.12.12-10.24.35:636][715]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (330)
+[2019.12.12-10.24.35:636][715]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (328)
+[2019.12.12-10.24.35:636][715]LogModuleManager: Shutting down and abandoning module CryptoKeys (326)
+[2019.12.12-10.24.35:636][715]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (324)
+[2019.12.12-10.24.35:636][715]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (322)
+[2019.12.12-10.24.35:636][715]LogModuleManager: Shutting down and abandoning module UObjectPlugin (320)
+[2019.12.12-10.24.35:636][715]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (318)
+[2019.12.12-10.24.35:636][715]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (316)
+[2019.12.12-10.24.35:636][715]LogModuleManager: Shutting down and abandoning module GitSourceControl (314)
+[2019.12.12-10.24.35:636][715]LogModuleManager: Shutting down and abandoning module SourceControl (313)
+[2019.12.12-10.24.35:636][715]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (310)
+[2019.12.12-10.24.35:636][715]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (308)
+[2019.12.12-10.24.35:636][715]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (306)
+[2019.12.12-10.24.35:636][715]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (304)
+[2019.12.12-10.24.35:636][715]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (302)
+[2019.12.12-10.24.35:636][715]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (300)
+[2019.12.12-10.24.35:636][715]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (298)
+[2019.12.12-10.24.35:636][715]LogModuleManager: Shutting down and abandoning module Paper2DEditor (296)
+[2019.12.12-10.24.35:636][715]LogModuleManager: Shutting down and abandoning module SignificanceManager (294)
+[2019.12.12-10.24.35:636][715]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (292)
+[2019.12.12-10.24.35:636][715]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (290)
+[2019.12.12-10.24.35:636][715]LogModuleManager: Shutting down and abandoning module PhysXVehicles (288)
+[2019.12.12-10.24.35:636][715]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (286)
+[2019.12.12-10.24.35:636][715]LogModuleManager: Shutting down and abandoning module ActorSequence (284)
+[2019.12.12-10.24.35:636][715]LogModuleManager: Shutting down and abandoning module UdpMessaging (282)
+[2019.12.12-10.24.35:737][715]LogModuleManager: Shutting down and abandoning module TcpMessaging (280)
+[2019.12.12-10.24.35:838][715]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (278)
+[2019.12.12-10.24.35:838][715]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (276)
+[2019.12.12-10.24.35:838][715]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (274)
+[2019.12.12-10.24.35:838][715]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (272)
+[2019.12.12-10.24.35:838][715]LogModuleManager: Shutting down and abandoning module MagicLeapController (270)
+[2019.12.12-10.24.35:838][715]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2019.12.12-10.24.35:838][715]LogModuleManager: Shutting down and abandoning module MagicLeapAR (268)
+[2019.12.12-10.24.35:838][715]LogModuleManager: Shutting down and abandoning module AugmentedReality (267)
+[2019.12.12-10.24.35:838][715]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (264)
+[2019.12.12-10.24.35:838][715]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (262)
+[2019.12.12-10.24.35:838][715]LogModuleManager: Shutting down and abandoning module FacialAnimation (260)
+[2019.12.12-10.24.35:838][715]LogModuleManager: Shutting down and abandoning module DataValidation (258)
+[2019.12.12-10.24.35:838][715]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (256)
+[2019.12.12-10.24.35:838][715]LogModuleManager: Shutting down and abandoning module LevelEditor (255)
+[2019.12.12-10.24.35:839][715]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (254)
+[2019.12.12-10.24.35:839][715]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (252)
+[2019.12.12-10.24.35:839][715]LogModuleManager: Shutting down and abandoning module MainFrame (250)
+[2019.12.12-10.24.35:839][715]LogModuleManager: Shutting down and abandoning module HotReload (249)
+[2019.12.12-10.24.35:840][715]LogModuleManager: Shutting down and abandoning module ContentBrowser (245)
+[2019.12.12-10.24.35:841][715]LogModuleManager: Shutting down and abandoning module TreeMap (243)
+[2019.12.12-10.24.35:841][715]LogModuleManager: Shutting down and abandoning module AnimationSharing (240)
+[2019.12.12-10.24.35:841][715]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (238)
+[2019.12.12-10.24.35:841][715]LogModuleManager: Shutting down and abandoning module AISupportModule (236)
+[2019.12.12-10.24.35:841][715]LogModuleManager: Shutting down and abandoning module Paper2D (234)
+[2019.12.12-10.24.35:841][715]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (232)
+[2019.12.12-10.24.35:841][715]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (230)
+[2019.12.12-10.24.35:841][715]LogModuleManager: Shutting down and abandoning module PacketHandler (228)
+[2019.12.12-10.24.35:841][715]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (226)
+[2019.12.12-10.24.35:841][715]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (224)
+[2019.12.12-10.24.35:842][715]LogModuleManager: Shutting down and abandoning module MediaAssets (222)
+[2019.12.12-10.24.35:842][715]LogModuleManager: Shutting down and abandoning module Overlay (220)
+[2019.12.12-10.24.35:842][715]LogModuleManager: Shutting down and abandoning module OverlayEditor (219)
+[2019.12.12-10.24.35:842][715]LogModuleManager: Shutting down and abandoning module VREditor (216)
+[2019.12.12-10.24.35:842][715]LogModuleManager: Shutting down and abandoning module StringTableEditor (214)
+[2019.12.12-10.24.35:842][715]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (212)
+[2019.12.12-10.24.35:842][715]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (210)
+[2019.12.12-10.24.35:842][715]LogModuleManager: Shutting down and abandoning module FunctionalTesting (208)
+[2019.12.12-10.24.35:842][715]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (206)
+[2019.12.12-10.24.35:842][715]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (205)
+[2019.12.12-10.24.35:842][715]LogModuleManager: Shutting down and abandoning module UMG (202)
+[2019.12.12-10.24.35:842][715]LogModuleManager: Shutting down and abandoning module UMGEditor (201)
+[2019.12.12-10.24.35:842][715]LogModuleManager: Shutting down and abandoning module Sequencer (200)
+[2019.12.12-10.24.35:842][715]LogModuleManager: Shutting down and abandoning module MessageLog (197)
+[2019.12.12-10.24.35:842][715]LogModuleManager: Shutting down and abandoning module SlateReflector (192)
+[2019.12.12-10.24.35:842][715]LogModuleManager: Shutting down and abandoning module Slate (190)
+[2019.12.12-10.24.35:842][715]LogModuleManager: Shutting down and abandoning module EditorStyle (188)
+[2019.12.12-10.24.35:844][715]LogModuleManager: Shutting down and abandoning module UnrealEd (186)
+[2019.12.12-10.24.35:844][715]LogModuleManager: Shutting down and abandoning module MRMesh (184)
+[2019.12.12-10.24.35:844][715]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (182)
+[2019.12.12-10.24.35:844][715]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (180)
+[2019.12.12-10.24.35:844][715]LogModuleManager: Shutting down and abandoning module XAudio2 (178)
+[2019.12.12-10.24.35:844][715]LogModuleManager: Shutting down and abandoning module Networking (176)
+[2019.12.12-10.24.35:844][715]LogModuleManager: Shutting down and abandoning module Core (174)
+[2019.12.12-10.24.35:844][715]LogModuleManager: Shutting down and abandoning module KismetCompiler (172)
+[2019.12.12-10.24.35:844][715]LogModuleManager: Shutting down and abandoning module MeshUtilities (170)
+[2019.12.12-10.24.35:844][715]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (169)
+[2019.12.12-10.24.35:844][715]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (168)
+[2019.12.12-10.24.35:844][715]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (167)
+[2019.12.12-10.24.35:844][715]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (165)
+[2019.12.12-10.24.35:844][715]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (163)
+[2019.12.12-10.24.35:844][715]LogModuleManager: Shutting down and abandoning module MaterialBaking (159)
+[2019.12.12-10.24.35:844][715]LogModuleManager: Shutting down and abandoning module DerivedDataCache (154)
+[2019.12.12-10.24.35:920][715]LogDerivedDataCache: Shutdown
+[2019.12.12-10.24.35:920][715]LogModuleManager: Shutting down and abandoning module XGEController (152)
+[2019.12.12-10.24.35:920][715]LogModuleManager: Shutting down and abandoning module TargetPlatform (150)
+[2019.12.12-10.24.35:920][715]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (149)
+[2019.12.12-10.24.35:920][715]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (147)
+[2019.12.12-10.24.35:920][715]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (145)
+[2019.12.12-10.24.35:920][715]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (143)
+[2019.12.12-10.24.35:920][715]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (141)
+[2019.12.12-10.24.35:920][715]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (139)
+[2019.12.12-10.24.35:920][715]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (137)
+[2019.12.12-10.24.35:920][715]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (135)
+[2019.12.12-10.24.35:920][715]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (133)
+[2019.12.12-10.24.35:920][715]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (131)
+[2019.12.12-10.24.35:920][715]LogModuleManager: Shutting down and abandoning module ImageWrapper (130)
+[2019.12.12-10.24.35:920][715]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (127)
+[2019.12.12-10.24.35:920][715]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (125)
+[2019.12.12-10.24.35:920][715]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (123)
+[2019.12.12-10.24.35:920][715]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (121)
+[2019.12.12-10.24.35:920][715]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (119)
+[2019.12.12-10.24.35:922][715]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (117)
+[2019.12.12-10.24.35:922][715]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (115)
+[2019.12.12-10.24.35:922][715]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (113)
+[2019.12.12-10.24.35:922][715]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (111)
+[2019.12.12-10.24.35:922][715]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (109)
+[2019.12.12-10.24.35:924][715]LogModuleManager: Shutting down and abandoning module Messaging (107)
+[2019.12.12-10.24.35:924][715]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (105)
+[2019.12.12-10.24.35:925][715]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (103)
+[2019.12.12-10.24.35:925][715]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (101)
+[2019.12.12-10.24.35:934][715]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (99)
+[2019.12.12-10.24.35:934][715]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (97)
+[2019.12.12-10.24.35:934][715]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (95)
+[2019.12.12-10.24.35:934][715]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (93)
+[2019.12.12-10.24.35:935][715]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (91)
+[2019.12.12-10.24.35:935][715]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (89)
+[2019.12.12-10.24.35:935][715]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (87)
+[2019.12.12-10.24.35:935][715]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (85)
+[2019.12.12-10.24.35:935][715]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (83)
+[2019.12.12-10.24.35:935][715]LogModuleManager: Shutting down and abandoning module InputCore (80)
+[2019.12.12-10.24.35:935][715]LogModuleManager: Shutting down and abandoning module Settings (78)
+[2019.12.12-10.24.35:935][715]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (76)
+[2019.12.12-10.24.35:935][715]LogModuleManager: Shutting down and abandoning module PhysXCooking (74)
+[2019.12.12-10.24.35:935][715]LogModuleManager: Shutting down and abandoning module SteamVR (72)
+[2019.12.12-10.24.35:935][715]LogHMD: Freeing OpenVRDLLHandle.
+[2019.12.12-10.24.35:935][715]LogModuleManager: Shutting down and abandoning module OculusHMD (70)
+[2019.12.12-10.24.35:935][715]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (68)
+[2019.12.12-10.24.35:935][715]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (66)
+[2019.12.12-10.24.35:935][715]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (64)
+[2019.12.12-10.24.35:935][715]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (60)
+[2019.12.12-10.24.35:936][715]LogModuleManager: Shutting down and abandoning module XMPP (55)
+[2019.12.12-10.24.35:936][715]LogModuleManager: Shutting down and abandoning module WebSockets (54)
+[2019.12.12-10.24.35:945][715]LogModuleManager: Shutting down and abandoning module HTTP (51)
+[2019.12.12-10.24.35:945][715]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2019.12.12-10.24.35:945][715]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B2CE93555-4F5B-57E5-A123-7D8CC32DD120%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.3-7053642%2B%2B%2BUE4%2BRelease-4.22&UserID=bd96efe044b6d8c4d8ff8e8e8ffe8c32%7C1564fcc0ae2c49579ac14154f6d101a7%7Cd0d716cd-bc16-4f7c-a218-ea5fd9014e17&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2019.12.12-10.24.35:950][715]LogModuleManager: Shutting down and abandoning module SSL (50)
+[2019.12.12-10.24.35:951][715]LogModuleManager: Shutting down and abandoning module WmfMedia (46)
+[2019.12.12-10.24.35:953][715]LogModuleManager: Shutting down and abandoning module Media (45)
+[2019.12.12-10.24.35:959][715]LogModuleManager: Shutting down and abandoning module MagicLeap (42)
+[2019.12.12-10.24.35:959][715]LogModuleManager: Shutting down and abandoning module DatasmithContent (40)
+[2019.12.12-10.24.35:960][715]LogModuleManager: Shutting down and abandoning module AnimationModifiers (38)
+[2019.12.12-10.24.35:960][715]LogModuleManager: Shutting down and abandoning module PropertyEditor (37)
+[2019.12.12-10.24.35:961][715]LogModuleManager: Shutting down and abandoning module AudioEditor (34)
+[2019.12.12-10.24.35:961][715]LogModuleManager: Shutting down and abandoning module TextureCompressor (32)
+[2019.12.12-10.24.35:961][715]LogModuleManager: Shutting down and abandoning module RenderCore (30)
+[2019.12.12-10.24.35:961][715]LogModuleManager: Shutting down and abandoning module Landscape (28)
+[2019.12.12-10.24.35:961][715]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (26)
+[2019.12.12-10.24.35:962][715]LogModuleManager: Shutting down and abandoning module OpenGLDrv (24)
+[2019.12.12-10.24.35:962][715]LogModuleManager: Shutting down and abandoning module D3D11RHI (22)
+[2019.12.12-10.24.35:962][715]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2019.12.12-10.24.35:962][715]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2019.12.12-10.24.35:962][715]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2019.12.12-10.24.35:962][715]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2019.12.12-10.24.35:962][715]LogModuleManager: Shutting down and abandoning module NetworkFile (12)
+[2019.12.12-10.24.35:962][715]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
+[2019.12.12-10.24.35:962][715]LogModuleManager: Shutting down and abandoning module StreamingFile (8)
+[2019.12.12-10.24.35:962][715]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2019.12.12-10.24.35:962][715]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2019.12.12-10.24.35:962][715]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2019.12.12-10.24.35:975][715]LogExit: Exiting.
+[2019.12.12-10.24.36:011][715]Log file closed, 12/12/19 11:24:36
