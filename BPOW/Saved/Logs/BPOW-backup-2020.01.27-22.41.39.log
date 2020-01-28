@@ -1,0 +1,1589 @@
+﻿Log file open, 01/27/20 22:36:24
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: BPOW
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.258228
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogWmfMedia: Failed to load mf.dll
+LogWmfMedia: Failed to load required Windows Media Foundation libraries
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.22-CL-7053642
+LogInit: Engine Version: 4.22.3-7053642+++UE4+Release-4.22
+LogInit: Compatible Engine Version: 4.22.0-5660361+++UE4+Release-4.22
+LogInit: Net CL: 5660361
+LogInit: OS: Windows 10 (Release 1909) (), CPU: Intel(R) Core(TM) i7-4771 CPU @ 3.50GHz, GPU: NVIDIA GeForce GTX 1070
+LogInit: Compiled (64-bit): Jun 18 2019 03:09:11
+LogInit: Compiled with Visual C++: 19.16.27025.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.22
+LogInit: Command Line: 
+LogInit: Base Directory: D:/EpicGames/UnrealEngine/UE_4.22/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 30
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 28
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 25
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 2
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2020.01.27-21.36.24:714][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2020.01.27-21.36.24:714][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2020.01.27-21.36.24:714][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [D:/2DAMVIOD/Desenvolupament de jocs motor3d/OverwatchUR4/BPOW/Saved/Config/Windows/Engine.ini]
+[2020.01.27-21.36.24:714][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2020.01.27-21.36.24:714][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [D:/2DAMVIOD/Desenvolupament de jocs motor3d/OverwatchUR4/BPOW/Saved/Config/Windows/Engine.ini]
+[2020.01.27-21.36.24:714][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/2DAMVIOD/Desenvolupament de jocs motor3d/OverwatchUR4/BPOW/Saved/Config/Windows/Engine.ini]
+[2020.01.27-21.36.24:714][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2020.01.27-21.36.24:714][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2020.01.27-21.36.24:714][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2020.01.27-21.36.24:714][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2020.01.27-21.36.24:714][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2020.01.27-21.36.24:714][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2020.01.27-21.36.24:714][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2020.01.27-21.36.24:714][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2020.01.27-21.36.24:714][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2020.01.27-21.36.24:714][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2020.01.27-21.36.24:714][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2020.01.27-21.36.24:714][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2020.01.27-21.36.24:714][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2020.01.27-21.36.24:714][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [D:/2DAMVIOD/Desenvolupament de jocs motor3d/OverwatchUR4/BPOW/Saved/Config/Windows/Engine.ini]
+[2020.01.27-21.36.24:714][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2020.01.27-21.36.24:715][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2020.01.27-21.36.24:715][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2020.01.27-21.36.24:715][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2020.01.27-21.36.24:715][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2020.01.27-21.36.24:715][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2020.01.27-21.36.24:715][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2020.01.27-21.36.24:715][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2020.01.27-21.36.24:715][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2020.01.27-21.36.24:715][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2020.01.27-21.36.24:715][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2020.01.27-21.36.24:715][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2020.01.27-21.36.24:715][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2020.01.27-21.36.24:715][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [D:/2DAMVIOD/Desenvolupament de jocs motor3d/OverwatchUR4/BPOW/Saved/Config/Windows/Engine.ini]
+[2020.01.27-21.36.24:715][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [D:/2DAMVIOD/Desenvolupament de jocs motor3d/OverwatchUR4/BPOW/Saved/Config/Windows/Engine.ini]
+[2020.01.27-21.36.24:721][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/2DAMVIOD/Desenvolupament de jocs motor3d/OverwatchUR4/BPOW/Saved/Config/Windows/Scalability.ini]
+[2020.01.27-21.36.24:721][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.01.27-21.36.24:721][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.01.27-21.36.24:721][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/2DAMVIOD/Desenvolupament de jocs motor3d/OverwatchUR4/BPOW/Saved/Config/Windows/Scalability.ini]
+[2020.01.27-21.36.24:721][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.01.27-21.36.24:721][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/2DAMVIOD/Desenvolupament de jocs motor3d/OverwatchUR4/BPOW/Saved/Config/Windows/Scalability.ini]
+[2020.01.27-21.36.24:721][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.01.27-21.36.24:721][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.01.27-21.36.24:721][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.01.27-21.36.24:721][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.01.27-21.36.24:721][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.01.27-21.36.24:721][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.01.27-21.36.24:721][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.01.27-21.36.24:721][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.01.27-21.36.24:721][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.01.27-21.36.24:721][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.01.27-21.36.24:721][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.01.27-21.36.24:722][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.01.27-21.36.24:722][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.01.27-21.36.24:722][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.01.27-21.36.24:722][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.01.27-21.36.24:722][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.01.27-21.36.24:722][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.01.27-21.36.24:722][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.01.27-21.36.24:722][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/2DAMVIOD/Desenvolupament de jocs motor3d/OverwatchUR4/BPOW/Saved/Config/Windows/Scalability.ini]
+[2020.01.27-21.36.24:722][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.01.27-21.36.24:722][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.01.27-21.36.24:722][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.01.27-21.36.24:722][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.01.27-21.36.24:722][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.01.27-21.36.24:722][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.01.27-21.36.24:722][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.01.27-21.36.24:722][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.01.27-21.36.24:722][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.01.27-21.36.24:722][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.01.27-21.36.24:722][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.01.27-21.36.24:722][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.01.27-21.36.24:722][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.01.27-21.36.24:722][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.01.27-21.36.24:722][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.01.27-21.36.24:722][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.01.27-21.36.24:722][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.01.27-21.36.24:722][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.01.27-21.36.24:722][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.01.27-21.36.24:722][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.01.27-21.36.24:722][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.01.27-21.36.24:722][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.01.27-21.36.24:722][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.01.27-21.36.24:722][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.01.27-21.36.24:722][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.01.27-21.36.24:722][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.01.27-21.36.24:722][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.01.27-21.36.24:722][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.01.27-21.36.24:722][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.01.27-21.36.24:722][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.01.27-21.36.24:722][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/2DAMVIOD/Desenvolupament de jocs motor3d/OverwatchUR4/BPOW/Saved/Config/Windows/Scalability.ini]
+[2020.01.27-21.36.24:722][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.01.27-21.36.24:722][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.01.27-21.36.24:722][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.01.27-21.36.24:722][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.01.27-21.36.24:722][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.01.27-21.36.24:722][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.01.27-21.36.24:722][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.01.27-21.36.24:722][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.01.27-21.36.24:722][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/2DAMVIOD/Desenvolupament de jocs motor3d/OverwatchUR4/BPOW/Saved/Config/Windows/Scalability.ini]
+[2020.01.27-21.36.24:722][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.01.27-21.36.24:722][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.01.27-21.36.24:722][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.01.27-21.36.24:722][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.01.27-21.36.24:722][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.01.27-21.36.24:722][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.01.27-21.36.24:722][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.01.27-21.36.24:722][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.01.27-21.36.24:722][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.01.27-21.36.24:722][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.01.27-21.36.24:722][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.01.27-21.36.24:722][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.01.27-21.36.24:722][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.01.27-21.36.24:722][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/2DAMVIOD/Desenvolupament de jocs motor3d/OverwatchUR4/BPOW/Saved/Config/Windows/Scalability.ini]
+[2020.01.27-21.36.24:722][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.01.27-21.36.24:722][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.01.27-21.36.24:722][  0]LogInit: Selected Device Profile: [Windows]
+[2020.01.27-21.36.24:722][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.01.27-21.36.24:733][  0]LogHAL: Display: Platform has ~ 16 GB [17113055232 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.01.27-21.36.24:733][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:0		; Required until we fix HLR fall-out]]
+[2020.01.27-21.36.24:734][  0]LogInit: Going up to parent DeviceProfile []
+[2020.01.27-21.36.24:734][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/2DAMVIOD/Desenvolupament de jocs motor3d/OverwatchUR4/BPOW/Saved/Config/Windows/Scalability.ini]
+[2020.01.27-21.36.24:734][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.01.27-21.36.24:734][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.01.27-21.36.24:734][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/2DAMVIOD/Desenvolupament de jocs motor3d/OverwatchUR4/BPOW/Saved/Config/Windows/Scalability.ini]
+[2020.01.27-21.36.24:734][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.01.27-21.36.24:734][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/2DAMVIOD/Desenvolupament de jocs motor3d/OverwatchUR4/BPOW/Saved/Config/Windows/Scalability.ini]
+[2020.01.27-21.36.24:734][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.01.27-21.36.24:734][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.01.27-21.36.24:734][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.01.27-21.36.24:734][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.01.27-21.36.24:734][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.01.27-21.36.24:734][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.01.27-21.36.24:734][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.01.27-21.36.24:734][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.01.27-21.36.24:734][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.01.27-21.36.24:734][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.01.27-21.36.24:734][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.01.27-21.36.24:734][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.01.27-21.36.24:734][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.01.27-21.36.24:734][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.01.27-21.36.24:734][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.01.27-21.36.24:734][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.01.27-21.36.24:734][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.01.27-21.36.24:734][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.01.27-21.36.24:734][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/2DAMVIOD/Desenvolupament de jocs motor3d/OverwatchUR4/BPOW/Saved/Config/Windows/Scalability.ini]
+[2020.01.27-21.36.24:734][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.01.27-21.36.24:734][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.01.27-21.36.24:734][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.01.27-21.36.24:734][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.01.27-21.36.24:734][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.01.27-21.36.24:734][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.01.27-21.36.24:734][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.01.27-21.36.24:734][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.01.27-21.36.24:734][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.01.27-21.36.24:734][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.01.27-21.36.24:734][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.01.27-21.36.24:734][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.01.27-21.36.24:734][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.01.27-21.36.24:734][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.01.27-21.36.24:734][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.01.27-21.36.24:734][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.01.27-21.36.24:734][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.01.27-21.36.24:734][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.01.27-21.36.24:734][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.01.27-21.36.24:734][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.01.27-21.36.24:734][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.01.27-21.36.24:734][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.01.27-21.36.24:734][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.01.27-21.36.24:734][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.01.27-21.36.24:734][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.01.27-21.36.24:734][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.01.27-21.36.24:734][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.01.27-21.36.24:734][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.01.27-21.36.24:734][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.01.27-21.36.24:734][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.01.27-21.36.24:734][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/2DAMVIOD/Desenvolupament de jocs motor3d/OverwatchUR4/BPOW/Saved/Config/Windows/Scalability.ini]
+[2020.01.27-21.36.24:734][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.01.27-21.36.24:734][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.01.27-21.36.24:734][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.01.27-21.36.24:734][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.01.27-21.36.24:734][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.01.27-21.36.24:734][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.01.27-21.36.24:734][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.01.27-21.36.24:734][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.01.27-21.36.24:734][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/2DAMVIOD/Desenvolupament de jocs motor3d/OverwatchUR4/BPOW/Saved/Config/Windows/Scalability.ini]
+[2020.01.27-21.36.24:734][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.01.27-21.36.24:734][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.01.27-21.36.24:734][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.01.27-21.36.24:734][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.01.27-21.36.24:734][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.01.27-21.36.24:734][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.01.27-21.36.24:734][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.01.27-21.36.24:734][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.01.27-21.36.24:734][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.01.27-21.36.24:734][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.01.27-21.36.24:734][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.01.27-21.36.24:734][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.01.27-21.36.24:734][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.01.27-21.36.24:734][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/2DAMVIOD/Desenvolupament de jocs motor3d/OverwatchUR4/BPOW/Saved/Config/Windows/Scalability.ini]
+[2020.01.27-21.36.24:734][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.01.27-21.36.24:734][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.01.27-21.36.24:734][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2020.01.27-21.36.24:735][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2020.01.27-21.36.24:735][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2020.01.27-21.36.24:735][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/2DAMVIOD/Desenvolupament de jocs motor3d/OverwatchUR4/BPOW/Saved/Config/Windows/Engine.ini]
+[2020.01.27-21.36.24:735][  0]LogInit: Computer: DESKTOP-D0K3E2O
+[2020.01.27-21.36.24:735][  0]LogInit: User: Narukyn
+[2020.01.27-21.36.24:735][  0]LogInit: CPU Page size=4096, Cores=4
+[2020.01.27-21.36.24:735][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.01.27-21.36.24:735][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2020.01.27-21.36.24:735][  0]LogMemory: Platform Memory Stats for Windows
+[2020.01.27-21.36.24:735][  0]LogMemory: Process Physical Memory: 97.20 MB used, 97.20 MB peak
+[2020.01.27-21.36.24:735][  0]LogMemory: Process Virtual Memory: 85.21 MB used, 85.21 MB peak
+[2020.01.27-21.36.24:735][  0]LogMemory: Physical Memory: 5970.28 MB used,  10350.00 MB free, 16320.28 MB total
+[2020.01.27-21.36.24:735][  0]LogMemory: Virtual Memory: 4630.76 MB used,  134213096.00 MB free, 134217728.00 MB total
+[2020.01.27-21.36.24:748][  0]LogInit: Overriding language with editor language configuration option (en).
+[2020.01.27-21.36.24:748][  0]LogInit: Overriding locale with editor locale configuration option (en).
+[2020.01.27-21.36.24:898][  0]LogInit: Setting process to per monitor DPI aware
+[2020.01.27-21.36.24:931][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.01.27-21.36.24:931][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.01.27-21.36.25:064][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.01.27-21.36.25:064][  0]LogD3D11RHI: D3D11 adapters:
+[2020.01.27-21.36.25:127][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1070' (Feature Level 11_0)
+[2020.01.27-21.36.25:127][  0]LogD3D11RHI:       8088/0/8160 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2020.01.27-21.36.25:129][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.01.27-21.36.25:129][  0]LogD3D11RHI:       0/0/8160 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.01.27-21.36.25:129][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.01.27-21.36.25:135][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.01.27-21.36.25:135][  0]LogD3D11RHI:     GPU DeviceId: 0x1b81 (for the marketing name, search the web for "GPU Device Id")
+[2020.01.27-21.36.25:135][  0]LogWindows: EnumDisplayDevices:
+[2020.01.27-21.36.25:135][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1070' (P:0 D:1)
+[2020.01.27-21.36.25:135][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1070' (P:1 D:1)
+[2020.01.27-21.36.25:135][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2020.01.27-21.36.25:135][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2020.01.27-21.36.25:136][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2020.01.27-21.36.25:136][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1070
+[2020.01.27-21.36.25:136][  0]LogD3D11RHI:   Driver Version: 441.66 (internal:26.21.14.4166, unified:441.66)
+[2020.01.27-21.36.25:136][  0]LogD3D11RHI:      Driver Date: 12-6-2019
+[2020.01.27-21.36.25:136][  0]LogRHI: Texture pool is 5661 MB (70% of 8088 MB)
+[2020.01.27-21.36.25:182][  0]LogD3D11RHI: Async texture creation enabled
+[2020.01.27-21.36.25:186][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2020.01.27-21.36.25:186][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2020.01.27-21.36.25:186][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2020.01.27-21.36.25:194][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2020.01.27-21.36.25:426][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2020.01.27-21.36.25:437][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2020.01.27-21.36.25:449][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2020.01.27-21.36.25:460][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2020.01.27-21.36.25:472][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2020.01.27-21.36.25:483][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2020.01.27-21.36.25:495][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2020.01.27-21.36.25:506][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2020.01.27-21.36.25:511][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2020.01.27-21.36.25:582][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2020.01.27-21.36.25:582][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2020.01.27-21.36.25:582][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2020.01.27-21.36.25:582][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2020.01.27-21.36.25:582][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2020.01.27-21.36.25:582][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2020.01.27-21.36.25:582][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2020.01.27-21.36.25:582][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2020.01.27-21.36.25:582][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2020.01.27-21.36.25:582][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2020.01.27-21.36.25:582][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2020.01.27-21.36.25:582][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2020.01.27-21.36.25:582][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2020.01.27-21.36.25:582][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2020.01.27-21.36.25:582][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2020.01.27-21.36.25:582][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2020.01.27-21.36.25:582][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2020.01.27-21.36.25:582][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2020.01.27-21.36.25:583][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2020.01.27-21.36.25:646][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2020.01.27-21.36.25:646][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2020.01.27-21.36.25:673][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2020.01.27-21.36.25:673][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2020.01.27-21.36.25:687][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2020.01.27-21.36.25:702][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2020.01.27-21.36.25:715][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2020.01.27-21.36.25:726][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2020.01.27-21.36.25:768][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2020.01.27-21.36.25:768][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2020.01.27-21.36.25:768][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.01.27-21.36.25:773][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2020.01.27-21.36.25:799][  0]LogShaderCompilers: Guid format shader working directory is -28 characters bigger than the processId version (../../../../../../2DAMVIOD/Desenvolupament de jocs motor3d/OverwatchUR4/BPOW/Intermediate/Shaders/WorkingDirectory/1896/).
+[2020.01.27-21.36.25:799][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Narukyn/AppData/Local/Temp/UnrealShaderWorkingDir/550F77AA41ABBFB6745B2EB737472ABB/'.
+[2020.01.27-21.36.25:801][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2020.01.27-21.36.25:801][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.01.27-21.36.25:801][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.01.27-21.36.26:305][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.01.27-21.36.26:348][  0]LogDerivedDataCache: Loaded boot cache 0.04s 71MB C:/Users/Narukyn/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2020.01.27-21.36.26:348][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Narukyn/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc
+[2020.01.27-21.36.26:348][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../2DAMVIOD/Desenvolupament de jocs motor3d/OverwatchUR4/BPOW/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.01.27-21.36.26:348][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.01.27-21.36.26:348][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../2DAMVIOD/Desenvolupament de jocs motor3d/OverwatchUR4/BPOW/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.01.27-21.36.26:348][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.01.27-21.36.26:359][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.01.27-21.36.26:360][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.01.27-21.36.26:360][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2020.01.27-21.36.26:372][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Narukyn/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.01.27-21.36.26:372][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.01.27-21.36.26:372][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.01.27-21.36.26:392][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2020.01.27-21.36.26:393][  0]LogSlate: Using FreeType 2.6.0
+[2020.01.27-21.36.26:394][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.01.27-21.36.26:466][  0]LogAssetRegistry: FAssetRegistry took 0.0322 seconds to start up
+[2020.01.27-21.36.26:788][  0]LogInit: Selected Device Profile: [Windows]
+[2020.01.27-21.36.26:926][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.01.27-21.36.26:926][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2020.01.27-21.36.26:926][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.01.27-21.36.26:926][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2020.01.27-21.36.26:926][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2020.01.27-21.36.26:939][  0]LogNetVersion: BPOW 1.0.0, NetCL: 5660361, EngineNetVer: 10, GameNetVer: 0 (Checksum: 1085844810)
+[2020.01.27-21.36.27:301][  0]LogPackageLocalizationCache: Processed 10 localized package path(s) for 1 prioritized culture(s) in 0.030390 seconds
+[2020.01.27-21.36.27:309][  0]LogUObjectArray: 42205 objects as part of root set at end of initial load.
+[2020.01.27-21.36.27:309][  0]LogUObjectAllocator: 7325032 out of 0 bytes used by permanent object pool.
+[2020.01.27-21.36.27:309][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.01.27-21.36.27:750][  0]LogWindowsMoviePlayer: Could not load mf.dll. Library not found.
+[2020.01.27-21.36.27:750][  0]LogWindowsMoviePlayer: Could not load mfplat.dll. Library not found.
+[2020.01.27-21.36.27:751][  0]LogWindowsMoviePlayer: Could not load mfplay.dll. Library not found.
+[2020.01.27-21.36.27:941][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.01.27-21.36.27:954][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.01.27-21.36.28:084][  0]SourceControl: Source control is disabled
+[2020.01.27-21.36.28:084][  0]SourceControl: Source control is disabled
+[2020.01.27-21.36.28:085][  0]SourceControl: Source control is disabled
+[2020.01.27-21.36.28:085][  0]SourceControl: Source control is disabled
+[2020.01.27-21.36.28:135][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.01.27-21.36.28:278][  0]LogOcInput: OculusInput pre-init called
+[2020.01.27-21.36.28:894][  0]LogEngine: Initializing Engine...
+[2020.01.27-21.36.28:894][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.01.27-21.36.28:895][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2020.01.27-21.36.29:086][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.01.27-21.36.29:093][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.01.27-21.36.29:138][  0]LogInit: XAudio2 using 'Auriculares (Arctis 7 Game)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.01.27-21.36.29:171][  0]LogInit: FAudioDevice initialized.
+[2020.01.27-21.36.29:171][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.01.27-21.36.29:311][  0]LogDerivedDataCache: Saved boot cache 0.14s 71MB C:/Users/Narukyn/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2020.01.27-21.36.29:340][  0]LogInit: Texture streaming: Enabled
+[2020.01.27-21.36.29:371][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.01.27-21.36.29:392][  0]LogInit: Transaction tracking system initialized
+[2020.01.27-21.36.29:406][  0]BlueprintLog: New page: Editor Load
+[2020.01.27-21.36.29:451][  0]LocalizationService: Localization service is disabled
+[2020.01.27-21.36.29:678][  0]LogFileCache: Scanning file cache for directory 'D:/2DAMVIOD/Desenvolupament de jocs motor3d/OverwatchUR4/BPOW/Content/' took 0.01s
+[2020.01.27-21.36.29:678][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.01.27-21.36.29:678][  0]LogCook: Display: Mobile HDR setting 1
+[2020.01.27-21.36.29:829][  0]SourceControl: Source control is disabled
+[2020.01.27-21.36.29:829][  0]Cmd: MAP LOAD FILE="../../../../../../2DAMVIOD/Desenvolupament de jocs motor3d/OverwatchUR4/BPOW/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.01.27-21.36.29:829][  0]LightingResults: New page: Lighting Build
+[2020.01.27-21.36.29:831][  0]MapCheck: New page: Map Check
+[2020.01.27-21.36.29:831][  0]LightingResults: New page: Lighting Build
+[2020.01.27-21.36.29:854][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2020.01.27-21.36.29:953][  0]LogLinker: Can't find file '/Game/FirstPersonBP/Blueprints/FirstPersonProjectile'
+[2020.01.27-21.36.29:953][  0]LogLinker: Can't find file '/Game/FirstPersonBP/Blueprints/FirstPersonProjectile'
+[2020.01.27-21.36.30:307][  0]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2020.01.27-21.36.30:314][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.01.27-21.36.30:341][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.28ms
+[2020.01.27-21.36.30:341][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.01.27-21.36.30:341][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.089ms to complete.
+[2020.01.27-21.36.30:341][  0]LogFileHelpers: Loading map 'FirstPersonExampleMap' took 0.512
+[2020.01.27-21.36.30:454][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.27-21.36.30:460][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.27-21.36.30:467][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.27-21.36.30:474][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.27-21.36.30:477][  0]LogCollectionManager: Loaded 0 collections in 0.000632 seconds
+[2020.01.27-21.36.30:491][  0]LogFileCache: Scanning file cache for directory 'D:/2DAMVIOD/Desenvolupament de jocs motor3d/OverwatchUR4/BPOW/Saved/Collections/' took 0.01s
+[2020.01.27-21.36.30:491][  0]LogFileCache: Scanning file cache for directory 'D:/2DAMVIOD/Desenvolupament de jocs motor3d/OverwatchUR4/BPOW/Content/Developers/Narukyn/Collections/' took 0.00s
+[2020.01.27-21.36.30:491][  0]LogFileCache: Scanning file cache for directory 'D:/2DAMVIOD/Desenvolupament de jocs motor3d/OverwatchUR4/BPOW/Content/Collections/' took 0.00s
+[2020.01.27-21.36.30:491][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2020.01.27-21.36.30:499][  0]LogContentBrowser: Native class hierarchy populated in 0.0078 seconds. Added 2732 classes and 659 folders.
+[2020.01.27-21.36.30:503][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2020.01.27-21.36.30:504][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.27-21.36.30:505][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.27-21.36.30:505][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.27-21.36.30:505][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.27-21.36.30:505][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.27-21.36.30:505][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.27-21.36.30:505][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.27-21.36.30:505][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.27-21.36.30:506][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.27-21.36.30:506][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.27-21.36.30:506][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.27-21.36.30:507][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.27-21.36.30:507][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.27-21.36.30:507][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.27-21.36.30:508][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.27-21.36.30:508][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.27-21.36.30:508][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.27-21.36.30:509][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.27-21.36.30:509][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.27-21.36.30:509][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.27-21.36.30:510][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.27-21.36.30:510][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.27-21.36.30:510][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.27-21.36.30:511][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.27-21.36.30:511][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.27-21.36.30:511][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.27-21.36.30:527][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2020.01.27-21.36.30:530][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2020.01.27-21.36.30:543][  0]LogSlate: Took 0.000109 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.01.27-21.36.30:544][  0]LogSlate: Took 0.000114 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.01.27-21.36.30:550][  0]LogSlate: Took 0.000192 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.01.27-21.36.30:608][  0]LogRenderer: Reallocating scene render targets to support 1208x572 Format 10 NumSamples 1 (Frame:1).
+[2020.01.27-21.36.30:722][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.01.27-21.36.30:722][  0]LogLoad: (Engine Initialization) Total time: 7.36 seconds
+[2020.01.27-21.36.30:722][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.01.27-21.36.30:762][  0]LogAssetRegistry: Asset discovery search completed in 4.3181 seconds
+[2020.01.27-21.36.30:764][  0]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2020.01.27-21.36.30:764][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000056 seconds (updated 0 objects)
+[2020.01.27-21.36.30:766][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2020.01.27-21.36.30:799][  0]LogSlate: Took 0.000130 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.01.27-21.36.31:746][  3]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.27-21.36.31:804][  4]LogSlate: Took 0.000129 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.01.27-21.36.33:209][163]LogUObjectHash: Compacting FUObjectHashTables data took   1.96ms
+[2020.01.27-21.36.34:790][163]LogSlate: Window 'Delete Assets' being destroyed
+[2020.01.27-21.36.34:794][163]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/FirstPersonBP/Blueprints/IA/Enemy1.Enemy1
+[2020.01.27-21.36.35:374][163]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2020.01.27-21.36.35:395][163]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2020.01.27-21.36.35:415][163]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2020.01.27-21.36.43:090][436]LogSlate: Window 'Pick Parent Class' being destroyed
+[2020.01.27-21.37.25:454][483]LogLinker: Warning: Can't find file '/Game/FirstPersonBP/Blueprints/IA/Enemy1.Enemy1'
+[2020.01.27-21.37.25:454][483]LogLinker: Warning: Can't resolve asset name
+[2020.01.27-21.37.25:480][483]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/FirstPersonBP/Blueprints/Shoots/Shotgun.Shotgun
+[2020.01.27-21.37.25:693][483]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0005 seconds. Added 121 classes and 0 folders.
+[2020.01.27-21.37.26:431][483]LogSlate: Took 0.000141 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.01.27-21.37.26:455][484]LogSlate: Took 0.000194 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.01.27-21.37.31:013][ 10]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/FirstPersonBP/Blueprints/IA/IA_1.IA_1
+[2020.01.27-21.37.33:127][201]LogRenderer: Reallocating scene render targets to support 1208x900 Format 10 NumSamples 1 (Frame:176).
+[2020.01.27-21.37.33:211][211]LogSlate: Window 'IA_1' being destroyed
+[2020.01.27-21.37.39:056][856]LogAssetEditorManager: Opening Asset editor for BehaviorTree /Game/FirstPersonBP/Blueprints/IA/BT_IA1.BT_IA1
+[2020.01.27-21.37.46:929][784]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.01.27-21.37.48:081][916]LogBlackboardEditor: Error: Trying to delete an entry from a blackboard while no Blackboard Asset is set!
+[2020.01.27-21.37.53:122][518]LogBlackboardEditor: Error: Trying to delete an entry from a blackboard while no Blackboard Asset is set!
+[2020.01.27-21.37.53:697][587]LogBlackboardEditor: Error: Trying to delete an entry from a blackboard while no Blackboard Asset is set!
+[2020.01.27-21.37.54:530][687]LogBlackboardEditor: Error: Trying to delete an entry from a blackboard while no Blackboard Asset is set!
+[2020.01.27-21.37.54:989][742]LogBlackboardEditor: Error: Trying to delete an entry from a blackboard while no Blackboard Asset is set!
+[2020.01.27-21.37.57:068][991]LogBlackboardEditor: Error: Trying to delete an entry from a blackboard while no Blackboard Asset is set!
+[2020.01.27-21.37.57:614][ 56]LogBlackboardEditor: Error: Trying to delete an entry from a blackboard while no Blackboard Asset is set!
+[2020.01.27-21.37.58:080][112]LogBlackboardEditor: Error: Trying to delete an entry from a blackboard while no Blackboard Asset is set!
+[2020.01.27-21.37.58:255][133]LogBlackboardEditor: Error: Trying to delete an entry from a blackboard while no Blackboard Asset is set!
+[2020.01.27-21.37.58:397][150]LogBlackboardEditor: Error: Trying to delete an entry from a blackboard while no Blackboard Asset is set!
+[2020.01.27-21.37.58:514][164]LogBlackboardEditor: Error: Trying to delete an entry from a blackboard while no Blackboard Asset is set!
+[2020.01.27-21.38.01:114][474]LogBlackboardEditor: Error: Trying to delete an entry from a blackboard while no Blackboard Asset is set!
+[2020.01.27-21.38.03:086][710]LogBlackboardEditor: Error: Trying to delete an entry from a blackboard while no Blackboard Asset is set!
+[2020.01.27-21.38.05:005][937]LogBehaviorTree: Warning: Blackboard asset (BB_IA1) has (BB_IA1) in parent chain! Clearing value to avoid cycle.
+[2020.01.27-21.38.46:739][890]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.27-21.38.55:045][884]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.27-21.38.57:209][139]BlueprintLog: New page: Compile IA_1
+[2020.01.27-21.38.57:452][139]LogUObjectHash: Compacting FUObjectHashTables data took   3.47ms
+[2020.01.27-21.38.58:459][248]LogUObjectHash: Compacting FUObjectHashTables data took   2.66ms
+[2020.01.27-21.38.58:668][248]LogSavePackage: Moving '../../../../../../2DAMVIOD/Desenvolupament de jocs motor3d/OverwatchUR4/BPOW/Saved/FirstPersonExampleMap9CBFCC8C471F9F215B0B0CA5E5112B5D.tmp' to '../../../../../../2DAMVIOD/Desenvolupament de jocs motor3d/OverwatchUR4/BPOW/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2020.01.27-21.39.00:575][462]LogUObjectHash: Compacting FUObjectHashTables data took   3.33ms
+[2020.01.27-21.39.00:599][462]LogSavePackage: Moving '../../../../../../2DAMVIOD/Desenvolupament de jocs motor3d/OverwatchUR4/BPOW/Saved/IA_16146B919482B05736167E7BAFB3DE32A.tmp' to '../../../../../../2DAMVIOD/Desenvolupament de jocs motor3d/OverwatchUR4/BPOW/Content/FirstPersonBP/Blueprints/IA/IA_1.uasset'
+[2020.01.27-21.39.00:610][462]LogSavePackage: Moving '../../../../../../2DAMVIOD/Desenvolupament de jocs motor3d/OverwatchUR4/BPOW/Saved/BT_IA1FB1572A342AB70C5E8DB6C9F12EE3472.tmp' to '../../../../../../2DAMVIOD/Desenvolupament de jocs motor3d/OverwatchUR4/BPOW/Content/FirstPersonBP/Blueprints/IA/BT_IA1.uasset'
+[2020.01.27-21.39.00:620][462]LogSavePackage: Moving '../../../../../../2DAMVIOD/Desenvolupament de jocs motor3d/OverwatchUR4/BPOW/Saved/BT_IA25EB995F845D6A2FE04CA9E8DBC94DF79.tmp' to '../../../../../../2DAMVIOD/Desenvolupament de jocs motor3d/OverwatchUR4/BPOW/Content/FirstPersonBP/Blueprints/IA/BT_IA2.uasset'
+[2020.01.27-21.39.00:630][462]LogSavePackage: Moving '../../../../../../2DAMVIOD/Desenvolupament de jocs motor3d/OverwatchUR4/BPOW/Saved/BB_IA165927AE0414D2DDF6ACED5893EDAEEBA.tmp' to '../../../../../../2DAMVIOD/Desenvolupament de jocs motor3d/OverwatchUR4/BPOW/Content/FirstPersonBP/Blueprints/IA/BB_IA1.uasset'
+[2020.01.27-21.39.00:700][467]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/FirstPersonBP/Blueprints/IA/IA_1.
+[2020.01.27-21.39.24:005][695]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/Mannequin/Animations/ThirdPerson_AnimBP.
+[2020.01.27-21.39.39:095][263]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.01.27-21.40.02:559][ 25]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.01.27-21.40.05:039][317]BlueprintLog: New page: Compile IA_1
+[2020.01.27-21.40.05:230][317]LogUObjectHash: Compacting FUObjectHashTables data took   3.42ms
+[2020.01.27-21.41.23:113][417]BlueprintLog: New page: Compile IA_1
+[2020.01.27-21.41.23:273][417]LogUObjectHash: Compacting FUObjectHashTables data took   3.05ms
+[2020.01.27-21.41.48:056][380]BlueprintLog: New page: Compile IA_1
+[2020.01.27-21.41.48:214][380]LogUObjectHash: Compacting FUObjectHashTables data took   2.98ms
+[2020.01.27-21.42.16:866][800]LogSavePackage: Moving '../../../../../../2DAMVIOD/Desenvolupament de jocs motor3d/OverwatchUR4/BPOW/Saved/BT_IA193A69D23491AA5D4A4AF999B384D3E29.tmp' to '../../../../../../2DAMVIOD/Desenvolupament de jocs motor3d/OverwatchUR4/BPOW/Content/FirstPersonBP/Blueprints/IA/BT_IA1.uasset'
+[2020.01.27-21.42.23:518][585]LogLinker: Warning: Can't find file '/Game/FirstPersonBP/Blueprints/IA/Enemy1'
+[2020.01.27-21.42.23:519][585]LogLinker: Warning: Can't find file for asset '/Game/FirstPersonBP/Blueprints/IA/Enemy1' while loading NULL.
+[2020.01.27-21.42.23:529][585]LogLinker: Warning: Can't find file '/Game/FirstPersonBP/Blueprints/IA/Enemy1'
+[2020.01.27-21.42.23:529][585]LogLinker: Warning: Can't find file for asset '/Game/FirstPersonBP/Blueprints/IA/Enemy1' while loading NULL.
+[2020.01.27-21.42.23:530][585]LogLinker: Warning: Can't find file '/Game/FirstPersonBP/Blueprints/IA/Enemy1'
+[2020.01.27-21.42.23:530][585]LogLinker: Warning: Can't find file for asset '/Game/FirstPersonBP/Blueprints/IA/Enemy1' while loading NULL.
+[2020.01.27-21.42.23:530][585]LogLinker: Warning: Can't find file '/Game/FirstPersonBP/Blueprints/IA/Enemy1'
+[2020.01.27-21.42.23:531][585]LogLinker: Warning: Can't find file for asset '/Game/FirstPersonBP/Blueprints/IA/Enemy1' while loading NULL.
+[2020.01.27-21.42.23:531][585]LogLinker: Warning: Can't find file '/Game/FirstPersonBP/Blueprints/IA/Enemy1'
+[2020.01.27-21.42.23:531][585]LogLinker: Warning: Can't find file for asset '/Game/FirstPersonBP/Blueprints/IA/Enemy1' while loading NULL.
+[2020.01.27-21.42.23:531][585]LogLinker: Warning: Can't find file '/Game/FirstPersonBP/Blueprints/IA/Enemy1'
+[2020.01.27-21.42.23:531][585]LogLinker: Warning: Can't find file for asset '/Game/FirstPersonBP/Blueprints/IA/Enemy1' while loading NULL.
+[2020.01.27-21.42.23:531][585]LogLinker: Warning: Can't find file '/Game/FirstPersonBP/Blueprints/IA/Enemy1'
+[2020.01.27-21.42.23:532][585]LogLinker: Warning: Can't find file for asset '/Game/FirstPersonBP/Blueprints/IA/Enemy1' while loading NULL.
+[2020.01.27-21.42.23:532][585]LogLinker: Warning: Can't find file '/Game/FirstPersonBP/Blueprints/IA/Enemy1'
+[2020.01.27-21.42.23:532][585]LogLinker: Warning: Can't find file for asset '/Game/FirstPersonBP/Blueprints/IA/Enemy1' while loading NULL.
+[2020.01.27-21.42.23:532][585]LogLinker: Warning: Can't find file '/Game/FirstPersonBP/Blueprints/IA/Enemy1'
+[2020.01.27-21.42.23:532][585]LogLinker: Warning: Can't find file for asset '/Game/FirstPersonBP/Blueprints/IA/Enemy1' while loading NULL.
+[2020.01.27-21.42.23:532][585]LogLinker: Warning: Can't find file '/Game/FirstPersonBP/Blueprints/IA/Enemy1'
+[2020.01.27-21.42.23:532][585]LogLinker: Warning: Can't find file for asset '/Game/FirstPersonBP/Blueprints/IA/Enemy1' while loading NULL.
+[2020.01.27-21.42.23:543][585]LogLinker: Warning: Can't find file '/Game/FirstPersonBP/Blueprints/IA/Enemy1'
+[2020.01.27-21.42.23:543][585]LogLinker: Warning: Can't find file for asset '/Game/FirstPersonBP/Blueprints/IA/Enemy1' while loading NULL.
+[2020.01.27-21.42.23:543][585]LogLinker: Warning: Can't find file '/Game/FirstPersonBP/Blueprints/IA/Enemy1'
+[2020.01.27-21.42.23:543][585]LogLinker: Warning: Can't find file for asset '/Game/FirstPersonBP/Blueprints/IA/Enemy1' while loading NULL.
+[2020.01.27-21.42.23:579][585]LogAIModule: Creating AISystem for world IA_MAP
+[2020.01.27-21.42.23:582][585]LogAssetEditorManager: Opening Asset editor for World /Game/FirstPersonBP/Maps/IA_MAP.IA_MAP
+[2020.01.27-21.42.23:609][585]LogUObjectHash: Compacting FUObjectHashTables data took   3.03ms
+[2020.01.27-21.42.24:839][585]LogSlate: Window 'Save Content' being destroyed
+[2020.01.27-21.42.24:894][585]LogSavePackage: Moving '../../../../../../2DAMVIOD/Desenvolupament de jocs motor3d/OverwatchUR4/BPOW/Saved/IA_15098EF614034891D29C5BF83201B0514.tmp' to '../../../../../../2DAMVIOD/Desenvolupament de jocs motor3d/OverwatchUR4/BPOW/Content/FirstPersonBP/Blueprints/IA/IA_1.uasset'
+[2020.01.27-21.42.24:896][585]Cmd: MAP LOAD FILE="../../../../../../2DAMVIOD/Desenvolupament de jocs motor3d/OverwatchUR4/BPOW/Content/FirstPersonBP/Maps/IA_MAP.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.01.27-21.42.24:896][585]LightingResults: New page: Lighting Build
+[2020.01.27-21.42.24:897][585]LoadErrors: New page: Loading map: IA_MAP.umap
+[2020.01.27-21.42.24:898][585]MapCheck: New page: Map Check
+[2020.01.27-21.42.24:898][585]LightingResults: New page: Lighting Build
+[2020.01.27-21.42.24:928][585]LogUObjectHash: Compacting FUObjectHashTables data took   3.05ms
+[2020.01.27-21.42.24:930][585]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.01.27-21.42.24:958][585]LogUObjectHash: Compacting FUObjectHashTables data took   2.12ms
+[2020.01.27-21.42.24:991][585]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.01.27-21.42.24:991][585]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.072ms to complete.
+[2020.01.27-21.42.24:991][585]LogFileHelpers: Loading map 'IA_MAP' took 0.096
+[2020.01.27-21.42.25:032][585]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'DefaultSceneRoot': Enemy1_C /Game/FirstPersonBP/Maps/IA_MAP.IA_MAP:PersistentLevel.Enemy1_2
+[2020.01.27-21.42.25:032][585]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Cube': Enemy1_C /Game/FirstPersonBP/Maps/IA_MAP.IA_MAP:PersistentLevel.Enemy1_2
+[2020.01.27-21.42.25:032][585]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Cylinder': Enemy1_C /Game/FirstPersonBP/Maps/IA_MAP.IA_MAP:PersistentLevel.Enemy1_2
+[2020.01.27-21.42.26:277][730]LogEditorViewport: Clicking on Actor (LMB): RecastNavMesh (RecastNavMesh-Default)
+[2020.01.27-21.42.28:944][ 33]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane2)
+[2020.01.27-21.42.31:669][349]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.27-21.42.32:611][462]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.01.27-21.42.36:615][935]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane2)
+[2020.01.27-21.42.42:574][621]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane)
+[2020.01.27-21.42.42:984][665]Cmd: DELETE
+[2020.01.27-21.42.42:984][665]Cmd: ACTOR DELETE
+[2020.01.27-21.42.42:986][665]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.01.27-21.42.43:013][665]LogUObjectHash: Compacting FUObjectHashTables data took   2.33ms
+[2020.01.27-21.42.43:014][665]LogEditorActor: Deleted 1 Actors (0.030 secs)
+[2020.01.27-21.42.44:313][820]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane3)
+[2020.01.27-21.42.44:781][872]Cmd: DELETE
+[2020.01.27-21.42.44:781][872]Cmd: ACTOR DELETE
+[2020.01.27-21.42.44:783][872]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.01.27-21.42.44:811][872]LogUObjectHash: Compacting FUObjectHashTables data took   2.32ms
+[2020.01.27-21.42.44:811][872]LogEditorActor: Deleted 1 Actors (0.030 secs)
+[2020.01.27-21.42.46:415][ 64]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane2)
+[2020.01.27-21.42.57:927][424]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2020.01.27-21.42.58:665][508]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane2)
+[2020.01.27-21.43.06:526][434]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.01.27-21.43.25:466][640]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.27-21.43.30:722][255]Cmd: DELETE
+[2020.01.27-21.43.30:722][255]Cmd: ACTOR DELETE
+[2020.01.27-21.43.30:724][255]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.01.27-21.43.30:724][255]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.01.27-21.43.30:753][255]LogUObjectHash: Compacting FUObjectHashTables data took   2.18ms
+[2020.01.27-21.43.30:753][255]LogEditorActor: Deleted 2 Actors (0.031 secs)
+[2020.01.27-21.43.41:332][357]LogSlate: Window 'Pick Parent Class' being destroyed
+[2020.01.27-21.43.47:072][ 44]LogPackageName: SearchForPackageOnDisk took   0.000s, but failed to resolve /Game/FirstPersonBP/Blueprints/MapLogic/IA_Spawner.
+[2020.01.27-21.43.49:365][317]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/FirstPersonBP/Blueprints/MapLogic/IA_Spawner.IA_Spawner
+[2020.01.27-21.44.37:700][987]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.01.27-21.45.31:100][245]BlueprintLog: New page: Compile IA_Spawner
+[2020.01.27-21.45.31:267][245]LogUObjectHash: Compacting FUObjectHashTables data took   3.32ms
+[2020.01.27-21.45.39:403][213]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.27-21.45.39:478][222]BlueprintLog: New page: Compile IA_Spawner
+[2020.01.27-21.45.39:627][222]LogUObjectHash: Compacting FUObjectHashTables data took   3.00ms
+[2020.01.27-21.45.49:099][331]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2020.01.27-21.45.50:457][489]LogEditorViewport: Clicking on Actor (LMB): IA_Spawner_C (IA_Spawner)
+[2020.01.27-21.45.52:790][765]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.27-21.45.52:874][775]LogTemp: Repeating last play command: Selected Viewport
+[2020.01.27-21.45.52:907][775]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/IA_MAP.IA_MAP:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/IA_MAP.IA_MAP:PersistentLevel.IA_MAP' with GeneratedClass '/Game/FirstPersonBP/Maps/IA_MAP.IA_MAP_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/IA_MAP.IA_MAP:PersistentLevel.IA_MAP'
+[2020.01.27-21.45.52:909][775]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.01.27-21.45.52:914][775]PIE: New page: PIE session: IA_MAP (Jan 27, 2020, 11:45:52 PM)
+[2020.01.27-21.45.52:926][775]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_IA_MAP
+[2020.01.27-21.45.52:939][775]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013091s)
+[2020.01.27-21.45.52:940][775]LogAIModule: Creating AISystem for world IA_MAP
+[2020.01.27-21.45.52:940][775]LogPlayLevel: PIE: World Init took: (0.000863s)
+[2020.01.27-21.45.52:940][775]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/IA_MAP.IA_MAP to /Game/FirstPersonBP/Maps/UEDPIE_0_IA_MAP.IA_MAP (0.014216s)
+[2020.01.27-21.45.52:970][775]LogUObjectHash: Compacting FUObjectHashTables data took   3.09ms
+[2020.01.27-21.45.53:002][775]LogInit: XAudio2 using 'Auriculares (Arctis 7 Game)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.01.27-21.45.53:033][775]LogInit: FAudioDevice initialized.
+[2020.01.27-21.45.53:074][775]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.01.27-21.45.53:081][775]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_IA_MAP.IA_MAP up for play (max tick rate 0) at 2020.01.27-22.45.53
+[2020.01.27-21.45.53:082][775]LogWorld: Bringing up level for play took: 0.003043
+[2020.01.27-21.45.53:113][775]LogBlueprintActionDatabase: Requesting refresh due to module change: Voice (loaded)
+[2020.01.27-21.45.53:126][775]LogBlueprintActionDatabase: Requesting refresh due to module change: MovieSceneCapture (loaded)
+[2020.01.27-21.45.53:127][775]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0008 seconds. Added 20 classes and 0 folders.
+[2020.01.27-21.45.53:135][775]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_IA_MAP -0.483
+[2020.01.27-21.45.53:135][775]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/IA_MAP.IA_MAP:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/IA_MAP.IA_MAP:PersistentLevel.IA_MAP' with GeneratedClass '/Game/FirstPersonBP/Maps/IA_MAP.IA_MAP_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/IA_MAP.IA_MAP:PersistentLevel.IA_MAP'
+[2020.01.27-21.45.54:905][938]LogScript: Warning: Accessed None trying to read property CallFunc_GetAIController_ReturnValue
+	IA_1_C /Game/FirstPersonBP/Maps/UEDPIE_0_IA_MAP.IA_MAP:PersistentLevel.IA_1_C_0
+	Function /Game/FirstPersonBP/Blueprints/IA/IA_1.IA_1_C:ExecuteUbergraph_IA_1:004C
+[2020.01.27-21.45.54:905][938]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetAIController_ReturnValue". Blueprint:  IA_1 Function:  Execute Ubergraph IA 1 Graph:  EventGraph Node:  Run Behavior Tree
+[2020.01.27-21.45.54:905][938]LogScript: Warning: Accessed None trying to read property CallFunc_GetBlackboard_ReturnValue
+	IA_1_C /Game/FirstPersonBP/Maps/UEDPIE_0_IA_MAP.IA_MAP:PersistentLevel.IA_1_C_0
+	Function /Game/FirstPersonBP/Blueprints/IA/IA_1.IA_1_C:ExecuteUbergraph_IA_1:00E5
+[2020.01.27-21.45.54:905][938]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetBlackboard_ReturnValue". Blueprint:  IA_1 Function:  Execute Ubergraph IA 1 Graph:  EventGraph Node:  Set Value as Vector
+[2020.01.27-21.45.56:879][175]LogScript: Warning: Accessed None trying to read property CallFunc_GetAIController_ReturnValue
+	IA_1_C /Game/FirstPersonBP/Maps/UEDPIE_0_IA_MAP.IA_MAP:PersistentLevel.IA_1_C_1
+	Function /Game/FirstPersonBP/Blueprints/IA/IA_1.IA_1_C:ExecuteUbergraph_IA_1:004C
+[2020.01.27-21.45.56:879][175]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetAIController_ReturnValue". Blueprint:  IA_1 Function:  Execute Ubergraph IA 1 Graph:  EventGraph Node:  Run Behavior Tree
+[2020.01.27-21.45.56:879][175]LogScript: Warning: Accessed None trying to read property CallFunc_GetBlackboard_ReturnValue
+	IA_1_C /Game/FirstPersonBP/Maps/UEDPIE_0_IA_MAP.IA_MAP:PersistentLevel.IA_1_C_1
+	Function /Game/FirstPersonBP/Blueprints/IA/IA_1.IA_1_C:ExecuteUbergraph_IA_1:00E5
+[2020.01.27-21.45.56:879][175]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetBlackboard_ReturnValue". Blueprint:  IA_1 Function:  Execute Ubergraph IA 1 Graph:  EventGraph Node:  Set Value as Vector
+[2020.01.27-21.45.58:877][414]LogScript: Warning: Accessed None trying to read property CallFunc_GetAIController_ReturnValue
+	IA_1_C /Game/FirstPersonBP/Maps/UEDPIE_0_IA_MAP.IA_MAP:PersistentLevel.IA_1_C_2
+	Function /Game/FirstPersonBP/Blueprints/IA/IA_1.IA_1_C:ExecuteUbergraph_IA_1:004C
+[2020.01.27-21.45.58:877][414]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetAIController_ReturnValue". Blueprint:  IA_1 Function:  Execute Ubergraph IA 1 Graph:  EventGraph Node:  Run Behavior Tree
+[2020.01.27-21.45.58:877][414]LogScript: Warning: Accessed None trying to read property CallFunc_GetBlackboard_ReturnValue
+	IA_1_C /Game/FirstPersonBP/Maps/UEDPIE_0_IA_MAP.IA_MAP:PersistentLevel.IA_1_C_2
+	Function /Game/FirstPersonBP/Blueprints/IA/IA_1.IA_1_C:ExecuteUbergraph_IA_1:00E5
+[2020.01.27-21.45.58:877][414]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetBlackboard_ReturnValue". Blueprint:  IA_1 Function:  Execute Ubergraph IA 1 Graph:  EventGraph Node:  Set Value as Vector
+[2020.01.27-21.46.00:883][654]LogScript: Warning: Accessed None trying to read property CallFunc_GetAIController_ReturnValue
+	IA_1_C /Game/FirstPersonBP/Maps/UEDPIE_0_IA_MAP.IA_MAP:PersistentLevel.IA_1_C_3
+	Function /Game/FirstPersonBP/Blueprints/IA/IA_1.IA_1_C:ExecuteUbergraph_IA_1:004C
+[2020.01.27-21.46.00:883][654]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetAIController_ReturnValue". Blueprint:  IA_1 Function:  Execute Ubergraph IA 1 Graph:  EventGraph Node:  Run Behavior Tree
+[2020.01.27-21.46.00:883][654]LogScript: Warning: Accessed None trying to read property CallFunc_GetBlackboard_ReturnValue
+	IA_1_C /Game/FirstPersonBP/Maps/UEDPIE_0_IA_MAP.IA_MAP:PersistentLevel.IA_1_C_3
+	Function /Game/FirstPersonBP/Blueprints/IA/IA_1.IA_1_C:ExecuteUbergraph_IA_1:00E5
+[2020.01.27-21.46.00:883][654]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetBlackboard_ReturnValue". Blueprint:  IA_1 Function:  Execute Ubergraph IA 1 Graph:  EventGraph Node:  Set Value as Vector
+[2020.01.27-21.46.02:883][894]LogScript: Warning: Accessed None trying to read property CallFunc_GetAIController_ReturnValue
+	IA_1_C /Game/FirstPersonBP/Maps/UEDPIE_0_IA_MAP.IA_MAP:PersistentLevel.IA_1_C_4
+	Function /Game/FirstPersonBP/Blueprints/IA/IA_1.IA_1_C:ExecuteUbergraph_IA_1:004C
+[2020.01.27-21.46.02:883][894]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetAIController_ReturnValue". Blueprint:  IA_1 Function:  Execute Ubergraph IA 1 Graph:  EventGraph Node:  Run Behavior Tree
+[2020.01.27-21.46.02:883][894]LogScript: Warning: Accessed None trying to read property CallFunc_GetBlackboard_ReturnValue
+	IA_1_C /Game/FirstPersonBP/Maps/UEDPIE_0_IA_MAP.IA_MAP:PersistentLevel.IA_1_C_4
+	Function /Game/FirstPersonBP/Blueprints/IA/IA_1.IA_1_C:ExecuteUbergraph_IA_1:00E5
+[2020.01.27-21.46.02:883][894]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetBlackboard_ReturnValue". Blueprint:  IA_1 Function:  Execute Ubergraph IA 1 Graph:  EventGraph Node:  Set Value as Vector
+[2020.01.27-21.46.04:883][134]LogScript: Warning: Accessed None trying to read property CallFunc_GetAIController_ReturnValue
+	IA_1_C /Game/FirstPersonBP/Maps/UEDPIE_0_IA_MAP.IA_MAP:PersistentLevel.IA_1_C_5
+	Function /Game/FirstPersonBP/Blueprints/IA/IA_1.IA_1_C:ExecuteUbergraph_IA_1:004C
+[2020.01.27-21.46.04:883][134]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetAIController_ReturnValue". Blueprint:  IA_1 Function:  Execute Ubergraph IA 1 Graph:  EventGraph Node:  Run Behavior Tree
+[2020.01.27-21.46.04:883][134]LogScript: Warning: Accessed None trying to read property CallFunc_GetBlackboard_ReturnValue
+	IA_1_C /Game/FirstPersonBP/Maps/UEDPIE_0_IA_MAP.IA_MAP:PersistentLevel.IA_1_C_5
+	Function /Game/FirstPersonBP/Blueprints/IA/IA_1.IA_1_C:ExecuteUbergraph_IA_1:00E5
+[2020.01.27-21.46.04:883][134]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetBlackboard_ReturnValue". Blueprint:  IA_1 Function:  Execute Ubergraph IA 1 Graph:  EventGraph Node:  Set Value as Vector
+[2020.01.27-21.46.04:908][137]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/IA_MAP.IA_MAP:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/IA_MAP.IA_MAP:PersistentLevel.IA_MAP' with GeneratedClass '/Game/FirstPersonBP/Maps/IA_MAP.IA_MAP_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/IA_MAP.IA_MAP:PersistentLevel.IA_MAP'
+[2020.01.27-21.46.04:911][137]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.27-21.46.04:938][137]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.01.27-21.46.04:938][137]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/IA_MAP.IA_MAP:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/IA_MAP.IA_MAP:PersistentLevel.IA_MAP' with GeneratedClass '/Game/FirstPersonBP/Maps/IA_MAP.IA_MAP_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/IA_MAP.IA_MAP:PersistentLevel.IA_MAP'
+[2020.01.27-21.46.04:977][137]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.27-21.46.05:005][137]LogUObjectHash: Compacting FUObjectHashTables data took   5.52ms
+[2020.01.27-21.46.05:012][137]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.27-21.46.05:049][138]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2020.01.27-21.46.07:125][382]LogSlate: Window 'Message Log' being destroyed
+[2020.01.27-21.46.07:128][382]LogSlate: Window 'Message Log' being destroyed
+[2020.01.27-21.46.51:122][617]LogEditorViewport: Clicking on Actor (LMB): IA_Spawner_C (IA_Spawner)
+[2020.01.27-21.46.54:217][985]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.27-21.48.25:877][794]LogTemp: Repeating last play command: Selected Viewport
+[2020.01.27-21.48.25:899][794]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/IA_MAP.IA_MAP:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/IA_MAP.IA_MAP:PersistentLevel.IA_MAP' with GeneratedClass '/Game/FirstPersonBP/Maps/IA_MAP.IA_MAP_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/IA_MAP.IA_MAP:PersistentLevel.IA_MAP'
+[2020.01.27-21.48.25:902][794]BlueprintLog: New page: Pre-Play auto-recompile
+[2020.01.27-21.48.25:902][794]LogPlayLevel: [PlayLevel] Compiling IA_Spawner before play...
+[2020.01.27-21.48.26:134][794]LogUObjectHash: Compacting FUObjectHashTables data took   4.23ms
+[2020.01.27-21.48.26:135][794]LogPlayLevel: PlayLevel: Blueprint regeneration took 232 ms (1 blueprints)
+[2020.01.27-21.48.26:135][794]PIE: New page: PIE session: IA_MAP (Jan 27, 2020, 11:48:26 PM)
+[2020.01.27-21.48.26:135][794]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_IA_MAP
+[2020.01.27-21.48.26:147][794]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011810s)
+[2020.01.27-21.48.26:148][794]LogAIModule: Creating AISystem for world IA_MAP
+[2020.01.27-21.48.26:148][794]LogPlayLevel: PIE: World Init took: (0.000702s)
+[2020.01.27-21.48.26:148][794]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/IA_MAP.IA_MAP to /Game/FirstPersonBP/Maps/UEDPIE_0_IA_MAP.IA_MAP (0.012656s)
+[2020.01.27-21.48.26:188][794]LogUObjectHash: Compacting FUObjectHashTables data took   2.13ms
+[2020.01.27-21.48.26:219][794]LogInit: XAudio2 using 'Auriculares (Arctis 7 Game)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.01.27-21.48.26:250][794]LogInit: FAudioDevice initialized.
+[2020.01.27-21.48.26:257][794]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.27-21.48.26:290][794]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.01.27-21.48.26:292][794]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_IA_MAP.IA_MAP up for play (max tick rate 0) at 2020.01.27-22.48.26
+[2020.01.27-21.48.26:292][794]LogWorld: Bringing up level for play took: 0.001057
+[2020.01.27-21.48.26:308][794]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_IA_MAP 0.691
+[2020.01.27-21.48.26:309][794]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/IA_MAP.IA_MAP:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/IA_MAP.IA_MAP:PersistentLevel.IA_MAP' with GeneratedClass '/Game/FirstPersonBP/Maps/IA_MAP.IA_MAP_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/IA_MAP.IA_MAP:PersistentLevel.IA_MAP'
+[2020.01.27-21.48.26:339][796]LogRenderer: Reallocating scene render targets to support 1272x900 Format 10 NumSamples 1 (Frame:1).
+[2020.01.27-21.48.27:935][980]LogScript: Warning: Accessed None trying to read property CallFunc_GetAIController_ReturnValue
+	IA_1_C /Game/FirstPersonBP/Maps/UEDPIE_0_IA_MAP.IA_MAP:PersistentLevel.IA_1_C_0
+	Function /Game/FirstPersonBP/Blueprints/IA/IA_1.IA_1_C:ExecuteUbergraph_IA_1:004C
+[2020.01.27-21.48.27:935][980]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetAIController_ReturnValue". Blueprint:  IA_1 Function:  Execute Ubergraph IA 1 Graph:  EventGraph Node:  Run Behavior Tree
+[2020.01.27-21.48.27:935][980]LogScript: Warning: Accessed None trying to read property CallFunc_GetBlackboard_ReturnValue
+	IA_1_C /Game/FirstPersonBP/Maps/UEDPIE_0_IA_MAP.IA_MAP:PersistentLevel.IA_1_C_0
+	Function /Game/FirstPersonBP/Blueprints/IA/IA_1.IA_1_C:ExecuteUbergraph_IA_1:00E5
+[2020.01.27-21.48.27:935][980]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetBlackboard_ReturnValue". Blueprint:  IA_1 Function:  Execute Ubergraph IA 1 Graph:  EventGraph Node:  Set Value as Vector
+[2020.01.27-21.48.29:936][216]LogScript: Warning: Accessed None trying to read property CallFunc_GetAIController_ReturnValue
+	IA_1_C /Game/FirstPersonBP/Maps/UEDPIE_0_IA_MAP.IA_MAP:PersistentLevel.IA_1_C_1
+	Function /Game/FirstPersonBP/Blueprints/IA/IA_1.IA_1_C:ExecuteUbergraph_IA_1:004C
+[2020.01.27-21.48.29:937][216]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetAIController_ReturnValue". Blueprint:  IA_1 Function:  Execute Ubergraph IA 1 Graph:  EventGraph Node:  Run Behavior Tree
+[2020.01.27-21.48.29:937][216]LogScript: Warning: Accessed None trying to read property CallFunc_GetBlackboard_ReturnValue
+	IA_1_C /Game/FirstPersonBP/Maps/UEDPIE_0_IA_MAP.IA_MAP:PersistentLevel.IA_1_C_1
+	Function /Game/FirstPersonBP/Blueprints/IA/IA_1.IA_1_C:ExecuteUbergraph_IA_1:00E5
+[2020.01.27-21.48.29:937][216]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetBlackboard_ReturnValue". Blueprint:  IA_1 Function:  Execute Ubergraph IA 1 Graph:  EventGraph Node:  Set Value as Vector
+[2020.01.27-21.48.31:938][445]LogScript: Warning: Accessed None trying to read property CallFunc_GetAIController_ReturnValue
+	IA_1_C /Game/FirstPersonBP/Maps/UEDPIE_0_IA_MAP.IA_MAP:PersistentLevel.IA_1_C_2
+	Function /Game/FirstPersonBP/Blueprints/IA/IA_1.IA_1_C:ExecuteUbergraph_IA_1:004C
+[2020.01.27-21.48.31:938][445]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetAIController_ReturnValue". Blueprint:  IA_1 Function:  Execute Ubergraph IA 1 Graph:  EventGraph Node:  Run Behavior Tree
+[2020.01.27-21.48.31:938][445]LogScript: Warning: Accessed None trying to read property CallFunc_GetBlackboard_ReturnValue
+	IA_1_C /Game/FirstPersonBP/Maps/UEDPIE_0_IA_MAP.IA_MAP:PersistentLevel.IA_1_C_2
+	Function /Game/FirstPersonBP/Blueprints/IA/IA_1.IA_1_C:ExecuteUbergraph_IA_1:00E5
+[2020.01.27-21.48.31:938][445]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetBlackboard_ReturnValue". Blueprint:  IA_1 Function:  Execute Ubergraph IA 1 Graph:  EventGraph Node:  Set Value as Vector
+[2020.01.27-21.48.33:933][684]LogScript: Warning: Accessed None trying to read property CallFunc_GetAIController_ReturnValue
+	IA_1_C /Game/FirstPersonBP/Maps/UEDPIE_0_IA_MAP.IA_MAP:PersistentLevel.IA_1_C_3
+	Function /Game/FirstPersonBP/Blueprints/IA/IA_1.IA_1_C:ExecuteUbergraph_IA_1:004C
+[2020.01.27-21.48.33:933][684]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetAIController_ReturnValue". Blueprint:  IA_1 Function:  Execute Ubergraph IA 1 Graph:  EventGraph Node:  Run Behavior Tree
+[2020.01.27-21.48.33:933][684]LogScript: Warning: Accessed None trying to read property CallFunc_GetBlackboard_ReturnValue
+	IA_1_C /Game/FirstPersonBP/Maps/UEDPIE_0_IA_MAP.IA_MAP:PersistentLevel.IA_1_C_3
+	Function /Game/FirstPersonBP/Blueprints/IA/IA_1.IA_1_C:ExecuteUbergraph_IA_1:00E5
+[2020.01.27-21.48.33:934][684]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetBlackboard_ReturnValue". Blueprint:  IA_1 Function:  Execute Ubergraph IA 1 Graph:  EventGraph Node:  Set Value as Vector
+[2020.01.27-21.48.35:933][924]LogScript: Warning: Accessed None trying to read property CallFunc_GetAIController_ReturnValue
+	IA_1_C /Game/FirstPersonBP/Maps/UEDPIE_0_IA_MAP.IA_MAP:PersistentLevel.IA_1_C_4
+	Function /Game/FirstPersonBP/Blueprints/IA/IA_1.IA_1_C:ExecuteUbergraph_IA_1:004C
+[2020.01.27-21.48.35:933][924]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetAIController_ReturnValue". Blueprint:  IA_1 Function:  Execute Ubergraph IA 1 Graph:  EventGraph Node:  Run Behavior Tree
+[2020.01.27-21.48.35:933][924]LogScript: Warning: Accessed None trying to read property CallFunc_GetBlackboard_ReturnValue
+	IA_1_C /Game/FirstPersonBP/Maps/UEDPIE_0_IA_MAP.IA_MAP:PersistentLevel.IA_1_C_4
+	Function /Game/FirstPersonBP/Blueprints/IA/IA_1.IA_1_C:ExecuteUbergraph_IA_1:00E5
+[2020.01.27-21.48.35:933][924]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetBlackboard_ReturnValue". Blueprint:  IA_1 Function:  Execute Ubergraph IA 1 Graph:  EventGraph Node:  Set Value as Vector
+[2020.01.27-21.48.37:933][164]LogScript: Warning: Accessed None trying to read property CallFunc_GetAIController_ReturnValue
+	IA_1_C /Game/FirstPersonBP/Maps/UEDPIE_0_IA_MAP.IA_MAP:PersistentLevel.IA_1_C_5
+	Function /Game/FirstPersonBP/Blueprints/IA/IA_1.IA_1_C:ExecuteUbergraph_IA_1:004C
+[2020.01.27-21.48.37:934][164]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetAIController_ReturnValue". Blueprint:  IA_1 Function:  Execute Ubergraph IA 1 Graph:  EventGraph Node:  Run Behavior Tree
+[2020.01.27-21.48.37:934][164]LogScript: Warning: Accessed None trying to read property CallFunc_GetBlackboard_ReturnValue
+	IA_1_C /Game/FirstPersonBP/Maps/UEDPIE_0_IA_MAP.IA_MAP:PersistentLevel.IA_1_C_5
+	Function /Game/FirstPersonBP/Blueprints/IA/IA_1.IA_1_C:ExecuteUbergraph_IA_1:00E5
+[2020.01.27-21.48.37:934][164]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetBlackboard_ReturnValue". Blueprint:  IA_1 Function:  Execute Ubergraph IA 1 Graph:  EventGraph Node:  Set Value as Vector
+[2020.01.27-21.48.39:934][404]LogScript: Warning: Accessed None trying to read property CallFunc_GetAIController_ReturnValue
+	IA_1_C /Game/FirstPersonBP/Maps/UEDPIE_0_IA_MAP.IA_MAP:PersistentLevel.IA_1_C_6
+	Function /Game/FirstPersonBP/Blueprints/IA/IA_1.IA_1_C:ExecuteUbergraph_IA_1:004C
+[2020.01.27-21.48.39:934][404]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetAIController_ReturnValue". Blueprint:  IA_1 Function:  Execute Ubergraph IA 1 Graph:  EventGraph Node:  Run Behavior Tree
+[2020.01.27-21.48.39:934][404]LogScript: Warning: Accessed None trying to read property CallFunc_GetBlackboard_ReturnValue
+	IA_1_C /Game/FirstPersonBP/Maps/UEDPIE_0_IA_MAP.IA_MAP:PersistentLevel.IA_1_C_6
+	Function /Game/FirstPersonBP/Blueprints/IA/IA_1.IA_1_C:ExecuteUbergraph_IA_1:00E5
+[2020.01.27-21.48.39:934][404]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetBlackboard_ReturnValue". Blueprint:  IA_1 Function:  Execute Ubergraph IA 1 Graph:  EventGraph Node:  Set Value as Vector
+[2020.01.27-21.48.41:934][644]LogScript: Warning: Accessed None trying to read property CallFunc_GetAIController_ReturnValue
+	IA_1_C /Game/FirstPersonBP/Maps/UEDPIE_0_IA_MAP.IA_MAP:PersistentLevel.IA_1_C_7
+	Function /Game/FirstPersonBP/Blueprints/IA/IA_1.IA_1_C:ExecuteUbergraph_IA_1:004C
+[2020.01.27-21.48.41:934][644]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetAIController_ReturnValue". Blueprint:  IA_1 Function:  Execute Ubergraph IA 1 Graph:  EventGraph Node:  Run Behavior Tree
+[2020.01.27-21.48.41:934][644]LogScript: Warning: Accessed None trying to read property CallFunc_GetBlackboard_ReturnValue
+	IA_1_C /Game/FirstPersonBP/Maps/UEDPIE_0_IA_MAP.IA_MAP:PersistentLevel.IA_1_C_7
+	Function /Game/FirstPersonBP/Blueprints/IA/IA_1.IA_1_C:ExecuteUbergraph_IA_1:00E5
+[2020.01.27-21.48.41:935][644]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetBlackboard_ReturnValue". Blueprint:  IA_1 Function:  Execute Ubergraph IA 1 Graph:  EventGraph Node:  Set Value as Vector
+[2020.01.27-21.48.43:934][884]LogScript: Warning: Accessed None trying to read property CallFunc_GetAIController_ReturnValue
+	IA_1_C /Game/FirstPersonBP/Maps/UEDPIE_0_IA_MAP.IA_MAP:PersistentLevel.IA_1_C_8
+	Function /Game/FirstPersonBP/Blueprints/IA/IA_1.IA_1_C:ExecuteUbergraph_IA_1:004C
+[2020.01.27-21.48.43:934][884]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetAIController_ReturnValue". Blueprint:  IA_1 Function:  Execute Ubergraph IA 1 Graph:  EventGraph Node:  Run Behavior Tree
+[2020.01.27-21.48.43:934][884]LogScript: Warning: Accessed None trying to read property CallFunc_GetBlackboard_ReturnValue
+	IA_1_C /Game/FirstPersonBP/Maps/UEDPIE_0_IA_MAP.IA_MAP:PersistentLevel.IA_1_C_8
+	Function /Game/FirstPersonBP/Blueprints/IA/IA_1.IA_1_C:ExecuteUbergraph_IA_1:00E5
+[2020.01.27-21.48.43:934][884]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetBlackboard_ReturnValue". Blueprint:  IA_1 Function:  Execute Ubergraph IA 1 Graph:  EventGraph Node:  Set Value as Vector
+[2020.01.27-21.48.45:442][ 65]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/IA_MAP.IA_MAP:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/IA_MAP.IA_MAP:PersistentLevel.IA_MAP' with GeneratedClass '/Game/FirstPersonBP/Maps/IA_MAP.IA_MAP_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/IA_MAP.IA_MAP:PersistentLevel.IA_MAP'
+[2020.01.27-21.48.45:444][ 65]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.27-21.48.45:463][ 65]LogSlate: Window 'BPOW Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.01.27-21.48.45:497][ 65]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.01.27-21.48.45:497][ 65]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/IA_MAP.IA_MAP:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/IA_MAP.IA_MAP:PersistentLevel.IA_MAP' with GeneratedClass '/Game/FirstPersonBP/Maps/IA_MAP.IA_MAP_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/IA_MAP.IA_MAP:PersistentLevel.IA_MAP'
+[2020.01.27-21.48.45:541][ 65]LogUObjectHash: Compacting FUObjectHashTables data took   2.18ms
+[2020.01.27-21.48.45:582][ 66]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2020.01.27-21.48.46:689][197]LogSlate: Window 'Message Log' being destroyed
+[2020.01.27-21.48.46:691][197]LogSlate: Window 'Message Log' being destroyed
+[2020.01.27-21.48.52:616][906]LogTemp: Repeating last play command: Selected Viewport
+[2020.01.27-21.48.52:643][906]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/IA_MAP.IA_MAP:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/IA_MAP.IA_MAP:PersistentLevel.IA_MAP' with GeneratedClass '/Game/FirstPersonBP/Maps/IA_MAP.IA_MAP_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/IA_MAP.IA_MAP:PersistentLevel.IA_MAP'
+[2020.01.27-21.48.52:646][906]BlueprintLog: New page: Pre-Play auto-recompile
+[2020.01.27-21.48.52:646][906]LogPlayLevel: [PlayLevel] Compiling IA_Spawner before play...
+[2020.01.27-21.48.52:863][906]LogUObjectHash: Compacting FUObjectHashTables data took   3.32ms
+[2020.01.27-21.48.52:863][906]LogPlayLevel: PlayLevel: Blueprint regeneration took 217 ms (1 blueprints)
+[2020.01.27-21.48.52:864][906]PIE: New page: PIE session: IA_MAP (Jan 27, 2020, 11:48:52 PM)
+[2020.01.27-21.48.52:864][906]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_IA_MAP
+[2020.01.27-21.48.52:874][906]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010379s)
+[2020.01.27-21.48.52:875][906]LogAIModule: Creating AISystem for world IA_MAP
+[2020.01.27-21.48.52:875][906]LogPlayLevel: PIE: World Init took: (0.000632s)
+[2020.01.27-21.48.52:875][906]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/IA_MAP.IA_MAP to /Game/FirstPersonBP/Maps/UEDPIE_0_IA_MAP.IA_MAP (0.011145s)
+[2020.01.27-21.48.52:913][906]LogUObjectHash: Compacting FUObjectHashTables data took   2.12ms
+[2020.01.27-21.48.52:941][906]LogInit: XAudio2 using 'Auriculares (Arctis 7 Game)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.01.27-21.48.52:969][906]LogInit: FAudioDevice initialized.
+[2020.01.27-21.48.52:975][906]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.27-21.48.53:005][906]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.01.27-21.48.53:006][906]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_IA_MAP.IA_MAP up for play (max tick rate 0) at 2020.01.27-22.48.53
+[2020.01.27-21.48.53:007][906]LogWorld: Bringing up level for play took: 0.001020
+[2020.01.27-21.48.53:022][906]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_IA_MAP -0.595
+[2020.01.27-21.48.53:023][906]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/IA_MAP.IA_MAP:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/IA_MAP.IA_MAP:PersistentLevel.IA_MAP' with GeneratedClass '/Game/FirstPersonBP/Maps/IA_MAP.IA_MAP_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/IA_MAP.IA_MAP:PersistentLevel.IA_MAP'
+[2020.01.27-21.48.54:647][ 96]LogScript: Warning: Accessed None trying to read property CallFunc_GetAIController_ReturnValue
+	IA_1_C /Game/FirstPersonBP/Maps/UEDPIE_0_IA_MAP.IA_MAP:PersistentLevel.IA_1_C_0
+	Function /Game/FirstPersonBP/Blueprints/IA/IA_1.IA_1_C:ExecuteUbergraph_IA_1:004C
+[2020.01.27-21.48.54:647][ 96]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetAIController_ReturnValue". Blueprint:  IA_1 Function:  Execute Ubergraph IA 1 Graph:  EventGraph Node:  Run Behavior Tree
+[2020.01.27-21.48.54:647][ 96]LogScript: Warning: Accessed None trying to read property CallFunc_GetBlackboard_ReturnValue
+	IA_1_C /Game/FirstPersonBP/Maps/UEDPIE_0_IA_MAP.IA_MAP:PersistentLevel.IA_1_C_0
+	Function /Game/FirstPersonBP/Blueprints/IA/IA_1.IA_1_C:ExecuteUbergraph_IA_1:00E5
+[2020.01.27-21.48.54:647][ 96]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetBlackboard_ReturnValue". Blueprint:  IA_1 Function:  Execute Ubergraph IA 1 Graph:  EventGraph Node:  Set Value as Vector
+[2020.01.27-21.48.56:647][336]LogScript: Warning: Accessed None trying to read property CallFunc_GetAIController_ReturnValue
+	IA_1_C /Game/FirstPersonBP/Maps/UEDPIE_0_IA_MAP.IA_MAP:PersistentLevel.IA_1_C_1
+	Function /Game/FirstPersonBP/Blueprints/IA/IA_1.IA_1_C:ExecuteUbergraph_IA_1:004C
+[2020.01.27-21.48.56:647][336]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetAIController_ReturnValue". Blueprint:  IA_1 Function:  Execute Ubergraph IA 1 Graph:  EventGraph Node:  Run Behavior Tree
+[2020.01.27-21.48.56:647][336]LogScript: Warning: Accessed None trying to read property CallFunc_GetBlackboard_ReturnValue
+	IA_1_C /Game/FirstPersonBP/Maps/UEDPIE_0_IA_MAP.IA_MAP:PersistentLevel.IA_1_C_1
+	Function /Game/FirstPersonBP/Blueprints/IA/IA_1.IA_1_C:ExecuteUbergraph_IA_1:00E5
+[2020.01.27-21.48.56:647][336]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetBlackboard_ReturnValue". Blueprint:  IA_1 Function:  Execute Ubergraph IA 1 Graph:  EventGraph Node:  Set Value as Vector
+[2020.01.27-21.48.58:647][576]LogScript: Warning: Accessed None trying to read property CallFunc_GetAIController_ReturnValue
+	IA_1_C /Game/FirstPersonBP/Maps/UEDPIE_0_IA_MAP.IA_MAP:PersistentLevel.IA_1_C_2
+	Function /Game/FirstPersonBP/Blueprints/IA/IA_1.IA_1_C:ExecuteUbergraph_IA_1:004C
+[2020.01.27-21.48.58:647][576]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetAIController_ReturnValue". Blueprint:  IA_1 Function:  Execute Ubergraph IA 1 Graph:  EventGraph Node:  Run Behavior Tree
+[2020.01.27-21.48.58:647][576]LogScript: Warning: Accessed None trying to read property CallFunc_GetBlackboard_ReturnValue
+	IA_1_C /Game/FirstPersonBP/Maps/UEDPIE_0_IA_MAP.IA_MAP:PersistentLevel.IA_1_C_2
+	Function /Game/FirstPersonBP/Blueprints/IA/IA_1.IA_1_C:ExecuteUbergraph_IA_1:00E5
+[2020.01.27-21.48.58:647][576]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetBlackboard_ReturnValue". Blueprint:  IA_1 Function:  Execute Ubergraph IA 1 Graph:  EventGraph Node:  Set Value as Vector
+[2020.01.27-21.49.00:647][816]LogScript: Warning: Accessed None trying to read property CallFunc_GetAIController_ReturnValue
+	IA_1_C /Game/FirstPersonBP/Maps/UEDPIE_0_IA_MAP.IA_MAP:PersistentLevel.IA_1_C_3
+	Function /Game/FirstPersonBP/Blueprints/IA/IA_1.IA_1_C:ExecuteUbergraph_IA_1:004C
+[2020.01.27-21.49.00:647][816]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetAIController_ReturnValue". Blueprint:  IA_1 Function:  Execute Ubergraph IA 1 Graph:  EventGraph Node:  Run Behavior Tree
+[2020.01.27-21.49.00:647][816]LogScript: Warning: Accessed None trying to read property CallFunc_GetBlackboard_ReturnValue
+	IA_1_C /Game/FirstPersonBP/Maps/UEDPIE_0_IA_MAP.IA_MAP:PersistentLevel.IA_1_C_3
+	Function /Game/FirstPersonBP/Blueprints/IA/IA_1.IA_1_C:ExecuteUbergraph_IA_1:00E5
+[2020.01.27-21.49.00:648][816]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetBlackboard_ReturnValue". Blueprint:  IA_1 Function:  Execute Ubergraph IA 1 Graph:  EventGraph Node:  Set Value as Vector
+[2020.01.27-21.49.02:647][ 56]LogScript: Warning: Accessed None trying to read property CallFunc_GetAIController_ReturnValue
+	IA_1_C /Game/FirstPersonBP/Maps/UEDPIE_0_IA_MAP.IA_MAP:PersistentLevel.IA_1_C_4
+	Function /Game/FirstPersonBP/Blueprints/IA/IA_1.IA_1_C:ExecuteUbergraph_IA_1:004C
+[2020.01.27-21.49.02:648][ 56]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetAIController_ReturnValue". Blueprint:  IA_1 Function:  Execute Ubergraph IA 1 Graph:  EventGraph Node:  Run Behavior Tree
+[2020.01.27-21.49.02:648][ 56]LogScript: Warning: Accessed None trying to read property CallFunc_GetBlackboard_ReturnValue
+	IA_1_C /Game/FirstPersonBP/Maps/UEDPIE_0_IA_MAP.IA_MAP:PersistentLevel.IA_1_C_4
+	Function /Game/FirstPersonBP/Blueprints/IA/IA_1.IA_1_C:ExecuteUbergraph_IA_1:00E5
+[2020.01.27-21.49.02:648][ 56]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetBlackboard_ReturnValue". Blueprint:  IA_1 Function:  Execute Ubergraph IA 1 Graph:  EventGraph Node:  Set Value as Vector
+[2020.01.27-21.49.04:648][296]LogScript: Warning: Accessed None trying to read property CallFunc_GetAIController_ReturnValue
+	IA_1_C /Game/FirstPersonBP/Maps/UEDPIE_0_IA_MAP.IA_MAP:PersistentLevel.IA_1_C_5
+	Function /Game/FirstPersonBP/Blueprints/IA/IA_1.IA_1_C:ExecuteUbergraph_IA_1:004C
+[2020.01.27-21.49.04:648][296]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetAIController_ReturnValue". Blueprint:  IA_1 Function:  Execute Ubergraph IA 1 Graph:  EventGraph Node:  Run Behavior Tree
+[2020.01.27-21.49.04:648][296]LogScript: Warning: Accessed None trying to read property CallFunc_GetBlackboard_ReturnValue
+	IA_1_C /Game/FirstPersonBP/Maps/UEDPIE_0_IA_MAP.IA_MAP:PersistentLevel.IA_1_C_5
+	Function /Game/FirstPersonBP/Blueprints/IA/IA_1.IA_1_C:ExecuteUbergraph_IA_1:00E5
+[2020.01.27-21.49.04:648][296]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetBlackboard_ReturnValue". Blueprint:  IA_1 Function:  Execute Ubergraph IA 1 Graph:  EventGraph Node:  Set Value as Vector
+[2020.01.27-21.49.06:648][536]LogScript: Warning: Accessed None trying to read property CallFunc_GetAIController_ReturnValue
+	IA_1_C /Game/FirstPersonBP/Maps/UEDPIE_0_IA_MAP.IA_MAP:PersistentLevel.IA_1_C_6
+	Function /Game/FirstPersonBP/Blueprints/IA/IA_1.IA_1_C:ExecuteUbergraph_IA_1:004C
+[2020.01.27-21.49.06:648][536]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetAIController_ReturnValue". Blueprint:  IA_1 Function:  Execute Ubergraph IA 1 Graph:  EventGraph Node:  Run Behavior Tree
+[2020.01.27-21.49.06:648][536]LogScript: Warning: Accessed None trying to read property CallFunc_GetBlackboard_ReturnValue
+	IA_1_C /Game/FirstPersonBP/Maps/UEDPIE_0_IA_MAP.IA_MAP:PersistentLevel.IA_1_C_6
+	Function /Game/FirstPersonBP/Blueprints/IA/IA_1.IA_1_C:ExecuteUbergraph_IA_1:00E5
+[2020.01.27-21.49.06:648][536]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetBlackboard_ReturnValue". Blueprint:  IA_1 Function:  Execute Ubergraph IA 1 Graph:  EventGraph Node:  Set Value as Vector
+[2020.01.27-21.49.07:114][592]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/IA_MAP.IA_MAP:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/IA_MAP.IA_MAP:PersistentLevel.IA_MAP' with GeneratedClass '/Game/FirstPersonBP/Maps/IA_MAP.IA_MAP_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/IA_MAP.IA_MAP:PersistentLevel.IA_MAP'
+[2020.01.27-21.49.07:118][592]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.27-21.49.07:136][592]LogSlate: Window 'BPOW Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.01.27-21.49.07:172][592]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.01.27-21.49.07:172][592]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/IA_MAP.IA_MAP:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/IA_MAP.IA_MAP:PersistentLevel.IA_MAP' with GeneratedClass '/Game/FirstPersonBP/Maps/IA_MAP.IA_MAP_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/IA_MAP.IA_MAP:PersistentLevel.IA_MAP'
+[2020.01.27-21.49.07:218][592]LogUObjectHash: Compacting FUObjectHashTables data took   2.17ms
+[2020.01.27-21.49.07:257][593]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2020.01.27-21.53.10:325][406]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2020.01.27-21.53.10:561][406]LogSavePackage: Moving '../../../../../../2DAMVIOD/Desenvolupament de jocs motor3d/OverwatchUR4/BPOW/Saved/IA_MAP_Auto1267B453D4A714DE5236707B6D9C443D2.tmp' to '../../../../../../2DAMVIOD/Desenvolupament de jocs motor3d/OverwatchUR4/BPOW/Saved/Autosaves/Game/FirstPersonBP/Maps/IA_MAP_Auto1.umap'
+[2020.01.27-21.53.10:562][406]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonBP/Maps/IA_MAP' took 0.269
+[2020.01.27-21.53.10:562][406]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.269
+[2020.01.27-21.53.10:564][406]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/FirstPersonBP/Blueprints/MapLogic/IA_Spawner] ([1] browsable assets)...
+[2020.01.27-21.53.10:579][406]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/FirstPersonBP/Blueprints/MapLogic/IA_Spawner.IA_Spawner]
+[2020.01.27-21.53.10:579][406]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPersonBP/Blueprints/MapLogic/IA_Spawner]
+[2020.01.27-21.53.10:601][406]LogSavePackage: Moving '../../../../../../2DAMVIOD/Desenvolupament de jocs motor3d/OverwatchUR4/BPOW/Saved/IA_Spawner_Auto154D7F34D4726BC2703A9E69B2599ED0A.tmp' to '../../../../../../2DAMVIOD/Desenvolupament de jocs motor3d/OverwatchUR4/BPOW/Saved/Autosaves/Game/FirstPersonBP/Blueprints/MapLogic/IA_Spawner_Auto1.uasset'
+[2020.01.27-21.53.10:602][406]LogFileHelpers: Auto-saving content packages took 0.038
+[2020.01.27-21.54.06:937][982]BlueprintLog: New page: Compile IA_1
+[2020.01.27-21.54.07:147][982]LogUObjectHash: Compacting FUObjectHashTables data took   4.16ms
+[2020.01.27-21.55.15:821][419]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.01.27-21.55.27:467][806]LogTemp: Repeating last play command: Selected Viewport
+[2020.01.27-21.55.27:494][806]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/IA_MAP.IA_MAP:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/IA_MAP.IA_MAP:PersistentLevel.IA_MAP' with GeneratedClass '/Game/FirstPersonBP/Maps/IA_MAP.IA_MAP_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/IA_MAP.IA_MAP:PersistentLevel.IA_MAP'
+[2020.01.27-21.55.27:496][806]BlueprintLog: New page: Pre-Play auto-recompile
+[2020.01.27-21.55.27:498][806]LogPlayLevel: [PlayLevel] Compiling IA_1 before play...
+[2020.01.27-21.55.27:754][806]LogUObjectHash: Compacting FUObjectHashTables data took   4.67ms
+[2020.01.27-21.55.27:754][806]LogPlayLevel: PlayLevel: Blueprint regeneration took 257 ms (1 blueprints)
+[2020.01.27-21.55.27:754][806]PIE: New page: PIE session: IA_MAP (Jan 27, 2020, 11:55:27 PM)
+[2020.01.27-21.55.27:754][806]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_IA_MAP
+[2020.01.27-21.55.27:765][806]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011012s)
+[2020.01.27-21.55.27:766][806]LogAIModule: Creating AISystem for world IA_MAP
+[2020.01.27-21.55.27:766][806]LogPlayLevel: PIE: World Init took: (0.000667s)
+[2020.01.27-21.55.27:766][806]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/IA_MAP.IA_MAP to /Game/FirstPersonBP/Maps/UEDPIE_0_IA_MAP.IA_MAP (0.011808s)
+[2020.01.27-21.55.27:808][806]LogUObjectHash: Compacting FUObjectHashTables data took   3.02ms
+[2020.01.27-21.55.27:840][806]LogInit: XAudio2 using 'Auriculares (Arctis 7 Game)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.01.27-21.55.27:870][806]LogInit: FAudioDevice initialized.
+[2020.01.27-21.55.27:877][806]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.27-21.55.27:909][806]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.01.27-21.55.27:910][806]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_IA_MAP.IA_MAP up for play (max tick rate 0) at 2020.01.27-22.55.27
+[2020.01.27-21.55.27:910][806]LogWorld: Bringing up level for play took: 0.000866
+[2020.01.27-21.55.27:927][806]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_IA_MAP 0.309
+[2020.01.27-21.55.27:927][806]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/IA_MAP.IA_MAP:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/IA_MAP.IA_MAP:PersistentLevel.IA_MAP' with GeneratedClass '/Game/FirstPersonBP/Maps/IA_MAP.IA_MAP_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/IA_MAP.IA_MAP:PersistentLevel.IA_MAP'
+[2020.01.27-21.55.54:406][882]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/IA_MAP.IA_MAP:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/IA_MAP.IA_MAP:PersistentLevel.IA_MAP' with GeneratedClass '/Game/FirstPersonBP/Maps/IA_MAP.IA_MAP_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/IA_MAP.IA_MAP:PersistentLevel.IA_MAP'
+[2020.01.27-21.55.54:409][882]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.27-21.55.54:428][882]LogSlate: Window 'BPOW Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.01.27-21.55.54:472][882]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.01.27-21.55.54:472][882]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/IA_MAP.IA_MAP:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/IA_MAP.IA_MAP:PersistentLevel.IA_MAP' with GeneratedClass '/Game/FirstPersonBP/Maps/IA_MAP.IA_MAP_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/IA_MAP.IA_MAP:PersistentLevel.IA_MAP'
+[2020.01.27-21.55.54:520][882]LogUObjectHash: Compacting FUObjectHashTables data took   2.18ms
+[2020.01.27-21.55.54:533][883]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2020.01.27-21.55.58:313][332]MapCheck: New page: Map Check
+[2020.01.27-21.55.58:325][332]Cmd: MAP REBUILD ALLVISIBLE
+[2020.01.27-21.55.58:326][332]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2020.01.27-21.55.58:345][332]LogBlueprintActionDatabase: Requesting refresh due to module change: HierarchicalLODUtilities (loaded)
+[2020.01.27-21.55.58:396][332]LogUObjectHash: Compacting FUObjectHashTables data took   3.20ms
+[2020.01.27-21.55.58:409][332]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.01.27-21.55.58:419][332]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.01.27-21.55.58:425][332]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.01.27-21.55.58:432][332]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. Is special engine material.
+[2020.01.27-21.55.58:455][332]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.01.27-21.56.00:808][332]LogShaderCompilers: Display: Shaders left to compile 40
+[2020.01.27-21.56.00:808][332]LogShaderCompilers: Display: Shaders left to compile 30
+[2020.01.27-21.56.00:808][332]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.01.27-21.56.00:808][332]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.01.27-21.56.00:808][332]TextureStreamingBuild: Display: Compiling optional shaders took 2.405 seconds.
+[2020.01.27-21.56.00:813][332]LogLevel: Display: Export Material TexCoord Scales took 0.004 seconds.
+[2020.01.27-21.56.00:826][332]TextureStreamingBuild: Display: Build Texture Streaming took 0.012 seconds.
+[2020.01.27-21.56.00:861][332]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2020.01.27-21.56.00:862][332]LightingResults: New page: Lighting Build - Jan 27, 2020, 11:56:00 PM
+[2020.01.27-21.56.00:917][332]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2020.01.27-21.56.00:971][332]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2020.01.27-21.56.00:981][332]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2020.01.27-21.56.01:490][332]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2020.01.27-21.56.01:490][332]LogSwarmInterface: [TryOpenConnection] Local Process ID is 1896
+[2020.01.27-21.56.04:051][332]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2020.01.27-21.56.04:051][332]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2020.01.27-21.56.04:051][332]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2020.01.27-21.56.04:051][332]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2020.01.27-21.56.04:051][332]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2020.01.27-21.56.04:273][332]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2020.01.27-21.56.04:273][332]MapCheck: New page: IA_MAP - Jan 27, 2020, 11:56:04 PM
+[2020.01.27-21.56.04:278][332]MapCheck: Error: WorldInfo_0 Maps need lighting rebuilt 
+[2020.01.27-21.56.04:278][332]MapCheck: Map check complete: 1 Error(s), 0 Warning(s), took 4.257ms to complete.
+[2020.01.27-21.56.04:301][332]LogEditorBuildUtils: Build time 0:05
+[2020.01.27-21.56.04:756][336]LogUObjectHash: Compacting FUObjectHashTables data took   5.69ms
+[2020.01.27-21.56.13:875][ 76]Job is a success!
+[2020.01.27-21.56.14:247][ 77]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.011s
+[2020.01.27-21.56.14:247][ 77]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2020.01.27-21.56.14:247][ 77]LogVolumetricLightmapImport:      BrickData 95x5x5 = 0.1Mb
+[2020.01.27-21.56.14:247][ 77]LogVolumetricLightmapImport:      Bricks at Level
+[2020.01.27-21.56.14:247][ 77]LogVolumetricLightmapImport:          0: 5.3% covering 100.0% of volume
+[2020.01.27-21.56.14:247][ 77]LogVolumetricLightmapImport:          1: 21.1% covering 6.3% of volume
+[2020.01.27-21.56.14:247][ 77]LogVolumetricLightmapImport:          2: 73.7% covering 0.3% of volume
+[2020.01.27-21.56.14:857][ 77]LogTexture: Display: Building textures: SkyOcclusion0_1 (AutoDXT, 2048X1024)
+[2020.01.27-21.56.14:858][ 77]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 2048X2048)
+[2020.01.27-21.56.14:858][ 77]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 128X128)
+[2020.01.27-21.56.14:858][ 77]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 2048X2048)
+[2020.01.27-21.56.14:858][ 77]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 128X128)
+[2020.01.27-21.56.14:858][ 77]LogTexture: Display: Building textures: SkyOcclusion0_2 (AutoDXT, 128X64)
+[2020.01.27-21.56.14:858][ 77]LogTexture: Display: Building textures: SkyOcclusion0_3 (AutoDXT, 64X32)
+[2020.01.27-21.56.14:858][ 77]LogTexture: Display: Building textures: HQ_Lightmap0_3 (AutoDXT, 64X64)
+[2020.01.27-21.56.14:858][ 77]LogTexture: Display: Building textures: LQ_Lightmap_0_3 (DXT1, 64X64)
+[2020.01.27-21.56.15:057][ 77]LogTexture: Display: Building textures: ShadowMapTexture2D_3 (G8, 32X32)
+[2020.01.27-21.56.15:057][ 77]LogTexture: Display: Building textures: ShadowMapTexture2D_2 (G8, 64X64)
+[2020.01.27-21.56.15:057][ 77]LogTexture: Display: Building textures: ShadowMapTexture2D_1 (G8, 128X64)
+[2020.01.27-21.56.15:057][ 77]LogTexture: Display: Building textures: ShadowMapTexture2D_0 (G8, 1024X1024)
+[2020.01.27-21.56.15:130][ 77]Lightmass on DESKTOP-D0K3E2O: 9.43 sec total, 128 ms importing, 18 ms setup, 2.01 sec photons, 7.24 sec processing, 0 ms extra exporting [28/28 mappings]. Threads: 50.5 sec total, 5.75 sec processing.
+[2020.01.27-21.56.15:131][ 77]LogStaticLightingSystem: IA_MAP_BuiltData storing lightmap data for 6 meshes in 4 LightmapResourceClusters (1.5 Meshes per cluster).
+[2020.01.27-21.56.15:192][ 77]LogUObjectHash: Compacting FUObjectHashTables data took   4.71ms
+[2020.01.27-21.56.15:195][ 77]LogStaticLightingSystem: Illumination: 14.0 sec (560 ms encoding lightmaps, 216 ms encoding shadowmaps)
+[2020.01.27-21.56.15:195][ 77]LogStaticLightingSystem: Lightmap texture memory:  10.7 MB (10.7 MB streaming, 0.0 MB non-streaming), 6 textures
+[2020.01.27-21.56.15:195][ 77]LogStaticLightingSystem: Shadowmap texture memory: 1.4 MB (1.3 MB streaming, 0.0 MB non-streaming), 4 textures
+[2020.01.27-21.56.16:061][ 77]DumpUnbuiltLightIteractions
+[2020.01.27-21.56.16:061][ 77]Lights with unbuilt interactions: 0
+[2020.01.27-21.56.16:061][ 77]
+[2020.01.27-21.56.16:061][ 77]Primitives with unbuilt interactions: 0
+[2020.01.27-21.56.16:115][ 78]Cmd: MAP CHECK NOTIFYRESULTS
+[2020.01.27-21.56.16:115][ 78]MapCheck: New page: IA_MAP - Jan 27, 2020, 11:56:16 PM
+[2020.01.27-21.56.16:115][ 78]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.251ms to complete.
+[2020.01.27-21.57.49:050][355]LogSlate: Window 'Message Log' being destroyed
+[2020.01.27-21.57.49:053][355]LogSlate: Window 'Message Log' being destroyed
+[2020.01.27-22.03.40:020][516]LogUObjectHash: Compacting FUObjectHashTables data took   2.78ms
+[2020.01.27-22.03.40:265][516]LogSavePackage: Moving '../../../../../../2DAMVIOD/Desenvolupament de jocs motor3d/OverwatchUR4/BPOW/Saved/IA_MAP_Auto22D7E389D46818DE51EF14F9D1E32B10C.tmp' to '../../../../../../2DAMVIOD/Desenvolupament de jocs motor3d/OverwatchUR4/BPOW/Saved/Autosaves/Game/FirstPersonBP/Maps/IA_MAP_Auto2.umap'
+[2020.01.27-22.03.40:267][516]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonBP/Maps/IA_MAP' took 0.284
+[2020.01.27-22.03.40:267][516]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.284
+[2020.01.27-22.03.40:268][516]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/FirstPersonBP/Blueprints/IA/IA_1] ([1] browsable assets)...
+[2020.01.27-22.03.40:294][516]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/FirstPersonBP/Blueprints/IA/IA_1.IA_1]
+[2020.01.27-22.03.40:294][516]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPersonBP/Blueprints/IA/IA_1]
+[2020.01.27-22.03.40:326][516]LogSavePackage: Moving '../../../../../../2DAMVIOD/Desenvolupament de jocs motor3d/OverwatchUR4/BPOW/Saved/IA_1_Auto26B0090614A051BDA6E16BBAB02CA6D31.tmp' to '../../../../../../2DAMVIOD/Desenvolupament de jocs motor3d/OverwatchUR4/BPOW/Saved/Autosaves/Game/FirstPersonBP/Blueprints/IA/IA_1_Auto2.uasset'
+[2020.01.27-22.03.40:326][516]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/FirstPersonBP/Blueprints/MapLogic/IA_Spawner] ([1] browsable assets)...
+[2020.01.27-22.03.40:343][516]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/FirstPersonBP/Blueprints/MapLogic/IA_Spawner.IA_Spawner]
+[2020.01.27-22.03.40:343][516]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPersonBP/Blueprints/MapLogic/IA_Spawner]
+[2020.01.27-22.03.40:365][516]LogSavePackage: Moving '../../../../../../2DAMVIOD/Desenvolupament de jocs motor3d/OverwatchUR4/BPOW/Saved/IA_Spawner_Auto2C9F6AB4E4790D6AC0FEE4EB0BF2852E9.tmp' to '../../../../../../2DAMVIOD/Desenvolupament de jocs motor3d/OverwatchUR4/BPOW/Saved/Autosaves/Game/FirstPersonBP/Blueprints/MapLogic/IA_Spawner_Auto2.uasset'
+[2020.01.27-22.03.40:366][516]LogFileHelpers: Auto-saving content packages took 0.098
+[2020.01.27-22.32.02:551][264]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.27-22.32.06:728][756]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.27-22.32.06:778][762]LogTemp: Repeating last play command: Selected Viewport
+[2020.01.27-22.32.06:806][762]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/IA_MAP.IA_MAP:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/IA_MAP.IA_MAP:PersistentLevel.IA_MAP' with GeneratedClass '/Game/FirstPersonBP/Maps/IA_MAP.IA_MAP_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/IA_MAP.IA_MAP:PersistentLevel.IA_MAP'
+[2020.01.27-22.32.06:809][762]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.01.27-22.32.06:809][762]PIE: New page: PIE session: IA_MAP (Jan 28, 2020, 12:32:06 AM)
+[2020.01.27-22.32.06:809][762]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_IA_MAP
+[2020.01.27-22.32.06:826][762]LogPlayLevel: PIE: StaticDuplicateObject took: (0.017023s)
+[2020.01.27-22.32.06:827][762]LogAIModule: Creating AISystem for world IA_MAP
+[2020.01.27-22.32.06:827][762]LogPlayLevel: PIE: World Init took: (0.001081s)
+[2020.01.27-22.32.06:827][762]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/IA_MAP.IA_MAP to /Game/FirstPersonBP/Maps/UEDPIE_0_IA_MAP.IA_MAP (0.018304s)
+[2020.01.27-22.32.06:868][762]LogUObjectHash: Compacting FUObjectHashTables data took   3.98ms
+[2020.01.27-22.32.06:898][762]LogInit: XAudio2 using 'Auriculares (Arctis 7 Game)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.01.27-22.32.06:932][762]LogInit: FAudioDevice initialized.
+[2020.01.27-22.32.06:960][762]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.01.27-22.32.06:961][762]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_IA_MAP.IA_MAP up for play (max tick rate 0) at 2020.01.27-23.32.06
+[2020.01.27-22.32.06:962][762]LogWorld: Bringing up level for play took: 0.001396
+[2020.01.27-22.32.06:978][762]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_IA_MAP -0.64
+[2020.01.27-22.32.06:978][762]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/IA_MAP.IA_MAP:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/IA_MAP.IA_MAP:PersistentLevel.IA_MAP' with GeneratedClass '/Game/FirstPersonBP/Maps/IA_MAP.IA_MAP_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/IA_MAP.IA_MAP:PersistentLevel.IA_MAP'
+[2020.01.27-22.32.19:318][240]LogBlueprintUserMessages: [WraithForm_C_0] Ya puedes disparar
+[2020.01.27-22.32.28:894][387]LogCharacterMovement: IA_1_C_17 is stuck and failed to move! Velocity: X=-12.62 Y=-11.49 Z=0.00 Location: X=2141.11 Y=2273.68 Z=394.57 Normal: X=-0.74 Y=-0.67 Z=0.00 PenetrationDepth:23.042 Actor:IA_1_C_21 Component:CollisionCylinder BoneName:None (0 other events since notify)
+[2020.01.27-22.32.29:035][404]LogCharacterMovement: IA_1_C_21 is stuck and failed to move! Velocity: X=-12.62 Y=-11.49 Z=0.00 Location: X=2174.36 Y=2303.94 Z=394.57 Normal: X=0.74 Y=0.67 Z=0.00 PenetrationDepth:23.042 Actor:IA_1_C_17 Component:CollisionCylinder BoneName:None (0 other events since notify)
+[2020.01.27-22.32.29:905][508]LogCharacterMovement: IA_1_C_17 is stuck and failed to move! Velocity: X=-12.62 Y=-11.49 Z=0.00 Location: X=2141.11 Y=2273.68 Z=394.57 Normal: X=-0.74 Y=-0.67 Z=0.00 PenetrationDepth:23.042 Actor:IA_1_C_21 Component:CollisionCylinder BoneName:None (17 other events since notify)
+[2020.01.27-22.32.30:289][554]LogCharacterMovement: IA_1_C_21 is stuck and failed to move! Velocity: X=-12.62 Y=-11.49 Z=0.00 Location: X=2174.36 Y=2303.94 Z=394.57 Normal: X=0.74 Y=0.67 Z=0.00 PenetrationDepth:23.042 Actor:IA_1_C_17 Component:CollisionCylinder BoneName:None (2 other events since notify)
+[2020.01.27-22.32.31:065][647]LogCharacterMovement: IA_1_C_17 is stuck and failed to move! Velocity: X=-12.62 Y=-11.49 Z=0.00 Location: X=2141.11 Y=2273.68 Z=394.57 Normal: X=-0.74 Y=-0.67 Z=0.00 PenetrationDepth:23.042 Actor:IA_1_C_21 Component:CollisionCylinder BoneName:None (11 other events since notify)
+[2020.01.27-22.32.31:312][676]LogCharacterMovement: IA_1_C_21 is stuck and failed to move! Velocity: X=-12.62 Y=-11.49 Z=0.00 Location: X=2174.36 Y=2303.94 Z=394.57 Normal: X=0.74 Y=0.67 Z=0.00 PenetrationDepth:23.042 Actor:IA_1_C_17 Component:CollisionCylinder BoneName:None (2 other events since notify)
+[2020.01.27-22.32.32:329][795]LogCharacterMovement: IA_1_C_21 is stuck and failed to move! Velocity: X=-12.91 Y=-11.76 Z=0.00 Location: X=2174.36 Y=2303.94 Z=394.57 Normal: X=0.74 Y=0.67 Z=0.00 PenetrationDepth:23.042 Actor:IA_1_C_17 Component:CollisionCylinder BoneName:None (10 other events since notify)
+[2020.01.27-22.32.32:385][801]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/IA_MAP.IA_MAP:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/IA_MAP.IA_MAP:PersistentLevel.IA_MAP' with GeneratedClass '/Game/FirstPersonBP/Maps/IA_MAP.IA_MAP_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/IA_MAP.IA_MAP:PersistentLevel.IA_MAP'
+[2020.01.27-22.32.32:388][801]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.27-22.32.32:421][801]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.01.27-22.32.32:422][801]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/IA_MAP.IA_MAP:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/IA_MAP.IA_MAP:PersistentLevel.IA_MAP' with GeneratedClass '/Game/FirstPersonBP/Maps/IA_MAP.IA_MAP_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/IA_MAP.IA_MAP:PersistentLevel.IA_MAP'
+[2020.01.27-22.32.32:495][801]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.27-22.32.32:501][801]LogUObjectHash: Compacting FUObjectHashTables data took   2.75ms
+[2020.01.27-22.32.32:522][802]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2020.01.27-22.32.37:343][372]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2020.01.27-22.32.38:258][466]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2020.01.27-22.32.39:680][633]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.27-22.32.55:984][552]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.27-22.33.25:390][360]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2020.01.27-22.33.25:614][360]LogSavePackage: Moving '../../../../../../2DAMVIOD/Desenvolupament de jocs motor3d/OverwatchUR4/BPOW/Saved/IA_MAP_Auto3E2239EED475E1C0CB8DD48BA24B79802.tmp' to '../../../../../../2DAMVIOD/Desenvolupament de jocs motor3d/OverwatchUR4/BPOW/Saved/Autosaves/Game/FirstPersonBP/Maps/IA_MAP_Auto3.umap'
+[2020.01.27-22.33.25:617][360]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonBP/Maps/IA_MAP' took 0.270
+[2020.01.27-22.33.25:617][360]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.270
+[2020.01.27-22.36.21:099][985]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2020.01.27-22.36.22:528][152]Cmd: DELETE
+[2020.01.27-22.36.22:528][152]Cmd: ACTOR DELETE
+[2020.01.27-22.36.22:545][152]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.01.27-22.36.22:583][152]LogUObjectHash: Compacting FUObjectHashTables data took   3.91ms
+[2020.01.27-22.36.22:583][152]LogEditorActor: Deleted 1 Actors (0.041 secs)
+[2020.01.27-22.36.23:610][275]Cmd: TRANSACTION UNDO
+[2020.01.27-22.36.23:611][275]LogEditorTransaction: Undo Delete Actors
+[2020.01.27-22.36.25:561][492]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.27-22.36.26:680][623]Cmd: DELETE
+[2020.01.27-22.36.26:680][623]Cmd: ACTOR DELETE
+[2020.01.27-22.36.26:682][623]LogEditorActor: Deleted Actor: IA_Spawner_C
+[2020.01.27-22.36.26:713][623]LogUObjectHash: Compacting FUObjectHashTables data took   2.87ms
+[2020.01.27-22.36.26:714][623]LogEditorActor: Deleted 1 Actors (0.033 secs)
+[2020.01.27-22.40.17:416][264]LogBlueprintActionDatabase: Requesting refresh due to module change: ExternalImagePicker (loaded)
+[2020.01.27-22.40.18:968][264]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2020.01.27-22.40.29:493][433]LogUObjectHash: Compacting FUObjectHashTables data took   4.39ms
+[2020.01.27-22.40.29:746][433]LogSavePackage: Moving '../../../../../../2DAMVIOD/Desenvolupament de jocs motor3d/OverwatchUR4/BPOW/Saved/IA_MAPF755E94247EA8FF63799F0A12DB16252.tmp' to '../../../../../../2DAMVIOD/Desenvolupament de jocs motor3d/OverwatchUR4/BPOW/Content/FirstPersonBP/Maps/IA_MAP.umap'
+[2020.01.27-22.40.29:940][433]LogSavePackage: Moving '../../../../../../2DAMVIOD/Desenvolupament de jocs motor3d/OverwatchUR4/BPOW/Saved/IA_MAP_BuiltData8CE012254FA7BFD4AB2CC8A4A5CFC78F.tmp' to '../../../../../../2DAMVIOD/Desenvolupament de jocs motor3d/OverwatchUR4/BPOW/Content/FirstPersonBP/Maps/IA_MAP_BuiltData.uasset'
+[2020.01.27-22.40.52:201][ 83]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.01.27-22.40.59:795][983]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.01.27-22.41.02:046][244]LogTemp: Repeating last play command: Selected Viewport
+[2020.01.27-22.41.02:067][244]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/IA_MAP.IA_MAP:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/IA_MAP.IA_MAP:PersistentLevel.IA_MAP' with GeneratedClass '/Game/FirstPersonBP/Maps/IA_MAP.IA_MAP_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/IA_MAP.IA_MAP:PersistentLevel.IA_MAP'
+[2020.01.27-22.41.02:069][244]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.01.27-22.41.02:069][244]PIE: New page: PIE session: IA_MAP (Jan 28, 2020, 12:41:02 AM)
+[2020.01.27-22.41.02:069][244]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_IA_MAP
+[2020.01.27-22.41.02:083][244]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013423s)
+[2020.01.27-22.41.02:084][244]LogAIModule: Creating AISystem for world IA_MAP
+[2020.01.27-22.41.02:084][244]LogPlayLevel: PIE: World Init took: (0.001321s)
+[2020.01.27-22.41.02:084][244]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/IA_MAP.IA_MAP to /Game/FirstPersonBP/Maps/UEDPIE_0_IA_MAP.IA_MAP (0.014952s)
+[2020.01.27-22.41.02:148][244]LogUObjectHash: Compacting FUObjectHashTables data took   4.91ms
+[2020.01.27-22.41.02:177][244]LogInit: XAudio2 using 'Auriculares (Arctis 7 Game)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.01.27-22.41.02:207][244]LogInit: FAudioDevice initialized.
+[2020.01.27-22.41.02:234][244]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.01.27-22.41.02:235][244]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_IA_MAP.IA_MAP up for play (max tick rate 0) at 2020.01.27-23.41.02
+[2020.01.27-22.41.02:235][244]LogWorld: Bringing up level for play took: 0.000770
+[2020.01.27-22.41.02:250][244]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_IA_MAP 0.633
+[2020.01.27-22.41.02:251][244]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/IA_MAP.IA_MAP:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/IA_MAP.IA_MAP:PersistentLevel.IA_MAP' with GeneratedClass '/Game/FirstPersonBP/Maps/IA_MAP.IA_MAP_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/IA_MAP.IA_MAP:PersistentLevel.IA_MAP'
+[2020.01.27-22.41.07:403][841]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/IA_MAP.IA_MAP:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/IA_MAP.IA_MAP:PersistentLevel.IA_MAP' with GeneratedClass '/Game/FirstPersonBP/Maps/IA_MAP.IA_MAP_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/IA_MAP.IA_MAP:PersistentLevel.IA_MAP'
+[2020.01.27-22.41.07:406][841]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.27-22.41.07:439][841]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.01.27-22.41.07:440][841]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/IA_MAP.IA_MAP:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/IA_MAP.IA_MAP:PersistentLevel.IA_MAP' with GeneratedClass '/Game/FirstPersonBP/Maps/IA_MAP.IA_MAP_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/IA_MAP.IA_MAP:PersistentLevel.IA_MAP'
+[2020.01.27-22.41.07:479][841]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.27-22.41.07:484][841]LogUObjectHash: Compacting FUObjectHashTables data took   2.78ms
+[2020.01.27-22.41.07:505][842]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2020.01.27-22.41.08:389][946]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.27-22.41.10:037][143]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.01.27-22.41.12:562][442]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.01.27-22.41.14:705][697]LogTemp: Repeating last play command: Selected Viewport
+[2020.01.27-22.41.14:727][697]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/IA_MAP.IA_MAP:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/IA_MAP.IA_MAP:PersistentLevel.IA_MAP' with GeneratedClass '/Game/FirstPersonBP/Maps/IA_MAP.IA_MAP_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/IA_MAP.IA_MAP:PersistentLevel.IA_MAP'
+[2020.01.27-22.41.14:730][697]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.01.27-22.41.14:730][697]PIE: New page: PIE session: IA_MAP (Jan 28, 2020, 12:41:14 AM)
+[2020.01.27-22.41.14:730][697]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_IA_MAP
+[2020.01.27-22.41.14:741][697]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011354s)
+[2020.01.27-22.41.14:742][697]LogAIModule: Creating AISystem for world IA_MAP
+[2020.01.27-22.41.14:742][697]LogPlayLevel: PIE: World Init took: (0.000645s)
+[2020.01.27-22.41.14:742][697]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/IA_MAP.IA_MAP to /Game/FirstPersonBP/Maps/UEDPIE_0_IA_MAP.IA_MAP (0.012137s)
+[2020.01.27-22.41.14:781][697]LogUObjectHash: Compacting FUObjectHashTables data took   3.22ms
+[2020.01.27-22.41.14:812][697]LogInit: XAudio2 using 'Auriculares (Arctis 7 Game)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.01.27-22.41.14:843][697]LogInit: FAudioDevice initialized.
+[2020.01.27-22.41.14:872][697]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.01.27-22.41.14:873][697]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_IA_MAP.IA_MAP up for play (max tick rate 0) at 2020.01.27-23.41.14
+[2020.01.27-22.41.14:873][697]LogWorld: Bringing up level for play took: 0.000796
+[2020.01.27-22.41.14:888][697]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_IA_MAP -0.729
+[2020.01.27-22.41.14:888][697]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/IA_MAP.IA_MAP:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/IA_MAP.IA_MAP:PersistentLevel.IA_MAP' with GeneratedClass '/Game/FirstPersonBP/Maps/IA_MAP.IA_MAP_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/IA_MAP.IA_MAP:PersistentLevel.IA_MAP'
+[2020.01.27-22.41.15:144][725]LogScript: Warning: UGameplayStatics::BeginSpawningActorFromClass: can not spawn an actor from a NULL class
+[2020.01.27-22.41.15:394][755]LogScript: Warning: UGameplayStatics::BeginSpawningActorFromClass: can not spawn an actor from a NULL class
+[2020.01.27-22.41.15:644][785]LogScript: Warning: UGameplayStatics::BeginSpawningActorFromClass: can not spawn an actor from a NULL class
+[2020.01.27-22.41.15:894][815]LogScript: Warning: UGameplayStatics::BeginSpawningActorFromClass: can not spawn an actor from a NULL class
+[2020.01.27-22.41.16:144][845]LogScript: Warning: UGameplayStatics::BeginSpawningActorFromClass: can not spawn an actor from a NULL class
+[2020.01.27-22.41.16:393][875]LogScript: Warning: UGameplayStatics::BeginSpawningActorFromClass: can not spawn an actor from a NULL class
+[2020.01.27-22.41.16:643][905]LogScript: Warning: UGameplayStatics::BeginSpawningActorFromClass: can not spawn an actor from a NULL class
+[2020.01.27-22.41.16:893][935]LogScript: Warning: UGameplayStatics::BeginSpawningActorFromClass: can not spawn an actor from a NULL class
+[2020.01.27-22.41.17:144][965]LogScript: Warning: UGameplayStatics::BeginSpawningActorFromClass: can not spawn an actor from a NULL class
+[2020.01.27-22.41.17:394][995]LogScript: Warning: UGameplayStatics::BeginSpawningActorFromClass: can not spawn an actor from a NULL class
+[2020.01.27-22.41.17:644][ 25]LogScript: Warning: UGameplayStatics::BeginSpawningActorFromClass: can not spawn an actor from a NULL class
+[2020.01.27-22.41.17:894][ 55]LogScript: Warning: UGameplayStatics::BeginSpawningActorFromClass: can not spawn an actor from a NULL class
+[2020.01.27-22.41.18:144][ 85]LogScript: Warning: UGameplayStatics::BeginSpawningActorFromClass: can not spawn an actor from a NULL class
+[2020.01.27-22.41.18:394][115]LogScript: Warning: UGameplayStatics::BeginSpawningActorFromClass: can not spawn an actor from a NULL class
+[2020.01.27-22.41.18:644][145]LogScript: Warning: UGameplayStatics::BeginSpawningActorFromClass: can not spawn an actor from a NULL class
+[2020.01.27-22.41.18:894][175]LogScript: Warning: UGameplayStatics::BeginSpawningActorFromClass: can not spawn an actor from a NULL class
+[2020.01.27-22.41.19:312][225]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/IA_MAP.IA_MAP:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/IA_MAP.IA_MAP:PersistentLevel.IA_MAP' with GeneratedClass '/Game/FirstPersonBP/Maps/IA_MAP.IA_MAP_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/IA_MAP.IA_MAP:PersistentLevel.IA_MAP'
+[2020.01.27-22.41.19:316][225]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.27-22.41.19:342][225]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.01.27-22.41.19:342][225]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/IA_MAP.IA_MAP:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/IA_MAP.IA_MAP:PersistentLevel.IA_MAP' with GeneratedClass '/Game/FirstPersonBP/Maps/IA_MAP.IA_MAP_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/IA_MAP.IA_MAP:PersistentLevel.IA_MAP'
+[2020.01.27-22.41.19:381][225]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.27-22.41.19:386][225]LogUObjectHash: Compacting FUObjectHashTables data took   2.99ms
+[2020.01.27-22.41.19:430][227]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2020.01.27-22.41.20:281][329]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.27-22.41.27:721][170]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.01.27-22.41.32:118][688]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2020.01.27-22.41.32:344][688]LogSavePackage: Moving '../../../../../../2DAMVIOD/Desenvolupament de jocs motor3d/OverwatchUR4/BPOW/Saved/IA_MAP72CEDBFF4100394C8A339FBFC7706569.tmp' to '../../../../../../2DAMVIOD/Desenvolupament de jocs motor3d/OverwatchUR4/BPOW/Content/FirstPersonBP/Maps/IA_MAP.umap'
+[2020.01.27-22.41.32:538][688]LogSavePackage: Moving '../../../../../../2DAMVIOD/Desenvolupament de jocs motor3d/OverwatchUR4/BPOW/Saved/IA_MAP_BuiltData5E3FF81A40254B1EDF0F1C82404579F3.tmp' to '../../../../../../2DAMVIOD/Desenvolupament de jocs motor3d/OverwatchUR4/BPOW/Content/FirstPersonBP/Maps/IA_MAP_BuiltData.uasset'
+[2020.01.27-22.41.33:744][825]LogUObjectHash: Compacting FUObjectHashTables data took   3.69ms
+[2020.01.27-22.41.33:769][825]LogSavePackage: Moving '../../../../../../2DAMVIOD/Desenvolupament de jocs motor3d/OverwatchUR4/BPOW/Saved/FirstPersonGameMode0FFF0D634D2F78BB59E8E5933FCA90FA.tmp' to '../../../../../../2DAMVIOD/Desenvolupament de jocs motor3d/OverwatchUR4/BPOW/Content/FirstPersonBP/Blueprints/FirstPersonGameMode.uasset'
+[2020.01.27-22.41.33:795][825]LogSavePackage: Moving '../../../../../../2DAMVIOD/Desenvolupament de jocs motor3d/OverwatchUR4/BPOW/Saved/IA_10D33ABE9469BC215FD41D4B5E2E66F7A.tmp' to '../../../../../../2DAMVIOD/Desenvolupament de jocs motor3d/OverwatchUR4/BPOW/Content/FirstPersonBP/Blueprints/IA/IA_1.uasset'
+[2020.01.27-22.41.33:818][825]LogSavePackage: Moving '../../../../../../2DAMVIOD/Desenvolupament de jocs motor3d/OverwatchUR4/BPOW/Saved/IA_Spawner072010D542D1B851F26AAE9917ABEE88.tmp' to '../../../../../../2DAMVIOD/Desenvolupament de jocs motor3d/OverwatchUR4/BPOW/Content/FirstPersonBP/Blueprints/MapLogic/IA_Spawner.uasset'
+[2020.01.27-22.41.33:905][832]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/FirstPersonBP/Blueprints/MapLogic/IA_Spawner.
+[2020.01.27-22.41.36:425][130]LogUObjectHash: Compacting FUObjectHashTables data took   2.95ms
+[2020.01.27-22.41.36:596][130]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2020.01.27-22.41.36:655][130]LogSlate: Window 'BPOW - Unreal Editor' being destroyed
+[2020.01.27-22.41.36:875][131]Cmd: QUIT_EDITOR
+[2020.01.27-22.41.37:326][131]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.01.27-22.41.37:334][131]LogExit: Preparing to exit.
+[2020.01.27-22.41.38:076][131]LogExit: Editor shut down
+[2020.01.27-22.41.38:076][131]LogExit: Transaction tracking system shut down
+[2020.01.27-22.41.38:364][131]LogExit: Object subsystem successfully closed.
+[2020.01.27-22.41.38:385][131]LogShaderCompilers: Display: Shaders left to compile 0
+[2020.01.27-22.41.38:389][131]LogD3D11RHI: Shutdown
+[2020.01.27-22.41.38:390][131]LogD3D11RHI: CleanupD3DDevice
+[2020.01.27-22.41.38:390][131]LogRendererCore: FGlobalReadBuffer::ReleaseRHI
+[2020.01.27-22.41.38:390][131]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2020.01.27-22.41.38:390][131]LogRendererCore: FGlobalReadBuffer::ReleaseRHI
+[2020.01.27-22.41.38:390][131]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2020.01.27-22.41.38:390][131]LogRendererCore: FGlobalReadBuffer::ReleaseRHI
+[2020.01.27-22.41.38:390][131]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2020.01.27-22.41.38:485][131]LogD3D11RHI: ~FD3D11DynamicRHI
+[2020.01.27-22.41.38:496][131]LogModuleManager: Shutting down and abandoning module ExternalImagePicker (652)
+[2020.01.27-22.41.38:496][131]LogModuleManager: Shutting down and abandoning module HierarchicalLODUtilities (650)
+[2020.01.27-22.41.38:496][131]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (648)
+[2020.01.27-22.41.38:496][131]LogModuleManager: Shutting down and abandoning module Voice (646)
+[2020.01.27-22.41.38:496][131]LogModuleManager: Shutting down and abandoning module BlueprintGraph (644)
+[2020.01.27-22.41.38:496][131]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (642)
+[2020.01.27-22.41.38:497][131]LogModuleManager: Shutting down and abandoning module SceneOutliner (640)
+[2020.01.27-22.41.38:497][131]LogModuleManager: Shutting down and abandoning module AddContentDialog (638)
+[2020.01.27-22.41.38:497][131]LogModuleManager: Shutting down and abandoning module WidgetCarousel (637)
+[2020.01.27-22.41.38:497][131]LogModuleManager: Shutting down and abandoning module EditorWidgets (634)
+[2020.01.27-22.41.38:497][131]LogModuleManager: Shutting down and abandoning module CollectionManager (632)
+[2020.01.27-22.41.38:497][131]LogModuleManager: Shutting down and abandoning module StatsViewer (630)
+[2020.01.27-22.41.38:497][131]LogModuleManager: Shutting down and abandoning module FoliageEdit (628)
+[2020.01.27-22.41.38:497][131]LogModuleManager: Shutting down and abandoning module LandscapeEditor (626)
+[2020.01.27-22.41.38:497][131]LogModuleManager: Shutting down and abandoning module MeshPaintMode (624)
+[2020.01.27-22.41.38:497][131]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (622)
+[2020.01.27-22.41.38:497][131]LogModuleManager: Shutting down and abandoning module ActorPickerMode (620)
+[2020.01.27-22.41.38:497][131]LogModuleManager: Shutting down and abandoning module GeometryMode (618)
+[2020.01.27-22.41.38:497][131]LogModuleManager: Shutting down and abandoning module TextureAlignMode (616)
+[2020.01.27-22.41.38:497][131]LogModuleManager: Shutting down and abandoning module BspMode (614)
+[2020.01.27-22.41.38:497][131]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (612)
+[2020.01.27-22.41.38:497][131]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (610)
+[2020.01.27-22.41.38:497][131]LogModuleManager: Shutting down and abandoning module AutomationWorker (608)
+[2020.01.27-22.41.38:497][131]LogModuleManager: Shutting down and abandoning module OculusMR (606)
+[2020.01.27-22.41.38:497][131]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (604)
+[2020.01.27-22.41.38:497][131]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (602)
+[2020.01.27-22.41.38:497][131]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (600)
+[2020.01.27-22.41.38:497][131]LogModuleManager: Shutting down and abandoning module PlacementMode (599)
+[2020.01.27-22.41.38:497][131]LogModuleManager: Shutting down and abandoning module MaterialEditor (598)
+[2020.01.27-22.41.38:497][131]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (594)
+[2020.01.27-22.41.38:497][131]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (592)
+[2020.01.27-22.41.38:497][131]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (590)
+[2020.01.27-22.41.38:497][131]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (588)
+[2020.01.27-22.41.38:497][131]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (586)
+[2020.01.27-22.41.38:497][131]LogModuleManager: Shutting down and abandoning module WebMMedia (584)
+[2020.01.27-22.41.38:497][131]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (582)
+[2020.01.27-22.41.38:498][131]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (580)
+[2020.01.27-22.41.38:498][131]LogModuleManager: Shutting down and abandoning module SequenceRecorder (579)
+[2020.01.27-22.41.38:498][131]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (576)
+[2020.01.27-22.41.38:498][131]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (574)
+[2020.01.27-22.41.38:498][131]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (572)
+[2020.01.27-22.41.38:498][131]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (570)
+[2020.01.27-22.41.38:498][131]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (568)
+[2020.01.27-22.41.38:498][131]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (566)
+[2020.01.27-22.41.38:498][131]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (564)
+[2020.01.27-22.41.38:498][131]LogModuleManager: Shutting down and abandoning module MagicLeapCameraPreviewFactory (562)
+[2020.01.27-22.41.38:498][131]LogModuleManager: Shutting down and abandoning module MagicLeapMediaCodecFactory (560)
+[2020.01.27-22.41.38:498][131]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (558)
+[2020.01.27-22.41.38:498][131]LogModuleManager: Shutting down and abandoning module Media (557)
+[2020.01.27-22.41.38:504][131]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (554)
+[2020.01.27-22.41.38:504][131]LogModuleManager: Shutting down and abandoning module CharacterAI (552)
+[2020.01.27-22.41.38:504][131]LogModuleManager: Shutting down and abandoning module SmartSnapping (550)
+[2020.01.27-22.41.38:504][131]LogModuleManager: Shutting down and abandoning module SessionServices (548)
+[2020.01.27-22.41.38:504][131]LogModuleManager: Shutting down and abandoning module MeshPaint (546)
+[2020.01.27-22.41.38:504][131]LogModuleManager: Shutting down and abandoning module ViewportSnapping (544)
+[2020.01.27-22.41.38:504][131]LogModuleManager: Shutting down and abandoning module ViewportInteraction (542)
+[2020.01.27-22.41.38:504][131]LogModuleManager: Shutting down and abandoning module ClothPainter (540)
+[2020.01.27-22.41.38:504][131]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (539)
+[2020.01.27-22.41.38:504][131]LogModuleManager: Shutting down and abandoning module LogVisualizer (536)
+[2020.01.27-22.41.38:504][131]LogModuleManager: Shutting down and abandoning module IntroTutorials (534)
+[2020.01.27-22.41.38:504][131]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (533)
+[2020.01.27-22.41.38:505][131]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (530)
+[2020.01.27-22.41.38:505][131]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (528)
+[2020.01.27-22.41.38:505][131]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (526)
+[2020.01.27-22.41.38:505][131]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (524)
+[2020.01.27-22.41.38:505][131]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (523)
+[2020.01.27-22.41.38:671][131]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (520)
+[2020.01.27-22.41.38:671][131]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (518)
+[2020.01.27-22.41.38:671][131]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (516)
+[2020.01.27-22.41.38:671][131]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (514)
+[2020.01.27-22.41.38:671][131]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (512)
+[2020.01.27-22.41.38:671][131]LogModuleManager: Shutting down and abandoning module InputBindingEditor (510)
+[2020.01.27-22.41.38:671][131]LogModuleManager: Shutting down and abandoning module MergeActors (508)
+[2020.01.27-22.41.38:671][131]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (506)
+[2020.01.27-22.41.38:671][131]LogModuleManager: Shutting down and abandoning module LocalizationService (505)
+[2020.01.27-22.41.38:671][131]LogModuleManager: Shutting down and abandoning module HardwareTargeting (502)
+[2020.01.27-22.41.38:671][131]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (500)
+[2020.01.27-22.41.38:671][131]LogModuleManager: Shutting down and abandoning module UndoHistory (498)
+[2020.01.27-22.41.38:671][131]LogModuleManager: Shutting down and abandoning module XmlParser (496)
+[2020.01.27-22.41.38:672][131]LogModuleManager: Shutting down and abandoning module Blutility (494)
+[2020.01.27-22.41.38:672][131]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (492)
+[2020.01.27-22.41.38:672][131]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (491)
+[2020.01.27-22.41.38:672][131]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (488)
+[2020.01.27-22.41.38:672][131]LogModuleManager: Shutting down and abandoning module SettingsEditor (486)
+[2020.01.27-22.41.38:672][131]LogModuleManager: Shutting down and abandoning module ProjectLauncher (484)
+[2020.01.27-22.41.38:672][131]LogModuleManager: Shutting down and abandoning module SessionFrontend (482)
+[2020.01.27-22.41.38:672][131]LogModuleManager: Shutting down and abandoning module ProfilerClient (480)
+[2020.01.27-22.41.38:672][131]LogModuleManager: Shutting down and abandoning module DeviceManager (478)
+[2020.01.27-22.41.38:672][131]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (477)
+[2020.01.27-22.41.38:716][131]LogModuleManager: Shutting down and abandoning module AutomationController (474)
+[2020.01.27-22.41.38:716][131]LogModuleManager: Shutting down and abandoning module AutomationWindow (472)
+[2020.01.27-22.41.38:716][131]LogModuleManager: Shutting down and abandoning module Layers (470)
+[2020.01.27-22.41.38:716][131]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (468)
+[2020.01.27-22.41.38:716][131]LogModuleManager: Shutting down and abandoning module DetailCustomizations (466)
+[2020.01.27-22.41.38:716][131]LogModuleManager: Shutting down and abandoning module PackagesDialog (464)
+[2020.01.27-22.41.38:716][131]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (462)
+[2020.01.27-22.41.38:716][131]LogModuleManager: Shutting down and abandoning module Persona (460)
+[2020.01.27-22.41.38:716][131]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (459)
+[2020.01.27-22.41.38:716][131]LogModuleManager: Shutting down and abandoning module AnimGraph (457)
+[2020.01.27-22.41.38:716][131]LogModuleManager: Shutting down and abandoning module Kismet (454)
+[2020.01.27-22.41.38:723][131]LogModuleManager: Shutting down and abandoning module GraphEditor (452)
+[2020.01.27-22.41.38:723][131]LogModuleManager: Shutting down and abandoning module ClassViewer (450)
+[2020.01.27-22.41.38:724][131]LogModuleManager: Shutting down and abandoning module Toolbox (448)
+[2020.01.27-22.41.38:724][131]LogModuleManager: Shutting down and abandoning module ModuleUI (446)
+[2020.01.27-22.41.38:724][131]LogModuleManager: Shutting down and abandoning module MovieSceneTools (444)
+[2020.01.27-22.41.38:724][131]LogModuleManager: Shutting down and abandoning module OutputLog (442)
+[2020.01.27-22.41.38:724][131]LogModuleManager: Shutting down and abandoning module GammaUI (440)
+[2020.01.27-22.41.38:724][131]LogModuleManager: Shutting down and abandoning module Documentation (438)
+[2020.01.27-22.41.38:725][131]LogModuleManager: Shutting down and abandoning module LiveCoding (436)
+[2020.01.27-22.41.38:725][131]LogModuleManager: Shutting down and abandoning module LevelSequence (434)
+[2020.01.27-22.41.38:725][131]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (432)
+[2020.01.27-22.41.38:725][131]LogModuleManager: Shutting down and abandoning module MovieScene (430)
+[2020.01.27-22.41.38:725][131]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (428)
+[2020.01.27-22.41.38:725][131]LogModuleManager: Shutting down and abandoning module LauncherPlatform (426)
+[2020.01.27-22.41.38:725][131]LogModuleManager: Shutting down and abandoning module AnalyticsET (424)
+[2020.01.27-22.41.38:725][131]LogModuleManager: Shutting down and abandoning module PortalServices (422)
+[2020.01.27-22.41.38:725][131]LogModuleManager: Shutting down and abandoning module PortalRpc (420)
+[2020.01.27-22.41.38:725][131]LogModuleManager: Shutting down and abandoning module MessagingRpc (418)
+[2020.01.27-22.41.38:725][131]LogModuleManager: Shutting down and abandoning module AIModule (416)
+[2020.01.27-22.41.38:725][131]LogModuleManager: Shutting down and abandoning module GameplayDebugger (415)
+[2020.01.27-22.41.38:725][131]LogModuleManager: Shutting down and abandoning module AITestSuite (413)
+[2020.01.27-22.41.38:725][131]LogModuleManager: Shutting down and abandoning module NavigationSystem (411)
+[2020.01.27-22.41.38:725][131]LogModuleManager: Shutting down and abandoning module DesktopPlatform (408)
+[2020.01.27-22.41.38:725][131]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (406)
+[2020.01.27-22.41.38:727][131]LogModuleManager: Shutting down and abandoning module ProfilerService (404)
+[2020.01.27-22.41.38:914][131]LogModuleManager: Shutting down and abandoning module TaskGraph (402)
+[2020.01.27-22.41.38:914][131]LogModuleManager: Shutting down and abandoning module SteamVRController (400)
+[2020.01.27-22.41.38:914][131]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (398)
+[2020.01.27-22.41.38:914][131]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (396)
+[2020.01.27-22.41.38:914][131]LogModuleManager: Shutting down and abandoning module OculusEditor (394)
+[2020.01.27-22.41.38:914][131]LogModuleManager: Shutting down and abandoning module OculusInput (392)
+[2020.01.27-22.41.38:914][131]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (390)
+[2020.01.27-22.41.38:914][131]LogModuleManager: Shutting down and abandoning module EditableMesh (388)
+[2020.01.27-22.41.38:914][131]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (386)
+[2020.01.27-22.41.38:914][131]LogModuleManager: Shutting down and abandoning module CableComponent (384)
+[2020.01.27-22.41.38:914][131]LogModuleManager: Shutting down and abandoning module AudioCapture (382)
+[2020.01.27-22.41.38:914][131]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (380)
+[2020.01.27-22.41.38:914][131]LogModuleManager: Shutting down and abandoning module AndroidPermission (378)
+[2020.01.27-22.41.38:914][131]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (376)
+[2020.01.27-22.41.38:914][131]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (374)
+[2020.01.27-22.41.38:914][131]LogModuleManager: Shutting down and abandoning module MediaCompositing (372)
+[2020.01.27-22.41.38:914][131]LogModuleManager: Shutting down and abandoning module LinearTimecode (370)
+[2020.01.27-22.41.38:914][131]LogModuleManager: Shutting down and abandoning module ImgMedia (368)
+[2020.01.27-22.41.38:914][131]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (366)
+[2020.01.27-22.41.38:914][131]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (364)
+[2020.01.27-22.41.38:914][131]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (362)
+[2020.01.27-22.41.38:914][131]LogModuleManager: Shutting down and abandoning module HTML5Networking (360)
+[2020.01.27-22.41.38:914][131]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (358)
+[2020.01.27-22.41.38:914][131]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (356)
+[2020.01.27-22.41.38:914][131]LogModuleManager: Shutting down and abandoning module BackChannel (354)
+[2020.01.27-22.41.38:914][131]LogModuleManager: Shutting down and abandoning module AppleVision (352)
+[2020.01.27-22.41.38:914][131]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (350)
+[2020.01.27-22.41.38:914][131]LogModuleManager: Shutting down and abandoning module AppleImageUtils (348)
+[2020.01.27-22.41.38:914][131]LogModuleManager: Shutting down and abandoning module AlembicImporter (346)
+[2020.01.27-22.41.38:914][131]LogModuleManager: Shutting down and abandoning module AlembicLibrary (345)
+[2020.01.27-22.41.38:914][131]LogModuleManager: Shutting down and abandoning module GeometryCache (344)
+[2020.01.27-22.41.38:914][131]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (343)
+[2020.01.27-22.41.38:914][131]LogModuleManager: Shutting down and abandoning module VariantManagerContent (338)
+[2020.01.27-22.41.38:915][131]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (336)
+[2020.01.27-22.41.38:915][131]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (334)
+[2020.01.27-22.41.38:915][131]LogModuleManager: Shutting down and abandoning module PluginBrowser (332)
+[2020.01.27-22.41.38:915][131]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (330)
+[2020.01.27-22.41.38:915][131]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (328)
+[2020.01.27-22.41.38:915][131]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (326)
+[2020.01.27-22.41.38:915][131]LogModuleManager: Shutting down and abandoning module CryptoKeys (324)
+[2020.01.27-22.41.38:915][131]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (322)
+[2020.01.27-22.41.38:915][131]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (320)
+[2020.01.27-22.41.38:915][131]LogModuleManager: Shutting down and abandoning module UObjectPlugin (318)
+[2020.01.27-22.41.38:915][131]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (316)
+[2020.01.27-22.41.38:915][131]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (314)
+[2020.01.27-22.41.38:915][131]LogModuleManager: Shutting down and abandoning module GitSourceControl (312)
+[2020.01.27-22.41.38:915][131]LogModuleManager: Shutting down and abandoning module SourceControl (311)
+[2020.01.27-22.41.38:915][131]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (308)
+[2020.01.27-22.41.38:915][131]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (306)
+[2020.01.27-22.41.38:915][131]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (304)
+[2020.01.27-22.41.38:915][131]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (302)
+[2020.01.27-22.41.38:915][131]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (300)
+[2020.01.27-22.41.38:915][131]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (298)
+[2020.01.27-22.41.38:915][131]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (296)
+[2020.01.27-22.41.38:915][131]LogModuleManager: Shutting down and abandoning module Paper2DEditor (294)
+[2020.01.27-22.41.38:915][131]LogModuleManager: Shutting down and abandoning module SignificanceManager (292)
+[2020.01.27-22.41.38:915][131]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (290)
+[2020.01.27-22.41.38:915][131]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (288)
+[2020.01.27-22.41.38:915][131]LogModuleManager: Shutting down and abandoning module PhysXVehicles (286)
+[2020.01.27-22.41.38:915][131]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (284)
+[2020.01.27-22.41.38:915][131]LogModuleManager: Shutting down and abandoning module ActorSequence (282)
+[2020.01.27-22.41.38:915][131]LogModuleManager: Shutting down and abandoning module UdpMessaging (280)
+[2020.01.27-22.41.39:016][131]LogModuleManager: Shutting down and abandoning module TcpMessaging (278)
+[2020.01.27-22.41.39:117][131]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (276)
+[2020.01.27-22.41.39:117][131]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (274)
+[2020.01.27-22.41.39:117][131]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (272)
+[2020.01.27-22.41.39:117][131]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (270)
+[2020.01.27-22.41.39:117][131]LogModuleManager: Shutting down and abandoning module MagicLeapController (268)
+[2020.01.27-22.41.39:117][131]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2020.01.27-22.41.39:117][131]LogModuleManager: Shutting down and abandoning module MagicLeapAR (266)
+[2020.01.27-22.41.39:117][131]LogModuleManager: Shutting down and abandoning module AugmentedReality (265)
+[2020.01.27-22.41.39:117][131]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (262)
+[2020.01.27-22.41.39:117][131]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (260)
+[2020.01.27-22.41.39:117][131]LogModuleManager: Shutting down and abandoning module FacialAnimation (258)
+[2020.01.27-22.41.39:117][131]LogModuleManager: Shutting down and abandoning module DataValidation (256)
+[2020.01.27-22.41.39:117][131]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (254)
+[2020.01.27-22.41.39:117][131]LogModuleManager: Shutting down and abandoning module LevelEditor (253)
+[2020.01.27-22.41.39:118][131]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (252)
+[2020.01.27-22.41.39:118][131]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (250)
+[2020.01.27-22.41.39:118][131]LogModuleManager: Shutting down and abandoning module MainFrame (248)
+[2020.01.27-22.41.39:118][131]LogModuleManager: Shutting down and abandoning module HotReload (247)
+[2020.01.27-22.41.39:118][131]LogModuleManager: Shutting down and abandoning module ContentBrowser (243)
+[2020.01.27-22.41.39:119][131]LogModuleManager: Shutting down and abandoning module TreeMap (241)
+[2020.01.27-22.41.39:119][131]LogModuleManager: Shutting down and abandoning module AnimationSharing (238)
+[2020.01.27-22.41.39:119][131]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (236)
+[2020.01.27-22.41.39:119][131]LogModuleManager: Shutting down and abandoning module AISupportModule (234)
+[2020.01.27-22.41.39:119][131]LogModuleManager: Shutting down and abandoning module Paper2D (232)
+[2020.01.27-22.41.39:119][131]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (230)
+[2020.01.27-22.41.39:119][131]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (228)
+[2020.01.27-22.41.39:119][131]LogModuleManager: Shutting down and abandoning module PacketHandler (226)
+[2020.01.27-22.41.39:119][131]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (224)
+[2020.01.27-22.41.39:119][131]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (222)
+[2020.01.27-22.41.39:119][131]LogModuleManager: Shutting down and abandoning module MediaAssets (220)
+[2020.01.27-22.41.39:119][131]LogModuleManager: Shutting down and abandoning module Overlay (218)
+[2020.01.27-22.41.39:119][131]LogModuleManager: Shutting down and abandoning module OverlayEditor (217)
+[2020.01.27-22.41.39:119][131]LogModuleManager: Shutting down and abandoning module VREditor (214)
+[2020.01.27-22.41.39:119][131]LogModuleManager: Shutting down and abandoning module StringTableEditor (212)
+[2020.01.27-22.41.39:119][131]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (210)
+[2020.01.27-22.41.39:119][131]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (208)
+[2020.01.27-22.41.39:119][131]LogModuleManager: Shutting down and abandoning module FunctionalTesting (206)
+[2020.01.27-22.41.39:119][131]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (204)
+[2020.01.27-22.41.39:119][131]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (203)
+[2020.01.27-22.41.39:119][131]LogModuleManager: Shutting down and abandoning module UMG (200)
+[2020.01.27-22.41.39:119][131]LogModuleManager: Shutting down and abandoning module UMGEditor (199)
+[2020.01.27-22.41.39:119][131]LogModuleManager: Shutting down and abandoning module Sequencer (198)
+[2020.01.27-22.41.39:119][131]LogModuleManager: Shutting down and abandoning module MessageLog (195)
+[2020.01.27-22.41.39:119][131]LogModuleManager: Shutting down and abandoning module SlateReflector (190)
+[2020.01.27-22.41.39:119][131]LogModuleManager: Shutting down and abandoning module Slate (188)
+[2020.01.27-22.41.39:119][131]LogModuleManager: Shutting down and abandoning module EditorStyle (186)
+[2020.01.27-22.41.39:120][131]LogModuleManager: Shutting down and abandoning module UnrealEd (184)
+[2020.01.27-22.41.39:120][131]LogModuleManager: Shutting down and abandoning module MRMesh (182)
+[2020.01.27-22.41.39:120][131]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (180)
+[2020.01.27-22.41.39:120][131]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (178)
+[2020.01.27-22.41.39:120][131]LogModuleManager: Shutting down and abandoning module XAudio2 (176)
+[2020.01.27-22.41.39:120][131]LogModuleManager: Shutting down and abandoning module Networking (174)
+[2020.01.27-22.41.39:120][131]LogModuleManager: Shutting down and abandoning module Core (172)
+[2020.01.27-22.41.39:120][131]LogModuleManager: Shutting down and abandoning module KismetCompiler (170)
+[2020.01.27-22.41.39:120][131]LogModuleManager: Shutting down and abandoning module MeshUtilities (168)
+[2020.01.27-22.41.39:120][131]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (167)
+[2020.01.27-22.41.39:121][131]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (166)
+[2020.01.27-22.41.39:121][131]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (165)
+[2020.01.27-22.41.39:121][131]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (163)
+[2020.01.27-22.41.39:121][131]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (161)
+[2020.01.27-22.41.39:121][131]LogModuleManager: Shutting down and abandoning module MaterialBaking (157)
+[2020.01.27-22.41.39:121][131]LogModuleManager: Shutting down and abandoning module DerivedDataCache (152)
+[2020.01.27-22.41.39:222][131]LogDerivedDataCache: Shutdown
+[2020.01.27-22.41.39:222][131]LogModuleManager: Shutting down and abandoning module XGEController (150)
+[2020.01.27-22.41.39:222][131]LogModuleManager: Shutting down and abandoning module TargetPlatform (148)
+[2020.01.27-22.41.39:222][131]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (147)
+[2020.01.27-22.41.39:222][131]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (145)
+[2020.01.27-22.41.39:222][131]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (143)
+[2020.01.27-22.41.39:222][131]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (141)
+[2020.01.27-22.41.39:222][131]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (139)
+[2020.01.27-22.41.39:222][131]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (137)
+[2020.01.27-22.41.39:222][131]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (135)
+[2020.01.27-22.41.39:222][131]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (133)
+[2020.01.27-22.41.39:222][131]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (131)
+[2020.01.27-22.41.39:223][131]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (129)
+[2020.01.27-22.41.39:223][131]LogModuleManager: Shutting down and abandoning module ImageWrapper (128)
+[2020.01.27-22.41.39:223][131]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (125)
+[2020.01.27-22.41.39:223][131]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (123)
+[2020.01.27-22.41.39:223][131]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (121)
+[2020.01.27-22.41.39:223][131]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (119)
+[2020.01.27-22.41.39:223][131]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (117)
+[2020.01.27-22.41.39:223][131]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (115)
+[2020.01.27-22.41.39:223][131]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (113)
+[2020.01.27-22.41.39:223][131]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (111)
+[2020.01.27-22.41.39:223][131]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (109)
+[2020.01.27-22.41.39:223][131]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (107)
+[2020.01.27-22.41.39:224][131]LogModuleManager: Shutting down and abandoning module Messaging (105)
+[2020.01.27-22.41.39:224][131]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (103)
+[2020.01.27-22.41.39:225][131]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (101)
+[2020.01.27-22.41.39:225][131]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (99)
+[2020.01.27-22.41.39:232][131]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (97)
+[2020.01.27-22.41.39:232][131]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (95)
+[2020.01.27-22.41.39:232][131]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (93)
+[2020.01.27-22.41.39:232][131]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (91)
+[2020.01.27-22.41.39:232][131]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (89)
+[2020.01.27-22.41.39:232][131]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (87)
+[2020.01.27-22.41.39:232][131]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (85)
+[2020.01.27-22.41.39:232][131]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (83)
+[2020.01.27-22.41.39:232][131]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (81)
+[2020.01.27-22.41.39:232][131]LogModuleManager: Shutting down and abandoning module InputCore (78)
+[2020.01.27-22.41.39:232][131]LogModuleManager: Shutting down and abandoning module Settings (76)
+[2020.01.27-22.41.39:232][131]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (74)
+[2020.01.27-22.41.39:232][131]LogModuleManager: Shutting down and abandoning module PhysXCooking (72)
+[2020.01.27-22.41.39:232][131]LogModuleManager: Shutting down and abandoning module SteamVR (70)
+[2020.01.27-22.41.39:232][131]LogHMD: Freeing OpenVRDLLHandle.
+[2020.01.27-22.41.39:232][131]LogModuleManager: Shutting down and abandoning module OculusHMD (68)
+[2020.01.27-22.41.39:232][131]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (66)
+[2020.01.27-22.41.39:232][131]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (64)
+[2020.01.27-22.41.39:232][131]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (62)
+[2020.01.27-22.41.39:232][131]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (58)
+[2020.01.27-22.41.39:233][131]LogModuleManager: Shutting down and abandoning module XMPP (53)
+[2020.01.27-22.41.39:233][131]LogModuleManager: Shutting down and abandoning module WebSockets (52)
+[2020.01.27-22.41.39:265][131]LogModuleManager: Shutting down and abandoning module HTTP (49)
+[2020.01.27-22.41.39:265][131]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2020.01.27-22.41.39:265][131]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BF959121C-40CB-A6DE-8A51-7F8251361444%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.3-7053642%2B%2B%2BUE4%2BRelease-4.22&UserID=3e685bdd4ecbcdcb49073885733d9bb3%7C1564fcc0ae2c49579ac14154f6d101a7%7Cfa2de9d3-982b-4a94-a2cb-35e415c15107&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2020.01.27-22.41.39:299][131]LogModuleManager: Shutting down and abandoning module SSL (48)
+[2020.01.27-22.41.39:300][131]LogModuleManager: Shutting down and abandoning module WmfMedia (44)
+[2020.01.27-22.41.39:301][131]LogModuleManager: Shutting down and abandoning module MagicLeap (42)
+[2020.01.27-22.41.39:301][131]LogModuleManager: Shutting down and abandoning module DatasmithContent (40)
+[2020.01.27-22.41.39:301][131]LogModuleManager: Shutting down and abandoning module AnimationModifiers (38)
+[2020.01.27-22.41.39:301][131]LogModuleManager: Shutting down and abandoning module PropertyEditor (37)
+[2020.01.27-22.41.39:301][131]LogModuleManager: Shutting down and abandoning module AudioEditor (34)
+[2020.01.27-22.41.39:301][131]LogModuleManager: Shutting down and abandoning module TextureCompressor (32)
+[2020.01.27-22.41.39:301][131]LogModuleManager: Shutting down and abandoning module RenderCore (30)
+[2020.01.27-22.41.39:301][131]LogModuleManager: Shutting down and abandoning module Landscape (28)
+[2020.01.27-22.41.39:301][131]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (26)
+[2020.01.27-22.41.39:302][131]LogModuleManager: Shutting down and abandoning module OpenGLDrv (24)
+[2020.01.27-22.41.39:302][131]LogModuleManager: Shutting down and abandoning module D3D11RHI (22)
+[2020.01.27-22.41.39:302][131]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2020.01.27-22.41.39:302][131]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2020.01.27-22.41.39:302][131]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2020.01.27-22.41.39:302][131]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2020.01.27-22.41.39:302][131]LogModuleManager: Shutting down and abandoning module NetworkFile (12)
+[2020.01.27-22.41.39:302][131]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
+[2020.01.27-22.41.39:302][131]LogModuleManager: Shutting down and abandoning module StreamingFile (8)
+[2020.01.27-22.41.39:302][131]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2020.01.27-22.41.39:302][131]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2020.01.27-22.41.39:302][131]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2020.01.27-22.41.39:308][131]LogExit: Exiting.
+[2020.01.27-22.41.39:336][131]Log file closed, 01/27/20 23:41:39
